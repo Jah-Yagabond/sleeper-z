@@ -1,0 +1,21 @@
+{
+  "id": "onepiece-u4-q13",
+  "current_prompt": "Which former Whitebeard Pirates commander arrives in Wano to protect the alliance?",
+  "answerIndex": 1,
+  "corrected_source": {
+    "episode": 988,
+    "episodeTitle": "Reinforcements Arrive! The Commander of the Whitebeard Pirates!",
+    "arc": "Wano Country Arc",
+    "url": "https://www.crunchyroll.com/watch/GQJUGEJ11/reinforcements-arrive-the-commander-of-the-whitebeard-pirates",
+    "title": "E988 - Reinforcements Arrive! The Commander of the Whitebeard Pirates!",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://www.crunchyroll.com/watch/GQJUGEJ11/reinforcements-arrive-the-commander-of-the-whitebeard-pirates",
+    "https://onepiece.fandom.com/wiki/Episode_988",
+    "https://one-piece.com/news/68736/index.html",
+    "https://comicbook.com/anime/news/one-piece-anime-988-preview-marco-wano-arrival/"
+  ],
+  "finding": "The answer remains Marco (answerIndex 1). The bank's episode 982 mapping is incorrect: episode 988 is titled \"Reinforcements Arrive! The Commander of the Whitebeard Pirates!\" and depicts Marco arriving in Wano to aid Luffy and the alliance. The official One Piece episode list places episode 988 within the Wano arc.",
+  "status": "verified"
+}

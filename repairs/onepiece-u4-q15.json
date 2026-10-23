@@ -1,0 +1,23 @@
+{
+  "id": "onepiece-u4-q15",
+  "current_prompt": "Which trio of allies remains in Wano after the Straw Hats depart?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 1085,
+    "episodeTitle": "The Last Curtain! Luffy and Momonosuke's Vow",
+    "arc": "Wano",
+    "url": "https://www.crunchyroll.com/watch/G7PU4MJ10/the-last-curtain-luffy-and-momonosukes-vow",
+    "title": "E1085 - The Last Curtain! Luffy and Momonosuke's Vow",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://www.crunchyroll.com/watch/G7PU4MJ10/the-last-curtain-luffy-and-momonosukes-vow",
+    "https://onepiece.fandom.com/wiki/Episode_1085",
+    "https://onepiece.fandom.com/wiki/Episode_1084",
+    "https://onepiece.fandom.com/wiki/Wano_Country_Arc",
+    "https://epguides.com/OnePiece/",
+    "https://www.animenewsnetwork.com/review/one-piece/episode-1085/.204843"
+  ],
+  "finding": "Answer preserved: option 0, Yamato, Momonosuke, and Kin'emon. Episode 1085 is the correct episode: the trio rushes to the port, says the final goodbyes, and remains in Wano as the Straw Hats depart. The exact title is The Last Curtain! Luffy and Momonosuke's Vow, and the arc is Wano. The bank's episode number was correct, but its generic Episode Guide source lacked the specific episode title; it is replaced here with the specific official Crunchyroll episode page and cross-checked against the detailed episode and arc summaries.",
+  "status": "verified"
+}

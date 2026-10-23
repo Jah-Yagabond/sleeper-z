@@ -1,0 +1,23 @@
+{
+  "id": "onepiece-u5-q14",
+  "current_prompt": "Which Devil Fruit name does the Five Elders say was concealed by the World Government?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 1071,
+    "episodeTitle": "Luffy's Peak - Attained! Gear 5",
+    "arc": "Wano Country Arc (Land of Wano Arc Act 3)",
+    "url": "https://one-piece.com/anime/index.html?page=5&sort=desc&category=",
+    "title": "TV Anime episode listing — ONE PIECE.com",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://one-piece.com/anime/index.html?page=5&sort=desc&category=",
+    "https://one-piece.com/news/68203/index.html",
+    "https://onepiece.fandom.com/wiki/Episode_1071",
+    "https://en.wikipedia.org/wiki/Luffy%27s_Peak_-_Attained!_Fifth_Gear",
+    "https://www.crunchyroll.com/news/guides/2022/11/1/one-piece-arcs-order",
+    "https://www.crunchyroll.com/news/announcements/2024/4/16/one-piece-english-dub-season-14-voyage-15-crunchyroll-gear-five"
+  ],
+  "finding": "The answer is correct: the Five Elders identify the fruit previously called the Gomu Gomu no Mi as the Hito Hito no Mi, Model: Nika in anime episode 1071. The official ONE PIECE.com episode listing gives episode 1071 the title ルフィの最高地点 到達！〝ギア5〟, rendered in English as Luffy's Peak - Attained! Gear 5; the episode is in the Wano Country arc. Independent episode coverage explicitly describes the Elders' concealed-name reveal.",
+  "status": "verified"
+}

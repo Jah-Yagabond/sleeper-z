@@ -1,0 +1,13 @@
+Sleeper-Z source export
+
+Source commit: 9d954bc plus final hero-copy CSS cleanup
+Created from the latest working project tree.
+
+Excluded intentionally:
+- node_modules (recreated with pnpm install --frozen-lockfile)
+- dist (recreated with pnpm build)
+- .git history
+- .manus-logs and Manus starter metadata
+- real .env files and local secret files
+
+The export contains no API keys, passwords, tokens, private credentials, or real environment values.

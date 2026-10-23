@@ -1,0 +1,23 @@
+{
+  "id": "hunter-2011-u5-q12",
+  "answerIndex": 1,
+  "corrected_source": {
+    "episode": "42",
+    "episodeTitle": "Defend × And × Attack",
+    "arc": "Yorknew City arc",
+    "url": "https://hunterxhunter.fandom.com/wiki/Episode_42_(2011)",
+    "title": "Defend × And × Attack (Episode 42, 2011 anime) — Hunterpedia",
+    "status": "verified_secondary"
+  },
+  "evidence_urls": [
+    "https://hunterxhunter.fandom.com/wiki/Episode_42_(2011)",
+    "https://tv.apple.com/nz/episode/defend-x-and-x-attack/umc.cmc.7ehrb3cj5fti3q914ucah30im?showId=umc.cmc.6iubybdmze8hzxhis7q2gzmk3",
+    "https://tv.apple.com/gb/episode/hunter-x-hunter/umc.cmc.7ehrb3cj5fti3q914ucah30im?showId=umc.cmc.6iubybdmze8hzxhis7q2gzmk3",
+    "https://hunterxhunter.fandom.com/wiki/Melody",
+    "https://hunterxhunter.fandom.com/wiki/Sonata_of_Darkness",
+    "https://meepinganime.wordpress.com/2012/08/12/hunter-x-hunter-episode-42/",
+    "https://tubitv.com/tv-shows/319116/s01-e42-defend-and-attack"
+  ],
+  "finding": "The original answer is correct: option 1 says Melody and the friend who played the Sonata were both transformed; Melody was deformed and her friend later died. Episode 42 contains the relevant Yorknew City scene: while Kurapika and Melody guard the auction front entrance, Kurapika asks why she took the job, and Melody explains the Dark Sonata, shows her mutated arm, and says the friend who played it died. The episode page and independent review provide scene-level secondary verification. Apple TV independently confirms episode 42's title and that Melody and Kurapika chat while on guard duty, but does not publish the full backstory; therefore this is verified_secondary, not primary/direct transcript verification.",
+  "status": "verified_secondary"
+}

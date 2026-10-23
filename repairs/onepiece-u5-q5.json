@@ -1,0 +1,24 @@
+{
+  "id": "onepiece-u5-q5",
+  "current_prompt": "What is the name of Blackbeard's ship shown in the anime?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 1115,
+    "episodeTitle": "The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan",
+    "arc": "Egghead Arc",
+    "url": "https://onepiece.fandom.com/wiki/Episode_1115?action=raw",
+    "title": "Episode 1115 – The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan",
+    "status": "verified_as_first_relevant_anime_ship_appearance; name_not_established_by_anime_episode"
+  },
+  "evidence_urls": [
+    "https://onepiece.fandom.com/wiki/Saber_of_Xebec?action=raw",
+    "https://onepiece.fandom.com/wiki/Blackbeard_Pirates?action=raw",
+    "https://onepiece.fandom.com/wiki/Episode_1115?action=raw",
+    "https://onepiece.fandom.com/wiki/Episode_1087",
+    "https://onepiece.fandom.com/wiki/Episode_325?action=raw",
+    "https://onepiece.fandom.com/wiki/Vivre_Card_-_One_Piece_Visual_Dictionary?action=raw",
+    "https://www.crunchyroll.com/watch/GN7UDM28E/the-navy-surprised-the-navy-headquarters-former-admiral-kuzan"
+  ],
+  "finding": "The answer Saber of Xebec is correct (answerIndex 0), but the bank's episode 325/Post-Enies Lobby source is not supported: the Episode 325 synopsis covers Ace versus Blackbeard and does not name or identify the ship. The ship-reference page states that the name was revealed in Vivre Card 0591, not in an anime episode. Anime Episode 1115 (Egghead Arc), titled The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan, is the first relevant verified anime appearance in the evidence set: it shows the Blackbeard Pirates' ships docking, but does not establish the ship's name. Episode 1087 also shows a Blackbeard warship approaching Amazon Lily without naming it. Preserve the answer, but do not claim that any anime episode explicitly establishes the name; cite the Vivre Card reference for the name and Episode 1115 only as the relevant anime appearance.",
+  "status": "verified_answer_source_corrected_episode_name_not_anime_established"
+}

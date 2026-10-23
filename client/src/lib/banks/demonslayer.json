@@ -1,0 +1,1855 @@
+{
+  "id": "demonslayer-question-bank-v1",
+  "series": "Demon Slayer: Kimetsu no Yaiba",
+  "title": "Demon Slayer Canon Question Bank",
+  "adaptationBoundary": "Content officially released through Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 1 (the first Infinity Castle film), released in Japan on 2025-07-18 and in U.S./Canada theaters on 2025-09-12; this bank excludes any unreleased Infinity Castle film content and all manga-only material. Questions themselves draw from the released TV arcs and the released Mugen Train film.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-Casual Foundations",
+      "spoilerLevel": "low",
+      "questionIds": [
+        "demonslayer-u1-q1",
+        "demonslayer-u1-q2",
+        "demonslayer-u1-q3",
+        "demonslayer-u1-q4",
+        "demonslayer-u1-q5",
+        "demonslayer-u1-q6",
+        "demonslayer-u1-q7",
+        "demonslayer-u1-q8",
+        "demonslayer-u1-q9",
+        "demonslayer-u1-q10",
+        "demonslayer-u1-q11",
+        "demonslayer-u1-q12",
+        "demonslayer-u1-q13",
+        "demonslayer-u1-q14",
+        "demonslayer-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated Fan: Mugen Train and Entertainment District",
+      "spoilerLevel": "medium",
+      "questionIds": [
+        "demonslayer-u2-q1",
+        "demonslayer-u2-q2",
+        "demonslayer-u2-q3",
+        "demonslayer-u2-q4",
+        "demonslayer-u2-q5",
+        "demonslayer-u2-q6",
+        "demonslayer-u2-q7",
+        "demonslayer-u2-q8",
+        "demonslayer-u2-q9",
+        "demonslayer-u2-q10",
+        "demonslayer-u2-q11",
+        "demonslayer-u2-q12",
+        "demonslayer-u2-q13",
+        "demonslayer-u2-q14",
+        "demonslayer-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced: Swordsmith Village",
+      "spoilerLevel": "high",
+      "questionIds": [
+        "demonslayer-u3-q1",
+        "demonslayer-u3-q2",
+        "demonslayer-u3-q3",
+        "demonslayer-u3-q4",
+        "demonslayer-u3-q5",
+        "demonslayer-u3-q6",
+        "demonslayer-u3-q7",
+        "demonslayer-u3-q8",
+        "demonslayer-u3-q9",
+        "demonslayer-u3-q10",
+        "demonslayer-u3-q11",
+        "demonslayer-u3-q12",
+        "demonslayer-u3-q13",
+        "demonslayer-u3-q14",
+        "demonslayer-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert: Hashira Training and Cross-Arc Canon",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "demonslayer-u4-q1",
+        "demonslayer-u4-q2",
+        "demonslayer-u4-q3",
+        "demonslayer-u4-q4",
+        "demonslayer-u4-q5",
+        "demonslayer-u4-q6",
+        "demonslayer-u4-q7",
+        "demonslayer-u4-q8",
+        "demonslayer-u4-q9",
+        "demonslayer-u4-q10",
+        "demonslayer-u4-q11",
+        "demonslayer-u4-q12",
+        "demonslayer-u4-q13",
+        "demonslayer-u4-q14",
+        "demonslayer-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore Canon Mastery",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "demonslayer-u5-q1",
+        "demonslayer-u5-q2",
+        "demonslayer-u5-q3",
+        "demonslayer-u5-q4",
+        "demonslayer-u5-q5",
+        "demonslayer-u5-q6",
+        "demonslayer-u5-q7",
+        "demonslayer-u5-q8",
+        "demonslayer-u5-q9",
+        "demonslayer-u5-q10",
+        "demonslayer-u5-q11",
+        "demonslayer-u5-q12",
+        "demonslayer-u5-q13",
+        "demonslayer-u5-q14",
+        "demonslayer-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://demonslayer-anime.com/",
+    "https://demonslayer-anime.com/risshihen/story/",
+    "https://demonslayer-anime.com/mugentrain/",
+    "https://demonslayer-anime.com/eda/story/",
+    "https://demonslayer-anime.com/sva/story/",
+    "https://demonslayer-anime.com/hta/story/",
+    "https://demonslayer-anime.com/infinitycastle/"
+  ],
+  "notes": "Original wording; exactly one factual target per question; answerIndex is zero-based. Sources point to official English anime pages. The release boundary is intentionally wider than the question coverage so the bank does not include unreleased sequel-film material.",
+  "questions": [
+    {
+      "id": "demonslayer-u1-q1",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is Tanjiro Kamado doing when he returns home at the start of the anime?",
+      "options": [
+        "Selling charcoal in town",
+        "Delivering medicine",
+        "Guarding a shrine",
+        "Searching for a lost sword"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro earns money by selling charcoal before finding his family attacked.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E01",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Cruelty",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q2",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which family member survives the attack on the Kamado household but becomes a demon?",
+      "options": [
+        "Kie",
+        "Nezuko",
+        "Takeo",
+        "Hanako"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nezuko survives, but Muzan’s blood transforms her into a demon.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E01",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Cruelty",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q3",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who becomes Tanjiro’s first formal swordsmanship and breathing trainer?",
+      "options": [
+        "Sakonji Urokodaki",
+        "Jigoro Kuwajima",
+        "Kagaya Ubuyashiki",
+        "Shinjuro Rengoku"
+      ],
+      "answerIndex": 0,
+      "explanation": "The former Water Hashira Sakonji Urokodaki trains Tanjiro at Mt. Sagiri.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E02",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Trainer Sakonji Urokodaki",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q4",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Where does Final Selection take place?",
+      "options": [
+        "Mount Fujikasane",
+        "Mount Natagumo",
+        "Swordsmith Village",
+        "Infinity Castle"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Demon Slayer Corps holds Final Selection on Mount Fujikasane.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E04",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Final Selection",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q5",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which breathing style does Tanjiro first use as his regular sword style?",
+      "options": [
+        "Water Breathing",
+        "Flame Breathing",
+        "Sound Breathing",
+        "Mist Breathing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Urokodaki teaches Tanjiro Water Breathing, which he first uses in combat.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E04",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Final Selection",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q6",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "In which city does Tanjiro first encounter Muzan in public?",
+      "options": [
+        "Asakusa",
+        "Yoshiwara",
+        "Kyoto",
+        "Yokohama"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro recognizes Muzan in Asakusa during the season-one urban encounter.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E07",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Muzan Kibutsuji",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q7",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is Tamayo’s profession among humans?",
+      "options": [
+        "Doctor",
+        "Blacksmith",
+        "Train conductor",
+        "Police officer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tamayo operates as a doctor while seeking a way to help turn demons human.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E09",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Temari Demon and Arrow Demon",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q8",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the main supernatural feature of Yushiro’s Blood Demon Art?",
+      "options": [
+        "It hides or reveals objects and people",
+        "It creates explosive fire",
+        "It controls wooden dragons",
+        "It freezes time"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yushiro’s talismans enable visual concealment and revelation.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E09",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Temari Demon and Arrow Demon",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q9",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What object gives Kyogai’s mansion its shifting-room effect?",
+      "options": [
+        "Drums on Kyogai’s body",
+        "A magic compass",
+        "A blood-red bell",
+        "A set of paper seals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kyogai rotates rooms by striking the drums embedded in his body.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E11",
+        "arc": "Tsuzumi Mansion / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Tsuzumi Mansion",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q10",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What animal’s head does Inosuke Hashibira wear as a mask?",
+      "options": [
+        "Boar",
+        "Wolf",
+        "Bear",
+        "Fox"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inosuke’s distinctive mask is made from a boar’s head.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E12",
+        "arc": "Tsuzumi Mansion / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q11",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the Kamado siblings’ surname?",
+      "options": [
+        "Kamado",
+        "Agatsuma",
+        "Hashibira",
+        "Tomioka"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro and Nezuko are the Kamado siblings.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E01",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Cruelty",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q12",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the principal threat on Mount Natagumo?",
+      "options": [
+        "A spider demon family",
+        "A flock of crow demons",
+        "A group of stone golems",
+        "A clan of swordsmiths"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Natagumo mission centers on spider-themed demons and their forced family.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E15",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Mount Natagumo",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q13",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which rank does Rui hold among the Twelve Kizuki?",
+      "options": [
+        "Lower Rank Five",
+        "Upper Rank Six",
+        "Lower Rank One",
+        "Upper Rank Four"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rui is Lower Rank Five of the Twelve Kizuki.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E20",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Pretend Family",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q14",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does the Demon Slayer Corps call its elite swordsmen?",
+      "options": [
+        "Hashira",
+        "Kakushi",
+        "Tsuguko",
+        "Kasugai"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Corps’ highest-ranking swordsmen are the Hashira.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E23",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hashira Meeting",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u1-q15",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who summons Tanjiro to the Hashira meeting?",
+      "options": [
+        "Kagaya Ubuyashiki",
+        "Muzan Kibutsuji",
+        "Sakonji Urokodaki",
+        "Tamayo"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Corps leader, Kagaya Ubuyashiki, presides over the Hashira meeting.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "S1E23",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hashira Meeting",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q1",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which Hashira leads the Demon Slayer mission aboard the Mugen Train?",
+      "options": [
+        "Kyojuro Rengoku",
+        "Tengen Uzui",
+        "Giyu Tomioka",
+        "Shinobu Kocho"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kyojuro Rengoku is the Flame Hashira assigned to the Mugen Train mission.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q2",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What rank is Enmu when he attacks the Mugen Train?",
+      "options": [
+        "Lower Rank One",
+        "Upper Rank Six",
+        "Lower Rank Five",
+        "Upper Rank Three"
+      ],
+      "answerIndex": 0,
+      "explanation": "Enmu is Lower Rank One of the Twelve Kizuki.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q3",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which Upper Rank arrives after Rengoku’s battle on the train?",
+      "options": [
+        "Akaza",
+        "Gyokko",
+        "Doma",
+        "Hantengu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Akaza, Upper Rank Three, appears after the train battle.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q4",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Whose dream does Tanjiro enter while Enmu’s spell is active?",
+      "options": [
+        "His own ideal family life",
+        "Muzan’s childhood",
+        "Rengoku’s childhood",
+        "Tengen’s wedding"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro is drawn into a dream of returning to his family before the tragedy.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q5",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What is the name of Rengoku’s signature ninth Flame Breathing form?",
+      "options": [
+        "Rengoku",
+        "Dead Calm",
+        "Constant Flux",
+        "Misty Rain"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rengoku uses the ninth form, named Rengoku, in his final battle.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q6",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which Hashira is assigned to investigate disappearances in the Entertainment District?",
+      "options": [
+        "Tengen Uzui",
+        "Mitsuri Kanroji",
+        "Muichiro Tokito",
+        "Gyomei Himejima"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Sound Hashira Tengen Uzui leads the Entertainment District mission.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA1",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Sound Hashira Tengen Uzui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q7",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What was Tengen Uzui’s former occupation?",
+      "options": [
+        "Shinobi",
+        "Swordsmith",
+        "Physician",
+        "Messenger crow keeper"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tengen was raised as a shinobi before joining the Demon Slayer Corps.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA1",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Sound Hashira Tengen Uzui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q8",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which set lists Tengen’s three wives?",
+      "options": [
+        "Suma, Makio, Hinatsuru",
+        "Aoi, Kanao, Suma",
+        "Makio, Mitsuri, Hinatsuru",
+        "Kie, Suma, Makio"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tengen’s wives are Suma, Makio, and Hinatsuru.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA1",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Sound Hashira Tengen Uzui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q9",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Under what occupation does Tanjiro infiltrate the district?",
+      "options": [
+        "A male attendant at a house",
+        "A police detective",
+        "A swordsmith apprentice",
+        "A theater musician"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro is sold into service as an attendant while investigating.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA2",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Infiltrating the Entertainment District",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q10",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which demon is publicly posing as the oiran Warabihime?",
+      "options": [
+        "Daki",
+        "Gyutaro",
+        "Susamaru",
+        "Nakime"
+      ],
+      "answerIndex": 0,
+      "explanation": "Daki uses the identity of the oiran Warabihime.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA3",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "What Are You?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q11",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What is the relationship between Daki and Gyutaro?",
+      "options": [
+        "They are siblings",
+        "They are former spouses",
+        "They are teacher and student",
+        "They are unrelated demons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Daki and Gyutaro are brother and sister who share Upper Rank Six.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA10",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Never Give Up",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q12",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What weapon does Gyutaro primarily use?",
+      "options": [
+        "Poisoned sickles",
+        "A chain axe",
+        "Exploding kunai",
+        "A wooden staff"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gyutaro fights with paired blood sickles coated with deadly poison.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA6",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Layered Memories",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q13",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What Blood Demon Art does Nezuko use against Daki?",
+      "options": [
+        "Exploding Blood",
+        "Dream manipulation",
+        "Wooden dragon creation",
+        "Compass needle"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nezuko’s Exploding Blood ignites demon blood without harming humans.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA6",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Layered Memories",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q14",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What injury permanently prevents Tengen from returning to active Hashira combat?",
+      "options": [
+        "Loss of his left arm and left eye",
+        "A broken right leg",
+        "Loss of hearing in both ears",
+        "A burned face"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tengen loses an arm and an eye in the Upper Six battle and retires.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA11",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "No Matter How Many Lives",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u2-q15",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What does Tengen call his combat aesthetic?",
+      "options": [
+        "Flashiness",
+        "Stillness",
+        "Silence",
+        "Purity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tengen repeatedly frames his style and ideals around being flashy.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "EDA5",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Things Are Gonna Get Real Flashy!",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q1",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Upper Rank attacks the Swordsmith Village alongside Gyokko?",
+      "options": [
+        "Hantengu",
+        "Akaza",
+        "Doma",
+        "Kokushibo"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hantengu, Upper Rank Four, is one of the two Upper Ranks sent to the village.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA1",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Someone's Dream",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q2",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Upper Rank is Gyokko?",
+      "options": [
+        "Upper Rank Five",
+        "Upper Rank Four",
+        "Upper Rank Six",
+        "Lower Rank One"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gyokko holds Upper Rank Five.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA1",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Someone's Dream",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q3",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "How many arms does the Yoriichi Type Zero training doll have?",
+      "options": [
+        "Six",
+        "Four",
+        "Eight",
+        "Two"
+      ],
+      "answerIndex": 0,
+      "explanation": "The doll is built with six arms to reproduce Yoriichi’s sword movements.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA2",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Yoriichi Type Zero",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q4",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Kotetsu’s role in the Swordsmith Village story?",
+      "options": [
+        "He maintains the Yoriichi Type Zero doll",
+        "He leads the village guard",
+        "He forges Tanjiro’s first sword",
+        "He is the village chief"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kotetsu is the child connected to the training doll and helps maintain it.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA2",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Yoriichi Type Zero",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q5",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which weapon does Genya use in addition to a sword?",
+      "options": [
+        "A firearm",
+        "A chain whip",
+        "A bow",
+        "A spear"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genya fights with a gun as well as a Nichirin sword.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA3",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "A Sword from Over 300 Years Ago",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q6",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Hashira is the Mist Hashira?",
+      "options": [
+        "Muichiro Tokito",
+        "Mitsuri Kanroji",
+        "Obanai Iguro",
+        "Shinobu Kocho"
+      ],
+      "answerIndex": 0,
+      "explanation": "Muichiro Tokito is the Mist Hashira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA4",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Thank You, Tokito",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q7",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Hashira is the Love Hashira?",
+      "options": [
+        "Mitsuri Kanroji",
+        "Kanao Tsuyuri",
+        "Makio",
+        "Kanae Kocho"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mitsuri Kanroji is the Love Hashira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA5",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Bright Red Sword",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q8",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Zohakuten’s emotional source among Hantengu’s manifestations?",
+      "options": [
+        "Hatred",
+        "Joy",
+        "Sorrow",
+        "Pleasure"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zohakuten is the hatred manifestation that combines the other emotion demons’ power.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q9",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which named manifestation represents joy?",
+      "options": [
+        "Urogi",
+        "Sekido",
+        "Aizetsu",
+        "Karaku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Urogi represents joy among Hantengu’s emotion manifestations.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q10",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which named manifestation represents anger?",
+      "options": [
+        "Sekido",
+        "Urogi",
+        "Karaku",
+        "Aizetsu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sekido represents anger.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q11",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What happens to Muichiro’s memories during the Swordsmith Village conflict?",
+      "options": [
+        "They return",
+        "They are erased permanently",
+        "They are transferred to Kotetsu",
+        "They become dreams for Tanjiro"
+      ],
+      "answerIndex": 0,
+      "explanation": "Muichiro regains key memories of his past as the battle progresses.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA8",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "The Mu in Muichiro",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q12",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which breathing style does Mitsuri use?",
+      "options": [
+        "Love Breathing",
+        "Sound Breathing",
+        "Serpent Breathing",
+        "Flower Breathing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mitsuri developed and uses Love Breathing.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA10",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Love Hashira Mitsuri Kanroji",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q13",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What distinctive physical change does Mitsuri reveal in her backstory?",
+      "options": [
+        "Her hair became pink and green",
+        "Her eyes became silver",
+        "Her skin became patterned",
+        "Her height doubled"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mitsuri’s hair changed color after her unusual diet of sakura mochi.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA10",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Love Hashira Mitsuri Kanroji",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q14",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which demon becomes able to withstand sunlight by the end of the Swordsmith Village arc?",
+      "options": [
+        "Nezuko",
+        "Daki",
+        "Tamayo",
+        "Susamaru"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nezuko conquers sunlight at the arc’s climax.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA11",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "A Connected Bond: Daybreak and First Light",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u3-q15",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the name of Tanjiro’s sword-related discovery in the village?",
+      "options": [
+        "A sword more than 300 years old",
+        "A sword forged by Muzan",
+        "A sword made of blue crystal",
+        "A sword belonging to Rengoku"
+      ],
+      "answerIndex": 0,
+      "explanation": "The village contains a sword said to be over 300 years old.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "SVA3",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "A Sword from Over 300 Years Ago",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q1",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which former Hashira initially refuses to participate in Hashira Training?",
+      "options": [
+        "Giyu Tomioka",
+        "Tengen Uzui",
+        "Shinjuro Rengoku",
+        "Sakonji Urokodaki"
+      ],
+      "answerIndex": 0,
+      "explanation": "Giyu initially separates himself from the Hashira Training program.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA2",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "Water Hashira Giyu Tomioka’s Pain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q2",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who explains to Tanjiro why he feels unable to call himself a Hashira?",
+      "options": [
+        "Giyu Tomioka",
+        "Sanemi Shinazugawa",
+        "Gyomei Himejima",
+        "Mitsuri Kanroji"
+      ],
+      "answerIndex": 0,
+      "explanation": "Giyu shares his guilt and history with Tanjiro in the second episode.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA2",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "Water Hashira Giyu Tomioka’s Pain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q3",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which former Hashira runs the first major endurance stage Tanjiro visits?",
+      "options": [
+        "Tengen Uzui",
+        "Kyojuro Rengoku",
+        "Shinobu Kocho",
+        "Muichiro Tokito"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tengen’s retired compound hosts the early stamina-focused training stage.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA3",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "Fully Recovered Tanjiro Joins the Hashira Training",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q4",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Corps member explicitly says he has eaten demons?",
+      "options": [
+        "Genya Shinazugawa",
+        "Zenitsu Agatsuma",
+        "Murata",
+        "Kanao Tsuyuri"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genya’s unusual ability to gain power by eating demons is discussed during training.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA5",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "I Even Ate Demons",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q5",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is the Stone Hashira?",
+      "options": [
+        "Gyomei Himejima",
+        "Sanemi Shinazugawa",
+        "Obanai Iguro",
+        "Kyojuro Rengoku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gyomei Himejima is the Stone Hashira.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA7",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "Stone Hashira Gyomei Himejima",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q6",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Gyomei make trainees move during his strength training?",
+      "options": [
+        "A large rock",
+        "A train carriage",
+        "A bell tower",
+        "A water wheel"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gyomei’s stage requires trainees to push an enormous rock.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA7",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "Stone Hashira Gyomei Himejima",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q7",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which two Hashira are shown patrolling together at the beginning of Hashira Training?",
+      "options": [
+        "Sanemi and Obanai",
+        "Mitsuri and Shinobu",
+        "Muichiro and Gyomei",
+        "Giyu and Tengen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sanemi Shinazugawa and Obanai Iguro conduct a joint patrol in the opening episode.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA1",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "To Defeat Muzan Kibutsuji",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q8",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is the Demon Slayer Corps leader who confronts Muzan at the mansion?",
+      "options": [
+        "Kagaya Ubuyashiki",
+        "Kiriya Ubuyashiki",
+        "Kanao Tsuyuri",
+        "Tamayo"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kagaya meets Muzan at the Ubuyashiki mansion.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA8",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "The Hashira Unite",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q9",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Kagaya’s confrontation with Muzan trigger?",
+      "options": [
+        "The Ubuyashiki mansion explodes",
+        "The Swordsmith Village moves",
+        "The Hashira surrender",
+        "The sun rises immediately"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kagaya’s trap detonates the mansion in the final episode.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA8",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "The Hashira Unite",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q10",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Hashira is the author of the eleventh Water Breathing form Dead Calm?",
+      "options": [
+        "Giyu Tomioka",
+        "Tanjiro Kamado",
+        "Sakonji Urokodaki",
+        "Kyojuro Rengoku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Giyu created the additional Water Breathing form Dead Calm.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E20",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Pretend Family",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q11",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the name of Kanao’s decision-making method before Tanjiro helps her change?",
+      "options": [
+        "Flipping a coin",
+        "Drawing a numbered tile",
+        "Following a crow",
+        "Rolling a die"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kanao relies on a coin flip to make personal decisions.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E25",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Tsuguko, Kanao Tsuyuri",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q12",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Whose fox mask is marked with a scar-like design and worn during training?",
+      "options": [
+        "Sabito’s",
+        "Giyu’s",
+        "Rui’s",
+        "Murata’s"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sabito wears a fox mask bearing the mark associated with Urokodaki’s students.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E03",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Sabito and Makomo",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q13",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the relationship between Genya and Sanemi?",
+      "options": [
+        "They are brothers",
+        "They are cousins",
+        "They are former masters",
+        "They are unrelated Hashira"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genya is Sanemi’s younger brother.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "SVA8",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "The Mu in Muichiro",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q14",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which demon’s death prompts Muzan to summon the Lower Ranks?",
+      "options": [
+        "Rui",
+        "Kyogai",
+        "Enmu",
+        "Daki"
+      ],
+      "answerIndex": 0,
+      "explanation": "After Rui’s defeat, Muzan gathers the remaining Lower Ranks.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E26",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "New Mission",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u4-q15",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Shinobu use as the active poison in her anti-demon fighting method?",
+      "options": [
+        "Wisteria poison",
+        "Hemlock poison",
+        "Nightshade poison",
+        "Lotus poison"
+      ],
+      "answerIndex": 0,
+      "explanation": "Shinobu’s sword and tactics deliver wisteria-based poison to demons.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E23",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hashira Meeting",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q1",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the name of the dance Tanjiro remembers from his father and later uses in combat?",
+      "options": [
+        "Hinokami Kagura",
+        "Dance of the Fire God",
+        "Flame Breathing: First Form",
+        "Sun Halo Dance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro’s father’s ceremonial dance is Hinokami Kagura, later used as a combat style.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E19",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hinokami",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q2",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does Nezuko’s Exploding Blood specifically avoid harming?",
+      "options": [
+        "Humans",
+        "Demons",
+        "Nichirin blades",
+        "Wisteria flowers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nezuko’s flames burn demon blood and demon techniques without injuring humans.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E19",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hinokami",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q3",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which demon art does Yahaba use in the Asakusa battle?",
+      "options": [
+        "Arrow",
+        "Temari",
+        "Dream",
+        "Thread"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yahaba’s Blood Demon Art creates directional arrows that control movement.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E09",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Temari Demon and Arrow Demon",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q4",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which demon art does Susamaru use in that same battle?",
+      "options": [
+        "Temari balls",
+        "Wooden dragons",
+        "A biwa",
+        "Poison needles"
+      ],
+      "answerIndex": 0,
+      "explanation": "Susamaru attacks with her powerful temari balls.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E09",
+        "arc": "Final Selection / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Temari Demon and Arrow Demon",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q5",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which Lower Rank does Muzan spare and empower after the other Lower Ranks are killed?",
+      "options": [
+        "Enmu",
+        "Rui",
+        "Kyogai",
+        "Daki"
+      ],
+      "answerIndex": 0,
+      "explanation": "Muzan spares Enmu and grants him more of his blood after killing the other Lower Ranks.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E26",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "New Mission",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q6",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which emotional manifestation uses a staff-like weapon and lightning attacks?",
+      "options": [
+        "Sekido",
+        "Urogi",
+        "Karaku",
+        "Aizetsu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sekido, the anger manifestation, wields a khakkhara-like staff and produces lightning.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q7",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which emotional manifestation produces wind by using a fan?",
+      "options": [
+        "Karaku",
+        "Urogi",
+        "Sekido",
+        "Zohakuten"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karaku, the pleasure manifestation, uses a fan to create powerful gusts.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q8",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which emotional manifestation has wings and uses sonic attacks?",
+      "options": [
+        "Urogi",
+        "Aizetsu",
+        "Karaku",
+        "Sekido"
+      ],
+      "answerIndex": 0,
+      "explanation": "Urogi, the joy manifestation, has wings and attacks with sound.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q9",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which emotional manifestation fights with a spear?",
+      "options": [
+        "Aizetsu",
+        "Sekido",
+        "Urogi",
+        "Karaku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aizetsu, the sorrow manifestation, carries a spear.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "SVA7",
+        "arc": "Swordsmith Village",
+        "url": "https://demonslayer-anime.com/sva/story/",
+        "title": "Awful Villain",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q10",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What title is held by the demon who plays the biwa and controls the Infinity Castle?",
+      "options": [
+        "Upper Rank Four",
+        "Lower Rank One",
+        "Upper Rank Six",
+        "Lower Rank Five"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nakime becomes Upper Rank Four and controls the Infinity Castle with her biwa.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "HTA8",
+        "arc": "Hashira Training",
+        "url": "https://demonslayer-anime.com/hta/story/",
+        "title": "The Hashira Unite",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q11",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which former Flame Hashira is Rengoku’s father?",
+      "options": [
+        "Shinjuro Rengoku",
+        "Senjuro Rengoku",
+        "Sakonji Urokodaki",
+        "Jigoro Kuwajima"
+      ],
+      "answerIndex": 0,
+      "explanation": "Shinjuro is the retired Flame Hashira and Kyojuro’s father.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q12",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the name of Rengoku’s younger brother?",
+      "options": [
+        "Senjuro",
+        "Sabito",
+        "Kotetsu",
+        "Yushiro"
+      ],
+      "answerIndex": 0,
+      "explanation": "Senjuro Rengoku is Kyojuro’s younger brother.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "Mugen Film",
+        "arc": "Mugen Train",
+        "url": "https://demonslayer-anime.com/mugentrain/",
+        "title": "Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q13",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What rank do Daki and Gyutaro jointly occupy?",
+      "options": [
+        "Upper Rank Six",
+        "Upper Rank Four",
+        "Lower Rank One",
+        "Upper Rank Three"
+      ],
+      "answerIndex": 0,
+      "explanation": "The siblings share the position Upper Rank Six.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "EDA10",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "Never Give Up",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q14",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the key condition for defeating both Daki and Gyutaro?",
+      "options": [
+        "Both heads must be decapitated at nearly the same time",
+        "Only Gyutaro must be burned",
+        "Daki must be purified first",
+        "A Hashira must destroy the obi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Their shared rank and life force require both siblings to be beheaded together.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "EDA11",
+        "arc": "Entertainment District",
+        "url": "https://demonslayer-anime.com/eda/story/",
+        "title": "No Matter How Many Lives",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "demonslayer-u5-q15",
+      "series": "Demon Slayer: Kimetsu no Yaiba",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "From whom did Tanjiro inherit the hanafuda earrings?",
+      "options": [
+        "His father, Tanjuro Kamado",
+        "Sakonji Urokodaki",
+        "Kyojuro Rengoku",
+        "Giyu Tomioka"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanjiro’s father Tanjuro is shown wearing the earrings before Tanjiro inherits them.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S1E19",
+        "arc": "Natagumo Mountain / Unwavering Resolve",
+        "url": "https://demonslayer-anime.com/risshihen/story/",
+        "title": "Hinokami",
+        "status": "verified"
+      }
+    }
+  ]
+}

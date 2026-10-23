@@ -1,0 +1,20 @@
+{
+  "id": "onepiece-u5-q13",
+  "current_prompt": "Which battle cry is associated with the mysterious inherited power that begins to stir in Luffy?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 1070,
+    "episodeTitle": "Luffy is Defeated?! The Determination of Those Left Behind",
+    "arc": "Wano Country",
+    "url": "https://onepiece.fandom.com/wiki/Episode_1070",
+    "title": "Episode 1070 | One Piece Wiki",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://onepiece.fandom.com/wiki/Episode_1070",
+    "https://www.facebook.com/ToeiAnimationOfficial/videos/joyboy-has-returnedthree-years-ago-today-we-first-hear-the-drums-of-liberation-i/2118459859081148/",
+    "https://en.wikipedia.org/wiki/Luffy%27s_Peak_-_Attained!_Fifth_Gear"
+  ],
+  "finding": "The answer is correct and preserved: The Drums of Liberation is answer option 0. The bank's episode 1015 mapping is incorrect. Episode 1070 is the exact episode where Zunesha identifies Luffy's revived heartbeat as the Drums of Liberation; the episode guide gives the title above, and Toei Animation's official post says the Drums were first heard in episode 1070. Episode 1071 follows with Luffy's completed Gear Fifth transformation.",
+  "status": "verified"
+}

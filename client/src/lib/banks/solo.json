@@ -1,0 +1,1857 @@
+{
+  "id": "solo-leveling-anime-sleeperz-v1",
+  "series": "Solo Leveling",
+  "title": "Solo Leveling Anime Canon Question Bank",
+  "adaptationBoundary": "Officially released anime through Season 2, Episode 13 (overall Episode 25), “On to the Next Target,” released March 29, 2025; excludes web novel, manhwa-only revelations, and unreleased or rumored anime material.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-casual knowledge",
+      "spoilerLevel": 2,
+      "questionIds": [
+        "solo-u1-q1",
+        "solo-u1-q2",
+        "solo-u1-q3",
+        "solo-u1-q4",
+        "solo-u1-q5",
+        "solo-u1-q6",
+        "solo-u1-q7",
+        "solo-u1-q8",
+        "solo-u1-q9",
+        "solo-u1-q10",
+        "solo-u1-q11",
+        "solo-u1-q12",
+        "solo-u1-q13",
+        "solo-u1-q14",
+        "solo-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated fan",
+      "spoilerLevel": 3,
+      "questionIds": [
+        "solo-u2-q1",
+        "solo-u2-q2",
+        "solo-u2-q3",
+        "solo-u2-q4",
+        "solo-u2-q5",
+        "solo-u2-q6",
+        "solo-u2-q7",
+        "solo-u2-q8",
+        "solo-u2-q9",
+        "solo-u2-q10",
+        "solo-u2-q11",
+        "solo-u2-q12",
+        "solo-u2-q13",
+        "solo-u2-q14",
+        "solo-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced",
+      "spoilerLevel": 4,
+      "questionIds": [
+        "solo-u3-q1",
+        "solo-u3-q2",
+        "solo-u3-q3",
+        "solo-u3-q4",
+        "solo-u3-q5",
+        "solo-u3-q6",
+        "solo-u3-q7",
+        "solo-u3-q8",
+        "solo-u3-q9",
+        "solo-u3-q10",
+        "solo-u3-q11",
+        "solo-u3-q12",
+        "solo-u3-q13",
+        "solo-u3-q14",
+        "solo-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert",
+      "spoilerLevel": 5,
+      "questionIds": [
+        "solo-u4-q1",
+        "solo-u4-q2",
+        "solo-u4-q3",
+        "solo-u4-q4",
+        "solo-u4-q5",
+        "solo-u4-q6",
+        "solo-u4-q7",
+        "solo-u4-q8",
+        "solo-u4-q9",
+        "solo-u4-q10",
+        "solo-u4-q11",
+        "solo-u4-q12",
+        "solo-u4-q13",
+        "solo-u4-q14",
+        "solo-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore canon mastery",
+      "spoilerLevel": 5,
+      "questionIds": [
+        "solo-u5-q1",
+        "solo-u5-q2",
+        "solo-u5-q3",
+        "solo-u5-q4",
+        "solo-u5-q5",
+        "solo-u5-q6",
+        "solo-u5-q7",
+        "solo-u5-q8",
+        "solo-u5-q9",
+        "solo-u5-q10",
+        "solo-u5-q11",
+        "solo-u5-q12",
+        "solo-u5-q13",
+        "solo-u5-q14",
+        "solo-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://sololeveling-anime.net/story/",
+    "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+    "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+    "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+    "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
+  ],
+  "notes": [
+    "Research boundary is the anime release available through Season 2 Episode 13/overall Episode 25.",
+    "Questions are original wording and restricted to events shown or explicitly summarized for the released anime.",
+    "All 75 source records are marked verified against official anime pages or official Crunchyroll episode recaps; review_count is 0."
+  ],
+  "questions": [
+    {
+      "id": "solo-u1-q1",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "How long before the story did gates begin opening in the world?",
+      "options": [
+        "Five years",
+        "Ten years",
+        "Fifteen years",
+        "Twenty years"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-one recap places the first gates ten years before the story.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Introduction",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q2",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Sung Jinwoo's starting hunter rank?",
+      "options": [
+        "E-Rank",
+        "D-Rank",
+        "C-Rank",
+        "B-Rank"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinwoo is introduced as an E-Rank hunter.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Introduction",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q3",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What do the gates connect Earth to?",
+      "options": [
+        "The Shadow Realm",
+        "An alternate dimension",
+        "The Demon King's Castle",
+        "The Association headquarters"
+      ],
+      "answerIndex": 1,
+      "explanation": "The recap describes gates as links to an alternate dimension.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Introduction",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q4",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Sung Jinah to Jinwoo?",
+      "options": [
+        "His cousin",
+        "His younger sister",
+        "His guild leader",
+        "His classmate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinah is introduced as Jinwoo's sister in episode 2.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E2",
+        "arc": "Cartenon Temple",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q5",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What first appears to Jinwoo as he survives the Cartenon Temple?",
+      "options": [
+        "A guild crest",
+        "Message boxes",
+        "A magic sword",
+        "A ranking certificate"
+      ],
+      "answerIndex": 1,
+      "explanation": "The mysterious message boxes are first seen in episode 2.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E2",
+        "arc": "Cartenon Temple",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q6",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What recurring task does the System impose in penalty zones?",
+      "options": [
+        "Daily exercises",
+        "Guild recruitment",
+        "Potion brewing",
+        "Gate mapping"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 3 introduces penalty zones alongside Jinwoo's daily tasks.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E3",
+        "arc": "System awakening",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q7",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What kind of dungeon does Jinwoo first enter alone after learning the System?",
+      "options": [
+        "A national-level dungeon",
+        "An instance dungeon",
+        "A red gate",
+        "A Jeju raid dungeon"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-three recap calls Jinwoo's first solo trip an instance dungeon.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E3",
+        "arc": "System awakening",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q8",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which monster is Jinwoo's first solo boss opponent?",
+      "options": [
+        "Blue Venom-Fanged Kasaka",
+        "Cerberus",
+        "Igris",
+        "Kargalgan"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kasaka is identified as Jinwoo's first solo boss fight.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E4",
+        "arc": "Instance dungeon",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q9",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What does a dungeon break allow to happen?",
+      "options": [
+        "The gate changes rank",
+        "Magic beasts leave the dungeon",
+        "Hunters lose their ranks",
+        "The System shuts down"
+      ],
+      "answerIndex": 1,
+      "explanation": "A dungeon break lets magic beasts leave the dungeon and enter the world.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E4",
+        "arc": "Instance dungeon",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q10",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which new hunter is introduced prominently in episode 5?",
+      "options": [
+        "Yoo Jinho",
+        "Goto Ryuji",
+        "Min Byung-gu",
+        "Sung Il-hwan"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yoo Jinho is introduced in the episode-five highlights.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E5",
+        "arc": "Dungeon raid betrayal",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q11",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What does Hwang Dongsuk's group do to Jinwoo and Jinho?",
+      "options": [
+        "Promotes them",
+        "Betrays them",
+        "Heals them",
+        "Recruits them into the Association"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-five recap explicitly highlights the group's betrayal.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E5",
+        "arc": "Dungeon raid betrayal",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q12",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What new moral requirement does the System give Jinwoo in episode 6?",
+      "options": [
+        "He must recruit a healer",
+        "He must kill his new human opponents",
+        "He must surrender his weapons",
+        "He must leave the dungeon"
+      ],
+      "answerIndex": 1,
+      "explanation": "The kill quest forces Jinwoo to confront killing fellow humans.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E6",
+        "arc": "Dungeon raid betrayal",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q13",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What does Yoo Jinho give Jinwoo in episode 7?",
+      "options": [
+        "A key to the Demon King's Castle",
+        "A guild license",
+        "An S-Rank badge",
+        "The Elixir of Life"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinho gives Jinwoo a key to the fiery S-Rank Demon King's Castle.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E7",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q14",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who guards the entrance to the Demon King's Castle?",
+      "options": [
+        "Igris",
+        "Cerberus",
+        "Kasaka",
+        "Barca"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cerberus is identified as the castle's gatekeeper.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E7",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u1-q15",
+      "series": "Solo Leveling",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What major decision does Lee Joohee make in episode 10?",
+      "options": [
+        "She becomes guild master",
+        "She retires",
+        "She accepts an S-Rank reassessment",
+        "She joins the Jeju raid"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-ten highlights state that Joohee retires.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E10",
+        "arc": "Reassessment setup",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q1",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is a second awakening?",
+      "options": [
+        "A hunter losing all abilities",
+        "A rare event allowing a hunter to surpass the current rank",
+        "A gate opening twice",
+        "A System penalty"
+      ],
+      "answerIndex": 1,
+      "explanation": "Episode 3 describes second awakenings as rare occurrences in which a hunter can surpass the current rank.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E3",
+        "arc": "System awakening",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q2",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Why can Jinwoo not get drunk?",
+      "options": [
+        "He is immune to poison",
+        "He has no sense of smell",
+        "He drinks only potions",
+        "He is not human"
+      ],
+      "answerIndex": 0,
+      "explanation": "The recap attributes his inability to get drunk to poison resistance.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E7",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q3",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the purpose of the Elixir of Life?",
+      "options": [
+        "It opens gates",
+        "It cures all ailments",
+        "It summons shadows",
+        "It raises a hunter's rank"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Elixir of Life is described as a substance that cures all ailments.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E7",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q4",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What rank does Han Song-yi awaken as?",
+      "options": [
+        "E-Rank",
+        "D-Rank",
+        "C-Rank",
+        "S-Rank"
+      ],
+      "answerIndex": 0,
+      "explanation": "Song-yi is identified as an E-Rank hunter after awakening.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E10",
+        "arc": "Reassessment setup",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q5",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "How is Hwang Dongsoo related to Hwang Dongsuk?",
+      "options": [
+        "He is his father",
+        "He is his brother",
+        "He is his son",
+        "They are unrelated"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-ten recap warns about S-Rank hunter Hwang Dongsoo, Dongsuk's brother.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E10",
+        "arc": "Reassessment setup",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q6",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is forbidden during Jinwoo's job change quest?",
+      "options": [
+        "Weapons and armor",
+        "Potions and Full Recovery",
+        "Shadows and skills",
+        "Food and water"
+      ],
+      "answerIndex": 1,
+      "explanation": "The job change quest prohibits potions and the Full Recovery ability.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E11",
+        "arc": "Job change quest",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q7",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is Igris's epithet?",
+      "options": [
+        "The Ice Elf",
+        "The Bloodred",
+        "The White Tiger",
+        "The Iron Knight"
+      ],
+      "answerIndex": 1,
+      "explanation": "Episode 11 calls him Igris the Bloodred.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E11",
+        "arc": "Job change quest",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q8",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which hidden class does Jinwoo discover?",
+      "options": [
+        "Berserker",
+        "Necromancer",
+        "Assassin",
+        "Healer"
+      ],
+      "answerIndex": 1,
+      "explanation": "The hidden class discovered in episode 12 is necromancer.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E12",
+        "arc": "Job change quest",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q9",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Into what class does Jinwoo upgrade?",
+      "options": [
+        "Shadow Monarch",
+        "Guild Master",
+        "National Hunter",
+        "Ice Sovereign"
+      ],
+      "answerIndex": 0,
+      "explanation": "The recap says the job change upgrades Jinwoo to Shadow Monarch.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E12",
+        "arc": "Job change quest",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q10",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What does Jinwoo do with Igris at the end of season 1?",
+      "options": [
+        "Seals him away",
+        "Gains control of him",
+        "Turns him human",
+        "Gives him to Jinho"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinwoo gains control of Igris in episode 12.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E12",
+        "arc": "Job change quest",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q11",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Whose strike team does Jinwoo agree to join in episode 8?",
+      "options": [
+        "Cha Hae-in's",
+        "Yoo Jinho's",
+        "Choi Jong-in's",
+        "Baek Yoonho's"
+      ],
+      "answerIndex": 1,
+      "explanation": "Episode 8 has Jinwoo agree to join Yoo Jinho's strike team.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E8",
+        "arc": "Return to raid life",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q12",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which company does Yoo Jinho's father operate?",
+      "options": [
+        "Yoojin Construction",
+        "White Tiger Holdings",
+        "Hunters Guild Industries",
+        "Korea Gateworks"
+      ],
+      "answerIndex": 0,
+      "explanation": "The episode-eight recap identifies Yoojin Construction as operated by Jinho's father.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E8",
+        "arc": "Return to raid life",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q13",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who escorts the D-Rank mission in episode 9?",
+      "options": [
+        "Kang Taeshik",
+        "Choi Jong-in",
+        "Woo Jinchul",
+        "Yoo Jinho"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kang Taeshik acts as the Hunter Association escort.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E9",
+        "arc": "D-Rank mission",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q14",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which pair dies during the D-Rank mission?",
+      "options": [
+        "Jinwoo and Jinho",
+        "Kang Jeongho and Kim Sangshik",
+        "Joohee and Song Chiyul",
+        "Dongsuk and Dongsoo"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode-nine highlights name Kang Jeongho and Kim Sangshik as the deaths.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S1E9",
+        "arc": "D-Rank mission",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u2-q15",
+      "series": "Solo Leveling",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which raid group does Han Song-yi join after awakening?",
+      "options": [
+        "Jinwoo and Jinho's group",
+        "The Japanese S-Rank team",
+        "The White Tiger Guild",
+        "The Hunters Guild strike team"
+      ],
+      "answerIndex": 0,
+      "explanation": "Song-yi joins Jinwoo and Jinho's raid group in episode 10.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E10",
+        "arc": "Reassessment setup",
+        "url": "https://www.crunchyroll.com/news/features/2024/4/14/solo-leveling-season-1-anime-recap",
+        "title": "Solo Leveling Season 1: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q1",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What causes the C-Rank gate to become more dangerous in episode 13?",
+      "options": [
+        "It becomes a national-level gate",
+        "It turns into a red gate",
+        "It is sealed by the Association",
+        "It opens underwater"
+      ],
+      "answerIndex": 1,
+      "explanation": "The C-Rank gate changes into a red gate.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S2E13",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q2",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which two kinds of magic beasts appear in the red-gate episode?",
+      "options": [
+        "High orcs and ants",
+        "Ice bears and ice elves",
+        "Demons and dragons",
+        "Goblins and spiders"
+      ],
+      "answerIndex": 1,
+      "explanation": "The episode introduces ice bears and ice elves.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S2E13",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q3",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which shadow does Jinwoo summon against the leader of the bears?",
+      "options": [
+        "Igris",
+        "Iron",
+        "Tank",
+        "Tusk"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinwoo summons Igris to fight the bear leader.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S2E13",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q4",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the name of the ice-elf leader?",
+      "options": [
+        "Barca",
+        "Baran",
+        "Beru",
+        "Basil"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ice-elf leader identifies himself as Barca.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S2E14",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q5",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What unusual ability does Jinwoo demonstrate around the magic beasts?",
+      "options": [
+        "He can understand and speak their language",
+        "He can erase gates",
+        "He can reverse their ranks",
+        "He can read their memories"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 14 highlights that Jinwoo can understand and speak the beasts' language.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E14",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q6",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What name does Jinwoo give the shadow formerly known as Kim Chul?",
+      "options": [
+        "Iron",
+        "Tank",
+        "Tusk",
+        "Kaisel"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinwoo names Kim Chul's shadow Iron.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E14",
+        "arc": "Red Gate",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q7",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who returns in episode 15?",
+      "options": [
+        "Sung Il-hwan",
+        "Thomas Andre",
+        "Goto Ryuji",
+        "Christopher Reed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 15 marks the return of Jinwoo's father, Sung Il-hwan.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S2E15",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q8",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What kill count does the Demon King's Castle task assign Jinwoo?",
+      "options": [
+        "1,000 magic beasts",
+        "5,000 magic beasts",
+        "10,000 magic beasts",
+        "100,000 magic beasts"
+      ],
+      "answerIndex": 2,
+      "explanation": "Jinwoo is tasked with killing 10,000 magic beasts.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E15",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q9",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What name does Jinwoo give his shadow bear?",
+      "options": [
+        "Tank",
+        "Iron",
+        "Tusk",
+        "Kaisel"
+      ],
+      "answerIndex": 0,
+      "explanation": "The shadow bear receives the name Tank.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E15",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q10",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "To which floor does Jinwoo make it in episode 15?",
+      "options": [
+        "50th",
+        "75th",
+        "90th",
+        "100th"
+      ],
+      "answerIndex": 1,
+      "explanation": "The recap states that Jinwoo reaches the 75th floor.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E15",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q11",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What happens when Jinwoo is reassessed in episode 16?",
+      "options": [
+        "He is confirmed E-Rank",
+        "He is confirmed S-Rank immediately",
+        "He is shown not to be E-Rank",
+        "His rank is erased"
+      ],
+      "answerIndex": 2,
+      "explanation": "The reassessment shows that Jinwoo is not E-Rank.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E16",
+        "arc": "Reassessment",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q12",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "How does Jinwoo respond to the recruitment offers after reassessment?",
+      "options": [
+        "He accepts Choi Jong-in's offer",
+        "He accepts Go Gunhee's offer",
+        "He refuses all offers",
+        "He joins the Japanese team"
+      ],
+      "answerIndex": 2,
+      "explanation": "The recap says Jinwoo refuses every offer.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E16",
+        "arc": "Reassessment",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q13",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What unusual reaction does Cha Hae-in have to Jinwoo?",
+      "options": [
+        "She cannot see him",
+        "She thinks his smell is pleasant",
+        "She hears the System",
+        "She loses her rank"
+      ],
+      "answerIndex": 1,
+      "explanation": "Unlike other hunters, Jinwoo smells good to Cha Hae-in.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E17",
+        "arc": "Hunters Guild high-orc raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q14",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who leads the high orcs encountered on the mission?",
+      "options": [
+        "Kargalgan",
+        "Barca",
+        "Beru",
+        "Esil Radiru"
+      ],
+      "answerIndex": 0,
+      "explanation": "The high orcs answer to Kargalgan.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E17",
+        "arc": "Hunters Guild high-orc raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u3-q15",
+      "series": "Solo Leveling",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What name does Jinwoo give Kargalgan after making him a shadow?",
+      "options": [
+        "Tusk",
+        "Tank",
+        "Iron",
+        "Beru"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kargalgan becomes the shadow named Tusk.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E18",
+        "arc": "Hunters Guild high-orc raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q1",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What rank is Jinwoo publicly reassessed as in episode 19?",
+      "options": [
+        "A-Rank",
+        "S-Rank",
+        "National Level",
+        "E-Rank"
+      ],
+      "answerIndex": 1,
+      "explanation": "Episode 19 highlights Jinwoo being reassessed as an S-Rank hunter.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E19",
+        "arc": "Reassessment and Jeju setup",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q2",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What happens to Yoo Jinho's father in episode 19?",
+      "options": [
+        "He awakens as an S-Rank",
+        "He falls victim to Eternal Sleep Disease",
+        "He joins the Jeju raid",
+        "He becomes a shadow"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinho's father collapses after contracting the Eternal Sleep Disease.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E19",
+        "arc": "Reassessment and Jeju setup",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q3",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who guides Jinwoo through the Demon King's Castle in episode 20?",
+      "options": [
+        "Esil Radiru",
+        "Cha Hae-in",
+        "Min Byung-gu",
+        "Barca"
+      ],
+      "answerIndex": 0,
+      "explanation": "The demon knight Esil Radiru guides Jinwoo.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E20",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q4",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which country joins Korea in the planned Jeju Island operation?",
+      "options": [
+        "Japan",
+        "Canada",
+        "China",
+        "Brazil"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chairman Go calls for a joint operation with Japan.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S2E20",
+        "arc": "Jeju Island operation",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q5",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is paired with Demon Monarch Baran in Jinwoo's episode-20 battle?",
+      "options": [
+        "The dragon Kaisellin",
+        "The ant queen",
+        "The ice-elf Barca",
+        "The high-orc Kargalgan"
+      ],
+      "answerIndex": 0,
+      "explanation": "The episode recap names Baran and his dragon Kaisellin.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E20",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q6",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What name does Jinwoo give the dragon as a shadow?",
+      "options": [
+        "Kaisel",
+        "Kaisellin",
+        "Kargalgan",
+        "Kaiser"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kaisellin becomes the shadow Kaisel.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E21",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q7",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "How many vials of the Elixir of Life does Jinwoo create?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "answerIndex": 2,
+      "explanation": "Episode 21 states that Jinwoo creates six vials.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E21",
+        "arc": "Demon King's Castle",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q8",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Jeju raid does the episode-22 operation represent?",
+      "options": [
+        "The first",
+        "The second",
+        "The third",
+        "The fourth"
+      ],
+      "answerIndex": 3,
+      "explanation": "The episode-22 recap calls it the fourth raid on Jeju Island.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E22",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q9",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Japanese hunter faces Jinwoo in the sparring session?",
+      "options": [
+        "Goto Ryuji",
+        "Thomas Andre",
+        "Hwang Dongsoo",
+        "Liu Zhigang"
+      ],
+      "answerIndex": 0,
+      "explanation": "Goto Ryuji faces Jinwoo in episode 22.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E22",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q10",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who do the Korean S-Rank hunters fight in episode 23?",
+      "options": [
+        "The Ant Queen",
+        "Baran",
+        "The Ice Elf King",
+        "The White Tiger Guild"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Korean S-Rank hunters face the Ant Queen.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E23",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q11",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which enemy takes on the S-Rank hunters before Jinwoo arrives?",
+      "options": [
+        "The mysterious black ant",
+        "Cerberus",
+        "A high orc",
+        "An ice bear"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mysterious black ant attacks the S-Rank hunters.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E23",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q12",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which ability does Jinwoo use to enter the Jeju battle?",
+      "options": [
+        "Shadow Exchange",
+        "Ruler's Reach",
+        "Stealth",
+        "Bloodlust"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinwoo uses Shadow Exchange to reach the battle.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E23",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q13",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the title of episode 24?",
+      "options": [
+        "On to the Next Target",
+        "Are You the King of Humans",
+        "We Need a Hero",
+        "It Was All Worth It"
+      ],
+      "answerIndex": 1,
+      "explanation": "Episode 24 is titled “Are You the King of Humans.”",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E24",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/guides/2025/4/15/solo-leveling-season-2-anime-recap",
+        "title": "Solo Leveling Season 2 Recap: Everything You Need to Know",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q14",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What was Min Byung-gu's role among the hunters?",
+      "options": [
+        "Healer",
+        "Tank",
+        "Scout",
+        "Guild master"
+      ],
+      "answerIndex": 0,
+      "explanation": "Min Byung-gu is identified as the healer Jinwoo extracts as a shadow.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u4-q15",
+      "series": "Solo Leveling",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "How many of Japan's ten S-Rank hunters are reported lost?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Nine"
+      ],
+      "answerIndex": 2,
+      "explanation": "The episode-25 recap reports that Japan lost seven of its ten S-Rank hunters.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island raid",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q1",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does Jinwoo ask the cameraman to do when Cha Hae-in is dying?",
+      "options": [
+        "Start a new broadcast",
+        "End the live broadcast",
+        "Call the Association",
+        "Film the queen"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinwoo asks the cameraman to end the live broadcast before extracting Min.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q2",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Who asks Jinwoo to release Min Byung-gu's shadow?",
+      "options": [
+        "Baek Yoonho",
+        "Choi Jong-in",
+        "Go Gunhee",
+        "Cha Hae-in"
+      ],
+      "answerIndex": 0,
+      "explanation": "Baek asks Jinwoo to release Min because Min hated fighting in life.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q3",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What happens to Min Byung-gu's shadow after it heals Cha?",
+      "options": [
+        "It becomes Beru",
+        "It is released and dissipates",
+        "It returns to the queen",
+        "It joins the Japanese hunters"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinwoo agrees to release it, and the shadow dissipates.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q4",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "At what level is Jinwoo ready to attempt extracting the black ant?",
+      "options": [
+        "75",
+        "90",
+        "100",
+        "120"
+      ],
+      "answerIndex": 2,
+      "explanation": "The recap says Jinwoo reaches level 100 before trying the extraction.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q5",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What makes the newly extracted black-ant shadow unusual?",
+      "options": [
+        "It can fly",
+        "It can talk",
+        "It can open gates",
+        "It can heal humans"
+      ],
+      "answerIndex": 1,
+      "explanation": "The shadow speaks, and the recap notes that no other shadow can talk.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q6",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What name does Jinwoo give the talking ant shadow?",
+      "options": [
+        "Beru",
+        "Bero",
+        "Buru",
+        "Bera"
+      ],
+      "answerIndex": 0,
+      "explanation": "Jinwoo names the ant shadow Beru.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q7",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "How many magic ants does Beru report still being loose?",
+      "options": [
+        "400",
+        "1,000",
+        "4,000",
+        "10,000"
+      ],
+      "answerIndex": 2,
+      "explanation": "Beru says that 4,000 magic ants remain.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q8",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Whom does Beru save from an attacking magic ant?",
+      "options": [
+        "Song Chiyul",
+        "Song Yi",
+        "Yoo Jinho",
+        "Woo Jinchul"
+      ],
+      "answerIndex": 0,
+      "explanation": "Beru saves Jinwoo's friend Song from an attacking ant.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q9",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which shadow carries Jinwoo to clear the ants around the helicopter?",
+      "options": [
+        "Igris",
+        "Kaisel",
+        "Tank",
+        "Iron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinwoo arrives aloft on Kaisel to clear the air around the helicopter.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q10",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "When is the memorial service for Min and the fallen hunters held?",
+      "options": [
+        "The same hour",
+        "A few days after the raid",
+        "A year later",
+        "Before the raid"
+      ],
+      "answerIndex": 1,
+      "explanation": "The memorial is held a few days after the raid.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q11",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Who watches the two mysterious figures in the Ant Queen's lair?",
+      "options": [
+        "Sung Il-hwan",
+        "Baek Yoonho",
+        "Go Gunhee",
+        "Goto Ryuji"
+      ],
+      "answerIndex": 0,
+      "explanation": "The finale reveals Sung Il-hwan quietly watching them.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q12",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does the blue-skinned mysterious figure say he did to the hunters in the lair?",
+      "options": [
+        "He healed them",
+        "He put them to sleep",
+        "He recruited them",
+        "He sent them to Japan"
+      ],
+      "answerIndex": 1,
+      "explanation": "He says he put them to sleep to stop their noise.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q13",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What weapon combination does the mysterious overseas S-Rank hunter use against ant stragglers?",
+      "options": [
+        "A spear and shield",
+        "Two swords",
+        "A bow and dagger",
+        "A hammer and chain"
+      ],
+      "answerIndex": 1,
+      "explanation": "The recap describes the hunter as wielding two swords.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q14",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What future project does Jinwoo tell Go he is considering?",
+      "options": [
+        "Opening a school",
+        "Creating his own guild",
+        "Moving to Japan",
+        "Retiring from hunting"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jinwoo says he is thinking about creating a guild of his own.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Jeju Island aftermath",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "solo-u5-q15",
+      "series": "Solo Leveling",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What kind of gate does Go report on the freeway?",
+      "options": [
+        "A B-Rank gate",
+        "A C-Rank gate",
+        "A red gate",
+        "A national-level gate"
+      ],
+      "answerIndex": 0,
+      "explanation": "Go calls Jinwoo about a B-Rank gate on the freeway.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E25",
+        "arc": "Post-raid setup",
+        "url": "https://www.crunchyroll.com/news/features/2025/4/1/solo-leveling-episode-25-recap",
+        "title": "Solo Leveling Episode 25, “On to the Next Target”",
+        "status": "verified"
+      }
+    }
+  ]
+}

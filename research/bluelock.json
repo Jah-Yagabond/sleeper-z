@@ -1,0 +1,1859 @@
+{
+  "id": "bluelock-anime-canon-bank",
+  "series": "Blue Lock",
+  "title": "Blue Lock Anime Canon Question Bank",
+  "adaptationBoundary": "Officially released Blue Lock anime episodes through Season 2 (overall episode 38, the 2024 Blue Lock vs. U-20 Japan season) plus the released 2024 anime film BLUE LOCK THE MOVIE -EPISODE NAGI-. Excludes all manga-only developments, later announced/unreleased seasons, and unreleased material. Episode Nagi is treated only for its released film continuity and its Nagi-perspective retelling of the early project.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-casual knowledge",
+      "spoilerLevel": "low",
+      "questionIds": [
+        "bluelock-u1-q1",
+        "bluelock-u1-q2",
+        "bluelock-u1-q3",
+        "bluelock-u1-q4",
+        "bluelock-u1-q5",
+        "bluelock-u1-q6",
+        "bluelock-u1-q7",
+        "bluelock-u1-q8",
+        "bluelock-u1-q9",
+        "bluelock-u1-q10",
+        "bluelock-u1-q11",
+        "bluelock-u1-q12",
+        "bluelock-u1-q13",
+        "bluelock-u1-q14",
+        "bluelock-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated fan",
+      "spoilerLevel": "medium",
+      "questionIds": [
+        "bluelock-u2-q1",
+        "bluelock-u2-q2",
+        "bluelock-u2-q3",
+        "bluelock-u2-q4",
+        "bluelock-u2-q5",
+        "bluelock-u2-q6",
+        "bluelock-u2-q7",
+        "bluelock-u2-q8",
+        "bluelock-u2-q9",
+        "bluelock-u2-q10",
+        "bluelock-u2-q11",
+        "bluelock-u2-q12",
+        "bluelock-u2-q13",
+        "bluelock-u2-q14",
+        "bluelock-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced",
+      "spoilerLevel": "high",
+      "questionIds": [
+        "bluelock-u3-q1",
+        "bluelock-u3-q2",
+        "bluelock-u3-q3",
+        "bluelock-u3-q4",
+        "bluelock-u3-q5",
+        "bluelock-u3-q6",
+        "bluelock-u3-q7",
+        "bluelock-u3-q8",
+        "bluelock-u3-q9",
+        "bluelock-u3-q10",
+        "bluelock-u3-q11",
+        "bluelock-u3-q12",
+        "bluelock-u3-q13",
+        "bluelock-u3-q14",
+        "bluelock-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "bluelock-u4-q1",
+        "bluelock-u4-q2",
+        "bluelock-u4-q3",
+        "bluelock-u4-q4",
+        "bluelock-u4-q5",
+        "bluelock-u4-q6",
+        "bluelock-u4-q7",
+        "bluelock-u4-q8",
+        "bluelock-u4-q9",
+        "bluelock-u4-q10",
+        "bluelock-u4-q11",
+        "bluelock-u4-q12",
+        "bluelock-u4-q13",
+        "bluelock-u4-q14",
+        "bluelock-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore canon mastery",
+      "spoilerLevel": "extreme",
+      "questionIds": [
+        "bluelock-u5-q1",
+        "bluelock-u5-q2",
+        "bluelock-u5-q3",
+        "bluelock-u5-q4",
+        "bluelock-u5-q5",
+        "bluelock-u5-q6",
+        "bluelock-u5-q7",
+        "bluelock-u5-q8",
+        "bluelock-u5-q9",
+        "bluelock-u5-q10",
+        "bluelock-u5-q11",
+        "bluelock-u5-q12",
+        "bluelock-u5-q13",
+        "bluelock-u5-q14",
+        "bluelock-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://tv.bluelock-pr.com/tv1st/character/",
+    "https://tv.bluelock-pr.com/tv1st/story/",
+    "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+    "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+    "https://movie.bluelock-pr.com/",
+    "https://bluelock-pr.com/news/22/",
+    "https://en.wikipedia.org/wiki/List_of_Blue_Lock_episodes"
+  ],
+  "notes": [
+    "Original wording; each item targets one objectively checkable fact and has exactly four options.",
+    "Sources marked verified were cross-checked against the cited official anime/film pages or Crunchyroll released-anime guides; episode metadata was cross-checked against the released episode list.",
+    "No review items were necessary; no manga-only or unreleased facts are used."
+  ],
+  "questions": [
+    {
+      "id": "bluelock-u1-q1",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "How many high-school forwards are invited to the Blue Lock project?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "500"
+      ],
+      "answerIndex": 2,
+      "explanation": "The project begins by gathering 300 high-school forwards.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "Film / introduction",
+        "arc": "Project premise",
+        "url": "https://movie.bluelock-pr.com/",
+        "title": "Official Episode Nagi film site — introduction",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q2",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What rank is Yoichi Isagi assigned on the official season-one character profile?",
+      "options": [
+        "289",
+        "299",
+        "300",
+        "221"
+      ],
+      "answerIndex": 1,
+      "explanation": "The official profile lists Isagi at rank 299.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q3",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which first-selection team is Isagi placed on?",
+      "options": [
+        "Team V",
+        "Team W",
+        "Team X",
+        "Team Z"
+      ],
+      "answerIndex": 3,
+      "explanation": "Isagi enters the First Selection as a member of Team Z.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q4",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Meguru Bachira's signature football weapon in the official profile?",
+      "options": [
+        "Aerial reach",
+        "Dribbling",
+        "Long throw-ins",
+        "Goalkeeping"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bachira is explicitly described as a dribbler with unusual sensibility.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q5",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which technical strength is highlighted for Rensuke Kunigami?",
+      "options": [
+        "Right-footed volleys",
+        "Left-footed mid-range shooting",
+        "Penalty saving",
+        "Shadow marking"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kunigami’s profile identifies his powerful left-footed mid-range shot.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q6",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Why does Hyoma Chigiri initially hide his main weapon from teammates?",
+      "options": [
+        "He is suspended",
+        "He fears re-injuring his leg",
+        "He cannot shoot",
+        "He is a goalkeeper"
+      ],
+      "answerIndex": 1,
+      "explanation": "His profile refers to an undisclosed reason tied to his reluctance before his speed returns.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q7",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Wataru Kuon's listed weapon?",
+      "options": [
+        "Exceptional jumping ability",
+        "A knuckleball serve",
+        "Ambidextrous shooting",
+        "Goal-line reflexes"
+      ],
+      "answerIndex": 0,
+      "explanation": "The official profile names Kuon’s high jumping ability as his weapon.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q8",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which role does Okuhito Iemon take in Team Z during the First Selection?",
+      "options": [
+        "Coach",
+        "Goalkeeper",
+        "Team doctor",
+        "Video analyst"
+      ],
+      "answerIndex": 1,
+      "explanation": "Iemon is the adaptable Team Z player who takes the goalkeeper role.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q9",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What rank is Gurimu Igarashi assigned on the season-one profile?",
+      "options": [
+        "221",
+        "250",
+        "299",
+        "300"
+      ],
+      "answerIndex": 3,
+      "explanation": "The profile lists Igarashi as number 300.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q10",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which team does Shoei Barou lead in the First Selection?",
+      "options": [
+        "Team X",
+        "Team Y",
+        "Team V",
+        "Team Z"
+      ],
+      "answerIndex": 0,
+      "explanation": "Barou is identified as the dominant king of Team X.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q11",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which team is Ikki Niko assigned to in the First Selection?",
+      "options": [
+        "Team X",
+        "Team Y",
+        "Team V",
+        "Team Z"
+      ],
+      "answerIndex": 1,
+      "explanation": "Niko’s official profile places him on Team Y.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q12",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which First Selection team contains Nagi, Reo, and Zantetsu?",
+      "options": [
+        "Team V",
+        "Team W",
+        "Team X",
+        "Team Y"
+      ],
+      "answerIndex": 0,
+      "explanation": "The three are the core named players of Team V.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q13",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What goal does Reo Mikage say he wants to pursue through football?",
+      "options": [
+        "Winning the World Cup",
+        "Becoming a goalkeeper coach",
+        "Owning a club",
+        "Winning a school tournament"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reo’s profile says he began football after setting his sights on winning the World Cup.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q14",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Rin Itoshi’s listed Blue Lock ranking in the season-one profile?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rin is listed as Blue Lock’s number-one player at that point.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u1-q15",
+      "series": "Blue Lock",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which Spanish club academy is associated with Sae Itoshi in the official profile?",
+      "options": [
+        "FC Barcha",
+        "Manshine City",
+        "Re Al",
+        "Ubers"
+      ],
+      "answerIndex": 2,
+      "explanation": "The profile identifies Sae with the Spanish club Re Al’s youth setup.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "TV1 character profile",
+        "arc": "Pre-U-20 setup",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q1",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the final score of Team X versus Team Z in the First Selection?",
+      "options": [
+        "1–0",
+        "3–2",
+        "5–1",
+        "5–4"
+      ],
+      "answerIndex": 2,
+      "explanation": "Crunchyroll’s match guide records a 5–1 Team X victory.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E1",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q2",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the final score of Team Y versus Team Z?",
+      "options": [
+        "2–1 to Team Z",
+        "1–0 to Team Y",
+        "4–4",
+        "5–1 to Team Z"
+      ],
+      "answerIndex": 0,
+      "explanation": "Team Z comes from behind to win that match 2–1.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E3–S1E4",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q3",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the final score of Team W versus Team Z?",
+      "options": [
+        "4–4",
+        "3–1 to Team W",
+        "2–2",
+        "5–4 to Team Z"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Team W–Team Z match ends in a 4–4 draw.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E6–S1E7",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q4",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which player scores Team Z’s equalizing goal against Team W?",
+      "options": [
+        "Bachira",
+        "Chigiri",
+        "Igarashi",
+        "Iemon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chigiri’s breakthrough speed produces Team Z’s fourth goal.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E7",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q5",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "How many goals does Kuon score before his betrayal is exposed in the Team W match?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answerIndex": 2,
+      "explanation": "Kuon’s bargain is to secure a hat trick, so he scores three before turning on Team Z.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E6–S1E7",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q6",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which player is revealed to have sold out Team Z to Team W?",
+      "options": [
+        "Kuon",
+        "Iemon",
+        "Niko",
+        "Naruhaya"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kuon accepts a deal connected to his hat trick and sides with the Wanima brothers.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E6",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q7",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which three named players score Team V’s goals in the off-screen Team V–Team Y match?",
+      "options": [
+        "Isagi, Bachira, Kunigami",
+        "Nagi, Reo, Zantetsu",
+        "Barou, Niko, Chigiri",
+        "Rin, Aryu, Tokimitsu"
+      ],
+      "answerIndex": 1,
+      "explanation": "The match guide attributes Team V’s goals to Nagi, Reo, and Zantetsu.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E8",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q8",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is Team X’s central scoring force in the First Selection match guide?",
+      "options": [
+        "Shoei Barou",
+        "Ikki Niko",
+        "Seishiro Nagi",
+        "Wataru Kuon"
+      ],
+      "answerIndex": 0,
+      "explanation": "The guide credits Barou with Team X’s goals in its shown matches.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E1",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q9",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What test opens the Second Selection for Isagi?",
+      "options": [
+        "A 100-goal test",
+        "A penalty shootout",
+        "A 10-kilometer race",
+        "A goalkeeper trial"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Second Selection begins with the individual 100-goal test.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E12",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q10",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which trio is introduced as the top three players of Blue Lock?",
+      "options": [
+        "Rin, Aryu, Tokimitsu",
+        "Nagi, Reo, Zantetsu",
+        "Isagi, Bachira, Chigiri",
+        "Barou, Niko, Kunigami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rin, Aryu, and Tokimitsu are presented as the Second Selection’s top three.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E13",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q11",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Whom does Isagi’s side defeat in the early Second Selection 2v2?",
+      "options": [
+        "Rin and Aryu",
+        "Barou and Naruhaya",
+        "Nagi and Reo",
+        "Kunigami and Chigiri"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isagi and Nagi defeat Barou and Naruhaya in the 2v2.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E14–S1E15",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q12",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which defeated player does Isagi’s side choose after beating Barou and Naruhaya?",
+      "options": [
+        "Naruhaya",
+        "Barou",
+        "Niko",
+        "Zantetsu"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isagi chooses Barou after the match.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E15",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q13",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which player does Isagi’s side add after winning the three-versus-three match involving Kunigami and Chigiri?",
+      "options": [
+        "Chigiri",
+        "Kunigami",
+        "Reo",
+        "Naruhaya"
+      ],
+      "answerIndex": 0,
+      "explanation": "The winning side takes Chigiri as its selected player.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E16",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q14",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which player does Rin select after his team defeats Isagi’s team in the four-versus-four?",
+      "options": [
+        "Nagi",
+        "Bachira",
+        "Barou",
+        "Chigiri"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rin selects Bachira from the defeated side.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E17–S1E18",
+        "arc": "Second Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u2-q15",
+      "series": "Blue Lock",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the stated central aim of the Blue Lock project?",
+      "options": [
+        "Find Japan’s next goalkeeper",
+        "Create the world’s best striker",
+        "Build a club league",
+        "Replace the U-20 team immediately"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ego’s project is designed to produce the world’s best striker.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "S1E1 / film introduction",
+        "arc": "Project premise",
+        "url": "https://movie.bluelock-pr.com/",
+        "title": "Official Episode Nagi film site — introduction",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q1",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Isagi's signature shooting weapon named in the anime's tactical language?",
+      "options": [
+        "Direct shot",
+        "Gyro shot",
+        "Rainbow flick",
+        "Knuckle serve"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isagi repeatedly scores with a direct shot, striking first-time when the lane opens.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E8–S1E11",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q2",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Nagi’s defining technical strength?",
+      "options": [
+        "Long throw-in",
+        "Exceptional trapping",
+        "Slide tackling",
+        "Outside-of-foot crossing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nagi’s extraordinary first touch and trapping are his defining football gifts.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "Film / S1E8–S1E11",
+        "arc": "First Selection",
+        "url": "https://movie.bluelock-pr.com/",
+        "title": "Official Episode Nagi film site — introduction",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q3",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which weapon does Chigiri unleash when he stops limiting himself?",
+      "options": [
+        "Explosive speed",
+        "Aerial heading",
+        "No-look passing",
+        "Goalkeeping reflexes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chigiri’s defining weapon is his elite speed.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E7",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/character/",
+        "title": "Official TV anime season-one character profiles",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q4",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Bachira call the imagined presence that drives his play?",
+      "options": [
+        "The King",
+        "The Monster",
+        "The Phantom",
+        "The Emperor"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bachira’s “monster” is the inner image he follows on the pitch.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E2–S1E11",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q5",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which player’s awakening changes the Team V match by making him act as an egoistic striker?",
+      "options": [
+        "Reo",
+        "Zantetsu",
+        "Nagi",
+        "Niko"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nagi’s awakening lets him stop merely following Reo and impose his own scoring play.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E8–S1E11",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q6",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What result does Team Z achieve against Team V in the First Selection?",
+      "options": [
+        "A 1–0 loss",
+        "A 5–4 win",
+        "A 4–4 draw",
+        "A 3–2 win"
+      ],
+      "answerIndex": 1,
+      "explanation": "Team Z wins the decisive Team V match 5–4.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E9–S1E11",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q7",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who scores Team Z’s winning goal against Team V?",
+      "options": [
+        "Bachira",
+        "Kunigami",
+        "Isagi",
+        "Chigiri"
+      ],
+      "answerIndex": 2,
+      "explanation": "Isagi reads the final space and scores Team Z’s fifth goal.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E11",
+        "arc": "First Selection",
+        "url": "https://tv.bluelock-pr.com/tv1st/story/",
+        "title": "Official TV anime season-one story page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q8",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which two players combine for Isagi’s winning goal against Team V?",
+      "options": [
+        "Nagi and Reo",
+        "Bachira and Isagi",
+        "Barou and Niko",
+        "Chigiri and Kunigami"
+      ],
+      "answerIndex": 1,
+      "explanation": "The play is built from Isagi and Bachira’s combination before Isagi finishes.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S1E11",
+        "arc": "First Selection",
+        "url": "https://www.crunchyroll.com/news/guides/2024/10/5/all-blue-lock-season-1-matches-goals",
+        "title": "Crunchyroll — All BLUE LOCK Season 1 Matches, Explained",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q9",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Reo’s “chameleon” ability mean in the U-20 selection material?",
+      "options": [
+        "He copies opponents’ colors literally",
+        "He can reproduce other players’ techniques",
+        "He only plays in camouflage",
+        "He changes teams between halves"
+      ],
+      "answerIndex": 1,
+      "explanation": "Reo’s versatility is framed as reproducing other players’ techniques.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "Second Selection aftermath",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q10",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What role does Tabito Karasu occupy in the Blue Lock XI guide?",
+      "options": [
+        "Goalkeeper",
+        "Defensive midfielder",
+        "Center forward",
+        "Left center back"
+      ],
+      "answerIndex": 1,
+      "explanation": "Karasu is listed as the defensive midfielder, or pivot, of the Blue Lock XI.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q11",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Eita Otoya’s listed position in the Blue Lock XI?",
+      "options": [
+        "Right winger",
+        "Right center back",
+        "Center forward",
+        "Goalkeeper"
+      ],
+      "answerIndex": 0,
+      "explanation": "Otoya is listed as the right winger.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q12",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Blue Lock player is described as the best one-on-one player in the U-20 guide?",
+      "options": [
+        "Kenyu Yukimiya",
+        "Nijiro Nanase",
+        "Jingo Raichi",
+        "Gurimu Igarashi"
+      ],
+      "answerIndex": 0,
+      "explanation": "The guide highlights Yukimiya as Blue Lock’s best one-on-one player at that point.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q13",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which player is a playmaker who gels especially well with Isagi in the U-20 guide?",
+      "options": [
+        "Yo Hiori",
+        "Zantetsu Tsurugi",
+        "Aoshi Tokimitsu",
+        "Reiji Hiiragi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hiori is described as a playmaker who connects well with Isagi.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q14",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who is the U-20 captain?",
+      "options": [
+        "Sae Itoshi",
+        "Shuto Sendo",
+        "Oliver Aiku",
+        "Gen Fukaku"
+      ],
+      "answerIndex": 2,
+      "explanation": "Oliver Aiku is identified as captain of Japan’s U-20 side.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u3-q15",
+      "series": "Blue Lock",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who scouts Ryusei Shido for the U-20 side?",
+      "options": [
+        "Oliver Aiku",
+        "Sae Itoshi",
+        "Ego Jinpachi",
+        "Sendo"
+      ],
+      "answerIndex": 1,
+      "explanation": "The guide states that Sae recruited Shido for the U-20 team.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q1",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What formation does the Blue Lock XI use against Japan U-20?",
+      "options": [
+        "4-5-1",
+        "4-3-3",
+        "3-4-3",
+        "5-2-3"
+      ],
+      "answerIndex": 0,
+      "explanation": "The U-20 guide describes the Blue Lock XI as a 4-5-1.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q2",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is the sole center forward in the Blue Lock XI setup?",
+      "options": [
+        "Yoichi Isagi",
+        "Seishiro Nagi",
+        "Rin Itoshi",
+        "Shoei Barou"
+      ],
+      "answerIndex": 2,
+      "explanation": "Rin is listed as the lone center forward.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q3",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Blue Lock player starts as goalkeeper against U-20 Japan?",
+      "options": [
+        "Gagamaru",
+        "Iemon",
+        "Fukaku",
+        "Raichi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gin Gagamaru is the Blue Lock XI goalkeeper.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q4",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which pair is listed as the Blue Lock XI’s center-back pairing?",
+      "options": [
+        "Aryu and Niko",
+        "Aiku and Nio",
+        "Chigiri and Bachira",
+        "Karasu and Otoya"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aryu is the right center back and Niko the left center back.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q5",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which player is the Blue Lock XI’s right wing back?",
+      "options": [
+        "Chigiri",
+        "Bachira",
+        "Otoya",
+        "Yukimiya"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chigiri is listed at right wing back.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q6",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which player is the Blue Lock XI’s left wing back?",
+      "options": [
+        "Bachira",
+        "Chigiri",
+        "Nagi",
+        "Karasu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bachira is listed at left wing back.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q7",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which two players are listed as the Blue Lock XI’s offensive midfielders?",
+      "options": [
+        "Isagi and Nagi",
+        "Rin and Sae",
+        "Barou and Reo",
+        "Bachira and Otoya"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isagi and Nagi occupy the two offensive-midfield slots in the guide’s 4-5-1.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q8",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which player is listed as the Blue Lock XI’s left winger?",
+      "options": [
+        "Yukimiya",
+        "Otoya",
+        "Nagi",
+        "Tokimitsu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kenyu Yukimiya is the listed left winger.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q9",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which player is listed as the Blue Lock XI’s right winger?",
+      "options": [
+        "Otoya",
+        "Yukimiya",
+        "Karasu",
+        "Hiori"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eita Otoya is the listed right winger.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q10",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What formation does Japan U-20 use in the guide?",
+      "options": [
+        "4-3-3",
+        "4-5-1",
+        "3-3-4",
+        "5-3-2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Japan U-20 is described as using a 4-3-3.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q11",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is listed as Japan U-20’s attacking midfielder and playmaker?",
+      "options": [
+        "Sae Itoshi",
+        "Oliver Aiku",
+        "Shuto Sendo",
+        "Ryusei Shido"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sae is the U-20’s attacking midfielder and playmaker.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q12",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which U-20 player is the starting center forward in the guide?",
+      "options": [
+        "Shuto Sendo",
+        "Ryusei Shido",
+        "Sae Itoshi",
+        "Kazuma Nio"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sendo is the listed U-20 center forward; Shido is a substitute.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q13",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which U-20 player is listed as the right center back beside Aiku?",
+      "options": [
+        "Kazuma Nio",
+        "Miroku Darai",
+        "Teppei Neru",
+        "Gen Fukaku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kazuma Nio is the right center back, with Aiku at left center back.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q14",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which player is listed as the U-20 goalkeeper?",
+      "options": [
+        "Gen Fukaku",
+        "Gin Gagamaru",
+        "Oliver Aiku",
+        "Itsuki Wakatsuki"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gen Fukaku is the U-20 goalkeeper in the guide.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u4-q15",
+      "series": "Blue Lock",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Blue Lock XI player is specifically described as the team’s pivot?",
+      "options": [
+        "Karasu",
+        "Nagi",
+        "Aryu",
+        "Isagi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasu is the defensive midfielder/pivot of the Blue Lock XI.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q1",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What is the final score of Blue Lock XI versus Japan U-20?",
+      "options": [
+        "2–1",
+        "3–2",
+        "4–3",
+        "5–4"
+      ],
+      "answerIndex": 2,
+      "explanation": "The anime’s U-20 match ends with Blue Lock winning 4–3.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2E38",
+        "arc": "U-20 Japan match",
+        "url": "https://en.wikipedia.org/wiki/List_of_Blue_Lock_episodes",
+        "title": "List of Blue Lock episodes — season 2 and finale",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q2",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Who scores Blue Lock’s winning goal in the U-20 match?",
+      "options": [
+        "Rin Itoshi",
+        "Yoichi Isagi",
+        "Shoei Barou",
+        "Seishiro Nagi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isagi finishes the final attack and gives Blue Lock the 4–3 victory.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2E38",
+        "arc": "U-20 Japan match",
+        "url": "https://en.wikipedia.org/wiki/List_of_Blue_Lock_episodes",
+        "title": "List of Blue Lock episodes — season 2 and finale",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q3",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which substitute changes the U-20 match by entering for Japan?",
+      "options": [
+        "Ryusei Shido",
+        "Reo Mikage",
+        "Hiori Yo",
+        "Jingo Raichi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryusei Shido is the explosive U-20 substitute brought into the match.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2E31–S2E38",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q4",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which Blue Lock substitute is held in reserve because he is difficult to integrate with others?",
+      "options": [
+        "Barou",
+        "Nagi",
+        "Bachira",
+        "Aryu"
+      ],
+      "answerIndex": 0,
+      "explanation": "The U-20 guide says Barou is benched partly because he is a loose cannon who does not play well with others.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q5",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which Blue Lock substitute is explicitly described as ready to play with Nagi?",
+      "options": [
+        "Reo Mikage",
+        "Zantetsu Tsurugi",
+        "Tokimitsu Aoshi",
+        "Igarashi Gurimu"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reo is on the bench and eager to rejoin Nagi if called upon.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q6",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which U-20 defender is the captain who wants a change in Japanese football?",
+      "options": [
+        "Oliver Aiku",
+        "Kazuma Nio",
+        "Miroku Darai",
+        "Teppei Neru"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aiku is captain and is described as wanting change in Japanese football.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q7",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which U-20 player is characterized as a speed-and-physicality right back?",
+      "options": [
+        "Teppei Neru",
+        "Miroku Darai",
+        "Kento Cho",
+        "Teru Kitsunezato"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neru is the right back who relies on speed and physicality.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q8",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which U-20 defender is described as slipping behind opponents like Otoya?",
+      "options": [
+        "Miroku Darai",
+        "Kazuma Nio",
+        "Aiku",
+        "Gen Fukaku"
+      ],
+      "answerIndex": 0,
+      "explanation": "Darai’s defensive movement is compared with Otoya’s ability to slip behind opponents.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q9",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which U-20 player is described as a winger who can also help in defense?",
+      "options": [
+        "Teru Kitsunezato",
+        "Shuto Sendo",
+        "Sae Itoshi",
+        "Haru Hayate"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kitsunezato is the right winger noted for passing, shooting, and defensive value.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q10",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which U-20 midfielder partners with Hayate in the double pivot and specializes in interceptions?",
+      "options": [
+        "Itsuki Wakatsuki",
+        "Sae Itoshi",
+        "Kento Cho",
+        "Shuto Sendo"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wakatsuki is the covering partner who is noted for intercepting passes.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q11",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which Blue Lock XI player is selected as a center back despite lacking the physical presence of some teammates?",
+      "options": [
+        "Ikki Niko",
+        "Jyubei Aryu",
+        "Karasu",
+        "Yukimiya"
+      ],
+      "answerIndex": 0,
+      "explanation": "Niko’s reading of the game earns him the left-center-back role.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q12",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which Blue Lock XI defender is chosen for aerial battles and anticipation of where the ball will fall?",
+      "options": [
+        "Jyubei Aryu",
+        "Ikki Niko",
+        "Chigiri",
+        "Bachira"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aryu’s height, reach, and anticipation make him the aerial center back.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q13",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What role does Sae Itoshi play for the U-20 side?",
+      "options": [
+        "Attacking midfielder",
+        "Center forward",
+        "Goalkeeper",
+        "Right back"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sae is the U-20 attacking midfielder and their principal playmaker.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q14",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What role does Isagi occupy in the Blue Lock XI guide?",
+      "options": [
+        "Offensive midfielder",
+        "Center back",
+        "Goalkeeper",
+        "Left wing back"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isagi is listed as one of the two offensive midfielders.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "S2 / U-20 selection",
+        "arc": "U-20 Japan match",
+        "url": "https://www.crunchyroll.com/news/guides/2024/11/15/blue-lock-characters",
+        "title": "Crunchyroll — Who Are the BLUE LOCK Eleven vs U-20 Japan characters?",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "bluelock-u5-q15",
+      "series": "Blue Lock",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which released animated film retells the early Blue Lock story from Nagi’s viewpoint?",
+      "options": [
+        "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+        "BLUE LOCK: World Five",
+        "BLUE LOCK: U-20 Overture",
+        "BLUE LOCK: Team V Chronicle"
+      ],
+      "answerIndex": 0,
+      "explanation": "The released film is Episode Nagi, an official Nagi-centered retelling of the early project.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": "Film",
+        "arc": "Episode Nagi",
+        "url": "https://bluelock-pr.com/news/22/",
+        "title": "Official Blue Lock news — Episode Nagi film announcement",
+        "status": "verified"
+      }
+    }
+  ]
+}

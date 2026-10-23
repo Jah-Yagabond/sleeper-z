@@ -1,0 +1,22 @@
+{
+  "id": "onepiece-u2-q15",
+  "current_prompt": "Where does Kuma send Nami during the crew's separation?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 418,
+    "episodeTitle": "The Friends' Whereabouts – The Science of Weather and the Mechanical Island",
+    "arc": "Amazon Lily Arc",
+    "url": "https://one-piece.com/news/67440/index.html",
+    "title": "TVアニメ『ONE PIECE』25周年へ向けた新企画！「ANYTIME ONE PIECE」配信エピソード一覧",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://one-piece.com/news/67440/index.html",
+    "https://onepiece.fandom.com/wiki/Episode_418",
+    "https://www.crunchyroll.com/news/guides/2022/11/1/one-piece-arcs-order",
+    "https://en.wikipedia.org/wiki/One_Piece_season_12",
+    "https://onepiece.fandom.com/wiki/Weatheria"
+  ],
+  "finding": "Weatheria is still the correct answer (answerIndex 0). The bank's episode 417 mapping was wrong: official ONE PIECE.com lists episode 417 as 恋はハリケーン！メロメロハンコック, while episode 418 is 仲間達の行方 天候の科学とからくり島; reputable episode references identify episode 418 as the episode in which Nami lands on Weatheria. The Amazon Lily arc covers episodes 408–421, so only the episode/source metadata needed correction.",
+  "status": "corrected"
+}

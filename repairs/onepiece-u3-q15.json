@@ -1,0 +1,23 @@
+{
+  "id": "onepiece-u3-q15",
+  "current_prompt": "What is the main food Sanji prepares as the Whole Cake Island escape reaches its crisis?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 875,
+    "episodeTitle": "A Captivating Flavor! Sanji's Cake of Happiness!",
+    "arc": "Whole Cake Island",
+    "url": "https://one-piece.com/anime/o4977/index.html",
+    "title": "第875話 魅惑の味 幸せのサンジのケーキ | TVアニメ",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://one-piece.com/anime/o4977/index.html",
+    "https://www.crunchyroll.com/watch/GN7UDV22Q/a-captivating-flavor-sanjis-cake-of-happiness",
+    "https://onepiece.fandom.com/wiki/Episode_875",
+    "https://tv.apple.com/us/episode/episode-875/umc.cmc.1f07e3qxmru99gcmsrj8hb5w4?showId=umc.cmc.2jf3h5bibsseewr9bh0rg5kcl",
+    "https://www.crunchyroll.com/news/guides/2022/11/1/one-piece-arcs-order",
+    "https://onepiece.fandom.com/wiki/Episode_876"
+  ],
+  "finding": "The original answer is correct and preserved (answerIndex 0): Sanji prepares a wedding cake. The bank's episode 877 mapping was wrong. Official ONE PIECE.com episode 875 material describes Big Mom reaching and eating the wedding cake, while Crunchyroll identifies episode 875 as A Captivating Flavor! Sanji's Cake of Happiness! and says Mama finally tastes the Wedding Cake. Independent episode 875 and Apple TV listings corroborate the cake event; episode 876 instead covers Jinbe and the Sun Pirates' escape. The official episode page places the story in the Whole Cake Island arc, whose anime span is episodes 783–877.",
+  "status": "corrected"
+}

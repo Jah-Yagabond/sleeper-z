@@ -1,0 +1,1862 @@
+{
+  "id": "aot-no-requiem-story-question-bank",
+  "series": "Attack on Titan: Requiem",
+  "title": "Attack on Titan: Requiem — Story-Focused Alternate Ending Quiz Bank",
+  "adaptationBoundary": "Fan-created alternate continuity only. This quiz covers the released AoT no Requiem fan project and clearly labeled thematic interpretations; it is not official Attack on Titan canon. The project diverges from the original manga after chapters 1–136 and reimagines the ending.",
+  "officialSourceUrls": [
+    "https://www.aotnorequiem.com/",
+    "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+    "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-2/",
+    "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-3/",
+    "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+    "https://www.aotnorequiem.com/theories-and-analysis/the-lamp-and-the-apple/",
+    "https://www.aotnorequiem.com/bonus/interviews/",
+    "https://www.aotnorequiem.com/bonus/musics-and-osts/",
+    "https://www.aotnorequiem.com/bonus/other-fan-endings/"
+  ],
+  "notes": [
+    "75 story-focused questions across five units, 15 questions per unit.",
+    "The project is fan-made and unofficial; the original manga remains canon.",
+    "Questions about the Rumbling and the original ending are context for the alternate scenario. Interpretive questions are phrased as best-reading questions rather than claims of hidden canon.",
+    "Part 2 and Part 3 reader-metadata trivia has been removed."
+  ],
+  "units": [
+    {
+      "unit": 1,
+      "title": "Part 1 — Paths, memory, and the choice to continue",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "questionIds": [
+        "aotnr-u1-q01",
+        "aotnr-u1-q02",
+        "aotnr-u1-q03",
+        "aotnr-u1-q04",
+        "aotnr-u1-q05",
+        "aotnr-u1-q06",
+        "aotnr-u1-q07",
+        "aotnr-u1-q08",
+        "aotnr-u1-q09",
+        "aotnr-u1-q10",
+        "aotnr-u1-q11",
+        "aotnr-u1-q12",
+        "aotnr-u1-q13",
+        "aotnr-u1-q14",
+        "aotnr-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "The Rumbling — Resolve, freedom, and the cost of victory",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "questionIds": [
+        "aotnr-u2-q01",
+        "aotnr-u2-q02",
+        "aotnr-u2-q03",
+        "aotnr-u2-q04",
+        "aotnr-u2-q05",
+        "aotnr-u2-q06",
+        "aotnr-u2-q07",
+        "aotnr-u2-q08",
+        "aotnr-u2-q09",
+        "aotnr-u2-q10",
+        "aotnr-u2-q11",
+        "aotnr-u2-q12",
+        "aotnr-u2-q13",
+        "aotnr-u2-q14",
+        "aotnr-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Part 4 — The battle, the wounded, and the detonator",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "questionIds": [
+        "aotnr-u3-q01",
+        "aotnr-u3-q02",
+        "aotnr-u3-q03",
+        "aotnr-u3-q04",
+        "aotnr-u3-q05",
+        "aotnr-u3-q06",
+        "aotnr-u3-q07",
+        "aotnr-u3-q08",
+        "aotnr-u3-q09",
+        "aotnr-u3-q10",
+        "aotnr-u3-q11",
+        "aotnr-u3-q12",
+        "aotnr-u3-q13",
+        "aotnr-u3-q14",
+        "aotnr-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "The Alliance — Duty, loyalty, and impossible choices",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "questionIds": [
+        "aotnr-u4-q01",
+        "aotnr-u4-q02",
+        "aotnr-u4-q03",
+        "aotnr-u4-q04",
+        "aotnr-u4-q05",
+        "aotnr-u4-q06",
+        "aotnr-u4-q07",
+        "aotnr-u4-q08",
+        "aotnr-u4-q09",
+        "aotnr-u4-q10",
+        "aotnr-u4-q11",
+        "aotnr-u4-q12",
+        "aotnr-u4-q13",
+        "aotnr-u4-q14",
+        "aotnr-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Requiem’s alternate ending — Themes, symbolism, and consequences",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "questionIds": [
+        "aotnr-u5-q01",
+        "aotnr-u5-q02",
+        "aotnr-u5-q03",
+        "aotnr-u5-q04",
+        "aotnr-u5-q05",
+        "aotnr-u5-q06",
+        "aotnr-u5-q07",
+        "aotnr-u5-q08",
+        "aotnr-u5-q09",
+        "aotnr-u5-q10",
+        "aotnr-u5-q11",
+        "aotnr-u5-q12",
+        "aotnr-u5-q13",
+        "aotnr-u5-q14",
+        "aotnr-u5-q15"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "aotnr-u1-q01",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "When Eren wakes beneath the tree in Part 1, whom does he call out to?",
+      "options": [
+        "Mikasa",
+        "Zeke",
+        "Historia",
+        "Armin"
+      ],
+      "answerIndex": 0,
+      "explanation": "The opening exchange has Eren calling for Mikasa.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — opening page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q02",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "What is directly above Eren in the opening image?",
+      "options": [
+        "A tree",
+        "The Founding Titan’s skeleton",
+        "A ship mast",
+        "A ruined wall"
+      ],
+      "answerIndex": 0,
+      "explanation": "The opening image places Eren beneath a tree.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — opening page",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q03",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "Which pair of Titan powers does Eren discuss together?",
+      "options": [
+        "The Beast Titan and the Cart Titan",
+        "The Attack Titan and the Founding Titan",
+        "The Jaw Titan and the Female Titan",
+        "The Armored Titan and the Colossal Titan"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eren names the Attack and Founding Titans in his explanation.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q04",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "In Eren’s explanation, what does he say those powers allowed him to control?",
+      "options": [
+        "Every Eldian’s spoken words",
+        "The weather beyond the Walls",
+        "The memories of every Marleyan",
+        "What he saw"
+      ],
+      "answerIndex": 3,
+      "explanation": "The dialogue frames his power around what he saw.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q05",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "What cycle does Eren say he wants to end?",
+      "options": [
+        "The cycle of Titan inheritance only",
+        "The cycle of hatred",
+        "The cycle of seasons",
+        "The cycle of royal succession"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eren explicitly refers to ending the cycle of hatred.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q06",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "Which contrasting outcomes does Eren say he repeatedly saw?",
+      "options": [
+        "A life at sea and a life underground",
+        "A world without Titans and a world without Eldians",
+        "Peace and endless destruction",
+        "Victory without sacrifice and sacrifice without victory"
+      ],
+      "answerIndex": 2,
+      "explanation": "The dialogue sets peace against endless destruction.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q07",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "Which character’s history is discussed as beginning with enslavement?",
+      "options": [
+        "Ymir Fritz",
+        "Pieck Finger",
+        "Mikasa Ackerman",
+        "Historia Reiss"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Part 1 conversation identifies Ymir as the enslaved girl at the center of Titan history.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q08",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "What place is described in the Part 1 conversation as a place free of death?",
+      "options": [
+        "The Underground",
+        "Paths",
+        "Shiganshina",
+        "Liberio"
+      ],
+      "answerIndex": 1,
+      "explanation": "The conversation invokes Paths while discussing Ymir’s story.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q09",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "What does the speaker say he tried to change within Paths?",
+      "options": [
+        "The language spoken in Marley",
+        "The names of the Nine Titans",
+        "The flow of events",
+        "The location of every Wall"
+      ],
+      "answerIndex": 2,
+      "explanation": "The dialogue says he tried to change the flow of Paths.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q10",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "What does the speaker admit he could not fully prevent?",
+      "options": [
+        "The Scouts from joining the military",
+        "Some things from happening",
+        "The Walls from being built",
+        "The Titan powers from ever existing"
+      ],
+      "answerIndex": 1,
+      "explanation": "The dialogue acknowledges that some things could not be stopped.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q11",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "Whom does the speaker say he tried to understand while walking through the plains?",
+      "options": [
+        "His brother",
+        "His captain",
+        "His childhood friend",
+        "His father"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Part 1 dialogue mentions trying to understand his brother.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q12",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "How does Part 1 answer the question “Are we all free now?”",
+      "options": [
+        "“Not yet.”",
+        "“At last.”",
+        "“Never again.”",
+        "“It was all a dream.”"
+      ],
+      "answerIndex": 0,
+      "explanation": "The line following the question is “Not yet.”",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — closing dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q13",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "What does the Part 1 end card indicate?",
+      "options": [
+        "The reader has reached an epilogue",
+        "The project is complete",
+        "The timeline resets immediately",
+        "The story will continue"
+      ],
+      "answerIndex": 3,
+      "explanation": "The end card says “To be continued...”",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — end card",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q14",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "Which two ideas are placed in tension by the question about Ymir’s use of power?",
+      "options": [
+        "Memory and geography",
+        "Freedom and revenge",
+        "Royalty and commerce",
+        "Technology and tradition"
+      ],
+      "answerIndex": 1,
+      "explanation": "The question frames Ymir’s power through freedom and revenge.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — closing dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u1-q15",
+      "series": "Attack on Titan: Requiem",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "What is the best description of Part 1’s central dramatic question?",
+      "options": [
+        "Whether the Scouts can discover a new continent",
+        "Whether the Titans can be trained as farm animals",
+        "Whether freedom can be reached by continuing a destructive path",
+        "Whether the military will abolish the ODM gear"
+      ],
+      "answerIndex": 2,
+      "explanation": "The dialogue questions whether destruction can truly deliver freedom.",
+      "spoilerLevel": "Major spoilers through Requiem Part 1",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q01",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What event is the immediate backdrop to Requiem’s alternate ending?",
+      "options": [
+        "The battle of Utgard Castle",
+        "The fall of Trost",
+        "The coup against the royal government",
+        "The Rumbling"
+      ],
+      "answerIndex": 3,
+      "explanation": "The project diverges after the original story’s late Rumbling events.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — alternate-ending setup",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q02",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What does Eren’s decision to continue the Rumbling place at the center of the story?",
+      "options": [
+        "The conflict between his idea of freedom and the lives he endangers",
+        "A contest to inherit the Beast Titan",
+        "A dispute over military promotions",
+        "A search for a missing supply train"
+      ],
+      "answerIndex": 0,
+      "explanation": "The alternate ending explores the consequences of Eren’s resolve.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q03",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Which statement best describes the Requiem project’s relationship to the original ending?",
+      "options": [
+        "It is a prequel about the Great Titan War",
+        "It is the official final chapter",
+        "It is an adaptation approved as the manga’s true ending",
+        "It imagines a different outcome rather than replacing official canon"
+      ],
+      "answerIndex": 3,
+      "explanation": "The project describes itself as an unofficial alternate ending.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q04",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "Which chapters does the project homepage say its alternate scenario reworks?",
+      "options": [
+        "Chapters 1–3",
+        "Chapters 45–47",
+        "Chapters 137–139",
+        "Chapters 100–102"
+      ],
+      "answerIndex": 2,
+      "explanation": "The homepage says the project replaces the final three releases, 137–139.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q05",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Which original material does Requiem follow before its divergence?",
+      "options": [
+        "Only the Marley arc",
+        "Chapters 1–136",
+        "Only the anime’s first season",
+        "Only the events of the OVA episodes"
+      ],
+      "answerIndex": 1,
+      "explanation": "The project describes its divergence as following source chapters 001–136.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q06",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What makes Eren’s choice especially tragic in the Requiem premise?",
+      "options": [
+        "He loses the ability to remember his friends",
+        "He refuses to learn how to transform",
+        "He decides to abandon all Titan powers before the battle",
+        "He pursues freedom through an act that devastates lives beyond Paradis"
+      ],
+      "answerIndex": 3,
+      "explanation": "The premise turns on the moral cost of the Rumbling.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q07",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What question does the line “Not yet” leave unresolved?",
+      "options": [
+        "Whether the Walls can be rebuilt in a week",
+        "Whether anyone can truly be free after the violence",
+        "Which regiment owns the airship",
+        "Who will become captain of the Scouts"
+      ],
+      "answerIndex": 1,
+      "explanation": "The line keeps the question of freedom open rather than resolved.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — closing dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q08",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Why is “the cycle of hatred” a meaningful phrase in this story?",
+      "options": [
+        "It refers to the rotation of military shifts",
+        "It links personal revenge to generations of violence",
+        "It names the Titan inheritance ritual",
+        "It describes the seasons inside the Walls"
+      ],
+      "answerIndex": 1,
+      "explanation": "The phrase frames hatred as a repeating historical force.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q09",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What is the main ethical dilemma created by Eren’s plan?",
+      "options": [
+        "Should the military move its headquarters?",
+        "Should the Scouts stop using swords?",
+        "Can Titans be used to harvest crops?",
+        "Can protecting one group justify mass destruction of others?"
+      ],
+      "answerIndex": 3,
+      "explanation": "The Rumbling raises the conflict between survival and mass killing.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — alternate-ending setup",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q10",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What does the alternate-ending format invite readers to consider?",
+      "options": [
+        "How to remove the conflict from the setting entirely",
+        "How the story would work without any characters",
+        "How different choices could change the conclusion",
+        "How to convert the manga into a comedy only"
+      ],
+      "answerIndex": 2,
+      "explanation": "A “what if” ending explores a divergent outcome.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q11",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Which character’s perspective is most directly tied to the question of Ymir’s original suffering?",
+      "options": [
+        "Sasha Blouse",
+        "Ymir Fritz",
+        "Moblit Berner",
+        "Hitch Dreyse"
+      ],
+      "answerIndex": 1,
+      "explanation": "Part 1 directly discusses Ymir’s enslavement and power.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q12",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What does Eren’s continued resolve suggest about the danger of certainty?",
+      "options": [
+        "Certainty always prevents conflict",
+        "A fixed goal can make a person ignore the human cost",
+        "A strong goal guarantees a peaceful outcome",
+        "A person’s motives never affect their choices"
+      ],
+      "answerIndex": 1,
+      "explanation": "This is a thematic interpretation of Eren’s determination and its consequences.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q13",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "Which description best fits the tension between Eren’s stated goal and his method?",
+      "options": [
+        "He seeks royal status by ending the military",
+        "He seeks an end to hatred through catastrophic violence",
+        "He seeks knowledge by abandoning Paths",
+        "He seeks peace by refusing to act"
+      ],
+      "answerIndex": 1,
+      "explanation": "The dialogue pairs the desire to end hatred with the destructive Rumbling.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q14",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What should a reader keep in mind when comparing Requiem with the original ending?",
+      "options": [
+        "They are separate continuities with different outcomes",
+        "The original ending was never published",
+        "Every Requiem event is official manga canon",
+        "Requiem takes place before Eren is born"
+      ],
+      "answerIndex": 0,
+      "explanation": "The project is explicitly fan-made and alternate.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u2-q15",
+      "series": "Attack on Titan: Requiem",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What kind of resolution would best answer the story’s central question about freedom?",
+      "options": [
+        "One that removes all choices from the characters",
+        "One that ignores every victim of the conflict",
+        "One that treats power as proof of moral correctness",
+        "One that confronts both liberation and the consequences of violence"
+      ],
+      "answerIndex": 3,
+      "explanation": "This is an interpretive question about the story’s stated themes.",
+      "spoilerLevel": "Major spoilers for the Rumbling and Requiem premise",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q01",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What event is named in the opening infirmary exchange of Part 4?",
+      "options": [
+        "The Rumbling",
+        "The fall of Wall Maria",
+        "The raid on Liberio",
+        "The uprising against the royal government"
+      ],
+      "answerIndex": 0,
+      "explanation": "The infirmary dialogue identifies the Rumbling as the preceding event.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q02",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What injury does the medic say the awakened soldier suffered?",
+      "options": [
+        "A damaged hand",
+        "A serious head wound",
+        "A broken leg only",
+        "A punctured lung"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Part 4 infirmary exchange mentions a bad head wound.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q03",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Where are sick and wounded people instructed to go?",
+      "options": [
+        "The harbor",
+        "The command tower",
+        "The royal chapel",
+        "The infirmary"
+      ],
+      "answerIndex": 3,
+      "explanation": "The instruction in the scene directs them to the infirmary.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q04",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "After mentioning the Rumbling, what does the injured soldier ask about?",
+      "options": [
+        "The next military election",
+        "The price of a new uniform",
+        "The emergency landing and the others",
+        "The location of the basement key"
+      ],
+      "answerIndex": 2,
+      "explanation": "The dialogue asks about the emergency landing and the others.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q05",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which Titans are shown advancing during the battle?",
+      "options": [
+        "Wall Titans",
+        "The Titans from the Underground",
+        "The Beast Titan’s small Titans",
+        "Pure Titans from Ragako"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Part 4 battle pages show Wall Titans advancing.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q06",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which character is shouted for when a wounded soldier falls?",
+      "options": [
+        "Connie",
+        "Jean",
+        "Reiner",
+        "Levi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jean is explicitly called out during the battle.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q07",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What does a fighter tell Jean to do?",
+      "options": [
+        "Get up",
+        "Drop his blades",
+        "Leave the battlefield permanently",
+        "Return to the airship"
+      ],
+      "answerIndex": 0,
+      "explanation": "The battle dialogue urges Jean to get up.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q08",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What urgent objective is called out during the battle?",
+      "options": [
+        "Destroy the harbor gates",
+        "Find the basement books",
+        "Reach the detonator",
+        "Recover the royal crown"
+      ],
+      "answerIndex": 2,
+      "explanation": "The battle dialogue names reaching the detonator as the urgent objective.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q09",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What does one fighter say he will do after covering the others?",
+      "options": [
+        "Return to the infirmary",
+        "Abandon the mission",
+        "Surrender immediately",
+        "Finish this"
+      ],
+      "answerIndex": 3,
+      "explanation": "The line in Part 4 is “Finish this.”",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q10",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What equipment enables the soldiers’ rapid three-dimensional movement?",
+      "options": [
+        "Anti-Titan rifles alone",
+        "Thunder spears alone",
+        "Armored train couplings",
+        "Omni-directional mobility gear"
+      ],
+      "answerIndex": 3,
+      "explanation": "The battle depicts soldiers using maneuver gear to move through the fight.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q11",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What does the Part 4 end card indicate?",
+      "options": [
+        "The project is a prequel",
+        "The story continues",
+        "The official canon has been replaced",
+        "The Rumbling never happened"
+      ],
+      "answerIndex": 1,
+      "explanation": "The end card says “To be continued...”",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — end card",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q12",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What is the main tactical pressure in the Part 4 battle?",
+      "options": [
+        "Reaching the detonator while fighting through danger",
+        "Finding a hidden royal document",
+        "Escaping a training exercise",
+        "Winning a public debate in Mitras"
+      ],
+      "answerIndex": 0,
+      "explanation": "The battle dialogue explicitly emphasizes getting to the detonator.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q13",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "Why does the infirmary scene matter before the action resumes?",
+      "options": [
+        "It shows the human cost and confusion left by the Rumbling",
+        "It introduces a new military academy",
+        "It proves the battle was a dream",
+        "It reveals a new Titan shifter immediately"
+      ],
+      "answerIndex": 0,
+      "explanation": "The scene begins with wounded people and urgent questions after the Rumbling.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q14",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What does the call for Jean communicate about the battle?",
+      "options": [
+        "Jean is no longer part of the conflict",
+        "The fighters are vulnerable and rely on one another",
+        "The soldiers have switched to a training match",
+        "The fight has already ended peacefully"
+      ],
+      "answerIndex": 1,
+      "explanation": "The shouted call occurs amid injury and active combat.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u3-q15",
+      "series": "Attack on Titan: Requiem",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which description best fits the mood of the Part 4 battle sequence?",
+      "options": [
+        "Urgent, dangerous, and unresolved",
+        "Relaxed and celebratory",
+        "Comedic and consequence-free",
+        "A calm flashback to childhood"
+      ],
+      "answerIndex": 0,
+      "explanation": "The battle’s injuries, Wall Titans, and detonator objective create urgency.",
+      "spoilerLevel": "Major spoilers through Requiem Part 4",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q01",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "medium",
+      "prompt": "What does the wounded soldier’s question about “the others” reveal?",
+      "options": [
+        "The battle is a staged performance",
+        "The soldier only cares about military rank",
+        "The fighters’ survival matters alongside the mission",
+        "The soldiers have forgotten the Rumbling"
+      ],
+      "answerIndex": 2,
+      "explanation": "The question about the others highlights concern for comrades.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q02",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "Why is Jean’s fall or injury important to the scene’s tension?",
+      "options": [
+        "It ends the Rumbling instantly",
+        "It proves Jean has become a Titan",
+        "It threatens the team’s ability to keep moving toward its objective",
+        "It confirms the battle is over"
+      ],
+      "answerIndex": 2,
+      "explanation": "The call for Jean occurs while the team is under pressure.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q03",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "What does the order to reach the detonator suggest about the plan?",
+      "options": [
+        "A specific action is needed to affect the ongoing battle",
+        "The mission is to arrest a civilian witness",
+        "The soldiers are trying to repair a ship",
+        "The team has abandoned every objective"
+      ],
+      "answerIndex": 0,
+      "explanation": "The detonator is named as an urgent objective.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q04",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "medium",
+      "prompt": "What does “I’ll cover you” imply in a battlefield context?",
+      "options": [
+        "The fighter has already surrendered",
+        "The fighter is announcing a change of uniform",
+        "The fighter is ordering everyone to stop",
+        "One fighter accepts risk to give others a chance to act"
+      ],
+      "answerIndex": 3,
+      "explanation": "The line signals tactical support and willingness to face danger.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q05",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "How does the infirmary contrast with the battle pages?",
+      "options": [
+        "It explains the origin of the Walls in full",
+        "It shows a peaceful world untouched by war",
+        "It shifts to a comedy tournament",
+        "It focuses on aftermath and injury before returning to immediate danger"
+      ],
+      "answerIndex": 3,
+      "explanation": "The sequence moves from wounded survivors to active battle.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary and battle scenes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q06",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "What does the advancing Wall Titans remind the reader of?",
+      "options": [
+        "The enormous scale of the Rumbling’s threat",
+        "The end of all military conflict",
+        "The harmlessness of Titans",
+        "The importance of royal ceremonies"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wall Titans are the visible force behind the Rumbling.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q07",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "medium",
+      "prompt": "Which choice best describes the Scouts’ dilemma in the final conflict?",
+      "options": [
+        "They have no reason to cooperate",
+        "They are deciding which festival to attend",
+        "They can wait indefinitely without consequences",
+        "They must act under pressure while trying to stop catastrophic harm"
+      ],
+      "answerIndex": 3,
+      "explanation": "The battle’s urgency and destructive stakes force immediate decisions.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q08",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "Why is cooperation essential during the battle?",
+      "options": [
+        "The Titans have agreed to stop fighting",
+        "No single fighter can easily handle every threat and objective alone",
+        "The equipment only works when nobody moves",
+        "The soldiers are competing for a prize"
+      ],
+      "answerIndex": 1,
+      "explanation": "The scene repeatedly shows fighters covering one another and pursuing a shared objective.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q09",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "What is the best reading of the repeated calls and commands in Part 4?",
+      "options": [
+        "They are all memories from the training corps",
+        "They are ceremonial speeches unrelated to combat",
+        "They communicate urgency and coordination amid chaos",
+        "They indicate that no danger remains"
+      ],
+      "answerIndex": 2,
+      "explanation": "The commands are tied to the active battlefield.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q10",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "medium",
+      "prompt": "What does the continuing story card imply about the characters’ fate at this point?",
+      "options": [
+        "Their conflict has not yet reached a final resolution in the released part",
+        "The project has officially ended",
+        "The story has returned to chapter one",
+        "Every character’s future is already explained"
+      ],
+      "answerIndex": 0,
+      "explanation": "The end card explicitly promises continuation.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — end card",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q11",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "What does the Requiem format allow the creators to explore?",
+      "options": [
+        "A factual report of official canon changes",
+        "A replacement for every earlier chapter",
+        "Different consequences for the characters’ final choices",
+        "A version with no connection to Attack on Titan"
+      ],
+      "answerIndex": 2,
+      "explanation": "The project describes itself as an alternate ending after the source chapters.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q12",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "Which is the most careful way to describe Jean’s role in the Part 4 excerpt?",
+      "options": [
+        "He is confirmed to defeat every Titan alone",
+        "He is called out during a dangerous battle sequence",
+        "He is absent from the entire sequence",
+        "He is shown becoming the Founding Titan"
+      ],
+      "answerIndex": 1,
+      "explanation": "The released Part 4 dialogue calls for Jean during the battle.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q13",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "medium",
+      "prompt": "What is the clearest sign that the battle is not a simple victory lap?",
+      "options": [
+        "A festival parade after the battle",
+        "A narrator announcing that everyone is safe",
+        "The wounded, urgent orders, and unresolved end card",
+        "A scene showing the army disbanding in peace"
+      ],
+      "answerIndex": 2,
+      "explanation": "The sequence emphasizes injury, urgency, and continuation.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — battle pages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q14",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "What does the story’s focus on injured soldiers add to its war narrative?",
+      "options": [
+        "It shifts the story into a cooking contest",
+        "It foregrounds the cost paid by people caught in the conflict",
+        "It suggests war has no physical consequences",
+        "It removes stakes from the Rumbling"
+      ],
+      "answerIndex": 1,
+      "explanation": "The infirmary scene opens on wounded people after the Rumbling.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — infirmary scene",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u4-q15",
+      "series": "Attack on Titan: Requiem",
+      "unit": 4,
+      "difficulty": "hard",
+      "prompt": "Which outcome is still uncertain at the end of the released Part 4 excerpt?",
+      "options": [
+        "Whether the story takes place on Earth",
+        "Whether Eren ever possessed Titan powers",
+        "Whether the fighters can complete their urgent objective",
+        "Whether the Walls existed"
+      ],
+      "answerIndex": 2,
+      "explanation": "The excerpt ends with the story continuing rather than a full resolution.",
+      "spoilerLevel": "Major spoilers through the final battle setup",
+      "source": {
+        "chapter": "Part 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-4/",
+        "title": "AoT no Requiem: Part 4 — end card",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q01",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "medium",
+      "prompt": "What kind of work does the project homepage call Attack on Titan: Requiem?",
+      "options": [
+        "A fan-made alternate ending",
+        "An official sequel written by Hajime Isayama",
+        "A television season produced by MAPPA",
+        "A canon prequel about Levi"
+      ],
+      "answerIndex": 0,
+      "explanation": "The homepage explicitly identifies it as a fan-made alternate ending.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q02",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "What form does the homepage use to describe the collaborative work?",
+      "options": [
+        "An official anime screenplay",
+        "A military history textbook",
+        "A doujinshi",
+        "A licensed video game expansion"
+      ],
+      "answerIndex": 2,
+      "explanation": "The homepage describes the work as a doujinshi.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q03",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "Which music video is named as a major inspiration for the alternate ending?",
+      "options": [
+        "“Shinzo wo Sasageyo” by Linked Horizon",
+        "“Red Swan” by Yoshiki",
+        "“Akatsuki no Requiem” by Linked Horizon",
+        "“Guren no Yumiya” by Linked Horizon"
+      ],
+      "answerIndex": 2,
+      "explanation": "The project homepage says it is based in large part on the “Akatsuki no Requiem” music video.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q04",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "medium",
+      "prompt": "In what year did the project originally begin, according to its homepage?",
+      "options": [
+        "2021",
+        "2013",
+        "2017",
+        "2024"
+      ],
+      "answerIndex": 0,
+      "explanation": "The homepage says the project originally started in 2021.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q05",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "How does the homepage describe the project’s contributors?",
+      "options": [
+        "A collaborative group of fans from across the globe",
+        "The original Japanese animation staff",
+        "A government research team",
+        "A single official manga editor"
+      ],
+      "answerIndex": 0,
+      "explanation": "The homepage describes a collaborative group of diverse fans.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q06",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "What is the main purpose of an alternate ending like Requiem?",
+      "options": [
+        "To explore a different possible outcome for the story",
+        "To claim fan work is official canon",
+        "To erase the original work from publication",
+        "To retell only the first episode"
+      ],
+      "answerIndex": 0,
+      "explanation": "The project describes itself as a divergent scenario, not official canon.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q07",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "medium",
+      "prompt": "Which original chapters does the project say come before its divergence?",
+      "options": [
+        "1–20",
+        "1–136",
+        "45–80",
+        "137–139"
+      ],
+      "answerIndex": 1,
+      "explanation": "The homepage says the alternate scenario follows chapters 001–136.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q08",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "Who is the enslaved girl discussed in Part 1’s Paths conversation?",
+      "options": [
+        "Mikasa Ackerman",
+        "Ymir Fritz",
+        "Historia Reiss",
+        "Annie Leonhart"
+      ],
+      "answerIndex": 1,
+      "explanation": "Part 1 discusses Ymir’s enslavement and the beginning of Titan history.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q09",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "What question does the Requiem story repeatedly raise about freedom?",
+      "options": [
+        "Whether freedom requires a royal title",
+        "Whether freedom means avoiding all decisions",
+        "Whether freedom can be achieved without perpetuating violence",
+        "Whether freedom is a type of Titan hardening"
+      ],
+      "answerIndex": 2,
+      "explanation": "The dialogue connects freedom with the cycle of hatred and destruction.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Part 1",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/chapter/aot-no-requiem/part-1/",
+        "title": "AoT no Requiem: Part 1 — Paths dialogue",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q10",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "medium",
+      "prompt": "What does the title “Requiem” most naturally suggest in the context of this ending?",
+      "options": [
+        "A lament for loss and the consequences of choices",
+        "A guide to Titan biology",
+        "A lighthearted school festival",
+        "A military promotion ceremony"
+      ],
+      "answerIndex": 0,
+      "explanation": "This is a thematic interpretation of the project’s title and tragic subject matter.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q11",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "What is “The Lamp and the Apple” in the project’s supplementary material?",
+      "options": [
+        "A military weapon manual",
+        "A list of Titan-shifter rankings",
+        "An official chapter title in the original manga",
+        "A fan theory and analysis connected to the alternate-ending premise"
+      ],
+      "answerIndex": 3,
+      "explanation": "The supplementary page presents “The Lamp and the Apple” as theory and analysis.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Supplementary analysis",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/theories-and-analysis/the-lamp-and-the-apple/",
+        "title": "The Lamp and the Apple analysis",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q12",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "Which original manga chapter is discussed in the analysis for revealing Ymir Fritz’s past?",
+      "options": [
+        "Chapter 54",
+        "Chapter 139",
+        "Chapter 1",
+        "Chapter 122"
+      ],
+      "answerIndex": 3,
+      "explanation": "The analysis calls chapter 122 important for revealing Ymir Fritz’s past.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Supplementary analysis",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/theories-and-analysis/the-lamp-and-the-apple/",
+        "title": "The Lamp and the Apple analysis",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q13",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "medium",
+      "prompt": "Which object is interpreted in the theory as connected to love, sexuality, and fertility?",
+      "options": [
+        "A broken sword",
+        "A red scarf",
+        "A compass",
+        "The apple"
+      ],
+      "answerIndex": 3,
+      "explanation": "The analysis associates the apple with sexuality, love, and fertility.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Supplementary analysis",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/theories-and-analysis/the-lamp-and-the-apple/",
+        "title": "The Lamp and the Apple analysis",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q14",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "What is the most important distinction when discussing Requiem alongside the original manga?",
+      "options": [
+        "Requiem is the only legal ending",
+        "Requiem makes every earlier event non-canon",
+        "Requiem is unofficial fan-created continuity",
+        "Requiem was published as chapters 137–139 by the original author"
+      ],
+      "answerIndex": 2,
+      "explanation": "The project itself emphasizes that it is fan-made and asks readers to support the official franchise.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Project overview",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem homepage",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "aotnr-u5-q15",
+      "series": "Attack on Titan: Requiem",
+      "unit": 5,
+      "difficulty": "hard",
+      "prompt": "Which theme best unites the Paths dialogue and the battlefield scenes?",
+      "options": [
+        "The human cost of pursuing freedom through violence",
+        "The importance of military uniforms",
+        "The comedy of mistaken identities",
+        "The benefits of avoiding every difficult choice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The dialogue explores hatred and freedom, while Part 4 shows the physical cost of the conflict.",
+      "spoilerLevel": "Major spoilers; fan-made alternate continuity",
+      "source": {
+        "chapter": "Parts 1 and 4",
+        "arc": "AoT no Requiem — fan-made alternate ending",
+        "url": "https://www.aotnorequiem.com/",
+        "title": "AoT no Requiem: Parts 1 and 4",
+        "status": "verified"
+      }
+    }
+  ]
+}

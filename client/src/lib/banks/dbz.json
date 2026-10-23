@@ -1,0 +1,1856 @@
+{
+  "id": "sleeperz-dbz",
+  "series": "Dragon Ball Z",
+  "title": "Sleeper-Z Dragon Ball Z Structured Question Bank",
+  "adaptationBoundary": "Released Dragon Ball Z television anime continuity only (episodes 1-291); excludes Dragon Ball Kai-only editing differences, Dragon Ball Super, GT, films unless directly part of Z TV continuity, manga-only facts, games, and fan claims.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Saiyan and Namek Foundations",
+      "spoilerLevel": "high",
+      "questionIds": [
+        "dbz-u1-q1",
+        "dbz-u1-q2",
+        "dbz-u1-q3",
+        "dbz-u1-q4",
+        "dbz-u1-q5",
+        "dbz-u1-q6",
+        "dbz-u1-q7",
+        "dbz-u1-q8",
+        "dbz-u1-q9",
+        "dbz-u1-q10",
+        "dbz-u1-q11",
+        "dbz-u1-q12",
+        "dbz-u1-q13",
+        "dbz-u1-q14",
+        "dbz-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Frieza, Trunks, Androids, and Cell Foundations",
+      "spoilerLevel": "high",
+      "questionIds": [
+        "dbz-u2-q1",
+        "dbz-u2-q2",
+        "dbz-u2-q3",
+        "dbz-u2-q4",
+        "dbz-u2-q5",
+        "dbz-u2-q6",
+        "dbz-u2-q7",
+        "dbz-u2-q8",
+        "dbz-u2-q9",
+        "dbz-u2-q10",
+        "dbz-u2-q11",
+        "dbz-u2-q12",
+        "dbz-u2-q13",
+        "dbz-u2-q14",
+        "dbz-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Tournament and Majin Buu Turning Point",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "dbz-u3-q1",
+        "dbz-u3-q2",
+        "dbz-u3-q3",
+        "dbz-u3-q4",
+        "dbz-u3-q5",
+        "dbz-u3-q6",
+        "dbz-u3-q7",
+        "dbz-u3-q8",
+        "dbz-u3-q9",
+        "dbz-u3-q10",
+        "dbz-u3-q11",
+        "dbz-u3-q12",
+        "dbz-u3-q13",
+        "dbz-u3-q14",
+        "dbz-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Buu’s Transformations and Final Battle",
+      "spoilerLevel": "extreme",
+      "questionIds": [
+        "dbz-u4-q1",
+        "dbz-u4-q2",
+        "dbz-u4-q3",
+        "dbz-u4-q4",
+        "dbz-u4-q5",
+        "dbz-u4-q6",
+        "dbz-u4-q7",
+        "dbz-u4-q8",
+        "dbz-u4-q9",
+        "dbz-u4-q10",
+        "dbz-u4-q11",
+        "dbz-u4-q12",
+        "dbz-u4-q13",
+        "dbz-u4-q14",
+        "dbz-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Peaceful World Canon Mastery",
+      "spoilerLevel": "extreme",
+      "questionIds": [
+        "dbz-u5-q1",
+        "dbz-u5-q2",
+        "dbz-u5-q3",
+        "dbz-u5-q4",
+        "dbz-u5-q5",
+        "dbz-u5-q6",
+        "dbz-u5-q7",
+        "dbz-u5-q8",
+        "dbz-u5-q9",
+        "dbz-u5-q10",
+        "dbz-u5-q11",
+        "dbz-u5-q12",
+        "dbz-u5-q13",
+        "dbz-u5-q14",
+        "dbz-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://lineup.toei-anim.co.jp/en/tv/dragonz/",
+    "https://www.kanzenshuu.com/episode/dbz/",
+    "https://www.crunchyroll.com/news/guides/2022/8/16/feature-the-ultimate-dragon-ball-series-story-arc-guide"
+  ],
+  "notes": [
+    "Original wording; exactly 5 units and 15 unique questions per unit.",
+    "Episode ranges and the 291-episode TV boundary were cross-checked against Toei Animation, Kanzenshuu, and Crunchyroll episode guides.",
+    "Questions use the original Z TV continuity, including its anime-original filler where directly relevant.",
+    "The source status is verified for all retained questions; no unresolved episode references were retained."
+  ],
+  "questions": [
+    {
+      "id": "dbz-u1-q1",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is Raditz’s relationship to Goku?",
+      "options": [
+        "His father",
+        "His older brother",
+        "His cousin",
+        "His uncle"
+      ],
+      "answerIndex": 1,
+      "explanation": "Raditz identifies himself as Goku’s older brother.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": 2,
+        "arc": "Raditz Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q2",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which technique does Piccolo use to pierce both Raditz and Goku?",
+      "options": [
+        "Hellzone Grenade",
+        "Special Beam Cannon",
+        "Light Grenade",
+        "Masenko"
+      ],
+      "answerIndex": 1,
+      "explanation": "Piccolo’s Makankosappo, commonly called the Special Beam Cannon, kills Raditz while Goku restrains him.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": 5,
+        "arc": "Raditz Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q3",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What prompts Gohan to attack Raditz during the first battle?",
+      "options": [
+        "He sees the Dragon Balls",
+        "He hears Chi-Chi call him",
+        "He becomes enraged inside Raditz’s space pod",
+        "He is ordered by Piccolo"
+      ],
+      "answerIndex": 2,
+      "explanation": "Gohan’s burst of hidden power is triggered by rage while he is trapped in Raditz’s pod.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": 3,
+        "arc": "Raditz Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q4",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Why does Goku die during the fight with Raditz?",
+      "options": [
+        "He is hit by his own Kamehameha",
+        "He holds Raditz in place for Piccolo’s beam",
+        "He gives his life to revive Gohan",
+        "He is drained by the Scouter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku restrains Raditz so Piccolo can land the Special Beam Cannon, and the beam kills Goku as well.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": 5,
+        "arc": "Raditz Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q5",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who kills Nappa after Nappa is unable to continue fighting?",
+      "options": [
+        "Krillin",
+        "Vegeta",
+        "Gohan",
+        "Piccolo"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vegeta kills Nappa when the defeated Saiyan can no longer fight.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 35,
+        "arc": "Vegeta Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q6",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who dies while shielding Gohan from Nappa’s attack?",
+      "options": [
+        "Tien",
+        "Yamcha",
+        "Piccolo",
+        "Chiaotzu"
+      ],
+      "answerIndex": 2,
+      "explanation": "Piccolo takes the blast meant for Gohan and dies, also causing Kami to die.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 28,
+        "arc": "Vegeta Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q7",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "How does Yajirobe help turn the battle against Vegeta?",
+      "options": [
+        "He destroys Vegeta’s Scouter",
+        "He cuts off Vegeta’s tail",
+        "He steals Vegeta’s armor",
+        "He revives Goku"
+      ],
+      "answerIndex": 1,
+      "explanation": "Yajirobe cuts off Vegeta’s tail while Vegeta is an ape.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 34,
+        "arc": "Vegeta Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q8",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which ability lets Goku multiply his power while fighting Vegeta?",
+      "options": [
+        "Kaioken",
+        "Fusion Dance",
+        "Solar Flare",
+        "Spirit Control"
+      ],
+      "answerIndex": 0,
+      "explanation": "Goku uses the Kaioken to increase his power, including in the battle with Vegeta.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 30,
+        "arc": "Vegeta Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q9",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the primary reason Gohan, Krillin, and Bulma travel to Namek?",
+      "options": [
+        "To find a new spaceship",
+        "To locate Namek’s Dragon Balls",
+        "To rescue King Kai",
+        "To hunt the Saiyans"
+      ],
+      "answerIndex": 1,
+      "explanation": "They travel to Namek to use its Dragon Balls to revive their fallen friends.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 36,
+        "arc": "Namek Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q10",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who is the first member of Frieza’s forces to be killed by Vegeta on Namek?",
+      "options": [
+        "Zarbon",
+        "Dodoria",
+        "Cui",
+        "Captain Ginyu"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vegeta ambushes and kills Dodoria after obtaining information from him.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 60,
+        "arc": "Namek Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q11",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Whose potential does the Grand Elder unlock on Namek?",
+      "options": [
+        "Yamcha’s",
+        "Krillin’s",
+        "Tien’s",
+        "Nail’s"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Grand Elder uses his ability to draw out Krillin’s dormant potential.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 64,
+        "arc": "Namek Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q12",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What happens when Captain Ginyu uses Body Change on Goku?",
+      "options": [
+        "Goku permanently loses his body",
+        "Ginyu and Goku exchange bodies",
+        "Ginyu steals Goku’s energy only",
+        "Goku is turned into a frog"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ginyu switches bodies with Goku, leaving Goku in Ginyu’s injured body.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 71,
+        "arc": "Captain Ginyu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q13",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does Dende primarily do when he is first brought to the battlefield against Frieza?",
+      "options": [
+        "Repairs spaceships",
+        "Heals injured allies",
+        "Creates a moon",
+        "Seals Frieza"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dende’s healing ability restores severely injured allies, including Vegeta.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 75,
+        "arc": "Frieza Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q14",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What power level does Frieza state for his first form?",
+      "options": [
+        "53,000",
+        "530,000",
+        "5,300,000",
+        "530"
+      ],
+      "answerIndex": 1,
+      "explanation": "Frieza states that his first-form power level is over 530,000.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 76,
+        "arc": "Frieza Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u1-q15",
+      "series": "Dragon Ball Z",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What transformation does Goku first achieve after Frieza kills Krillin?",
+      "options": [
+        "Super Saiyan",
+        "Super Saiyan 2",
+        "Great Ape",
+        "Kaio-ken x20"
+      ],
+      "answerIndex": 0,
+      "explanation": "Krillin’s death triggers Goku’s first Super Saiyan transformation.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 95,
+        "arc": "Frieza Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q1",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "How does Goku return to Earth after the Namek conflict?",
+      "options": [
+        "He is wished there by Shenron",
+        "He uses a spaceship",
+        "He uses Instant Transmission",
+        "He is carried by Porunga"
+      ],
+      "answerIndex": 2,
+      "explanation": "Goku returns using Instant Transmission after learning it on Yardrat.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 121,
+        "arc": "Trunks Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q2",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Who kills Mecha-Frieza on Earth?",
+      "options": [
+        "Vegeta",
+        "Future Trunks",
+        "Goku",
+        "Piccolo"
+      ],
+      "answerIndex": 1,
+      "explanation": "Future Trunks appears and cuts Mecha-Frieza down with his sword.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 120,
+        "arc": "Trunks Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q3",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What warning does Future Trunks give the Z Fighters?",
+      "options": [
+        "A new Saiyan invasion in one year",
+        "Androids will attack in three years",
+        "Namek will be destroyed again",
+        "Babidi will awaken Majin Buu"
+      ],
+      "answerIndex": 1,
+      "explanation": "Trunks warns that artificial humans will attack in three years.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 125,
+        "arc": "Trunks Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q4",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which character is revealed to be the future son of Vegeta and Bulma?",
+      "options": [
+        "Future Gohan",
+        "Future Trunks",
+        "Future Goten",
+        "Future Uub"
+      ],
+      "answerIndex": 1,
+      "explanation": "Trunks reveals that he is Vegeta and Bulma’s son from the future.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 123,
+        "arc": "Trunks Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q5",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which Red Ribbon Army scientist becomes Android 20?",
+      "options": [
+        "Dr. Brief",
+        "Dr. Gero",
+        "Dr. Hedo",
+        "Dr. Flappe"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dr. Gero converts himself into Android 20.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 130,
+        "arc": "Androids Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q6",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Who defeats Android 19 in their first major fight?",
+      "options": [
+        "Goku",
+        "Vegeta",
+        "Piccolo",
+        "Trunks"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vegeta’s newly achieved Super Saiyan power overwhelms Android 19.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 131,
+        "arc": "Androids Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q7",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which Android is characterized as a gentle giant who initially refuses to fight?",
+      "options": [
+        "Android 16",
+        "Android 17",
+        "Android 18",
+        "Android 19"
+      ],
+      "answerIndex": 0,
+      "explanation": "Android 16 is initially quiet and reluctant to fight, despite his immense power.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 134,
+        "arc": "Androids Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q8",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What does Cell need to absorb to reach his perfect form?",
+      "options": [
+        "Androids 16 and 19",
+        "Androids 17 and 18",
+        "Androids 18 and 20",
+        "Krillin and Trunks"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cell’s programmed goal is to absorb Androids 17 and 18.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 141,
+        "arc": "Imperfect Cell Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q9",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "How long does one year inside the Hyperbolic Time Chamber correspond to outside?",
+      "options": [
+        "One day",
+        "One week",
+        "One month",
+        "One year"
+      ],
+      "answerIndex": 0,
+      "explanation": "Time passes differently there: one year inside is about one day outside.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 146,
+        "arc": "Imperfect Cell Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q10",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which technique does Tien use repeatedly to hold Semi-Perfect Cell in place?",
+      "options": [
+        "Tri-Beam",
+        "Solar Flare",
+        "Dodon Ray",
+        "Spirit Bomb"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tien’s Neo Tri-Beam pins Cell down long enough to delay him.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 154,
+        "arc": "Imperfect Cell Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q11",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which attack does Vegeta use against Cell after Cell reaches his semi-perfect form?",
+      "options": [
+        "Final Flash",
+        "Big Bang Attack",
+        "Galick Gun",
+        "Atomic Blast"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vegeta fires the Final Flash at Cell.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 162,
+        "arc": "Perfect Cell Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q12",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Why does Cell fail to remain dead after Goku teleports him away?",
+      "options": [
+        "Cell has a healing senzu",
+        "A surviving core regenerates him",
+        "Frieza revives him",
+        "The Dragon Balls restore him"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cell explains that his core survives and can regenerate his body.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 183,
+        "arc": "Cell Games Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q13",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What does Dende become after being brought to Earth?",
+      "options": [
+        "Earth’s new guardian",
+        "A Supreme Kai",
+        "The Grand Elder",
+        "A Kaiōshin attendant"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dende becomes Earth’s guardian and restores its Dragon Balls.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 172,
+        "arc": "Cell Games Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q14",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Why does Goku remain dead after the Cell Games?",
+      "options": [
+        "He cannot be revived",
+        "He chooses to stay dead to protect Earth",
+        "Shenron refuses the wish",
+        "King Kai banishes him"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku decides that Earth may be safer if he does not return.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 194,
+        "arc": "Cell Games Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u2-q15",
+      "series": "Dragon Ball Z",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Who wins the Other World Tournament shown after the Cell Games?",
+      "options": [
+        "Goku",
+        "Pikkon",
+        "King Kai",
+        "Paikuhan’s opponent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Goku is shown winning the Other World Tournament final against Pikkon.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 199,
+        "arc": "Other World Tournament",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q1",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What civilian identity does Gohan adopt in Satan City?",
+      "options": [
+        "The Great Saiyaman",
+        "Golden Warrior",
+        "Saiyan Man",
+        "Mighty Gohan"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gohan becomes the superhero called the Great Saiyaman.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 200,
+        "arc": "Great Saiyaman Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q2",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which person discovers that Gohan is the Great Saiyaman?",
+      "options": [
+        "Bulma",
+        "Videl",
+        "Chi-Chi",
+        "Marron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Videl notices that Gohan is the mysterious masked hero.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 205,
+        "arc": "Great Saiyaman Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q3",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Gohan teach Videl so she can participate in the tournament?",
+      "options": [
+        "Fusion",
+        "Flight",
+        "Kaioken",
+        "Instant Transmission"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gohan teaches Videl to control ki well enough to fly.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": 207,
+        "arc": "Great Saiyaman Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q4",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who is Goku’s second son, first met by Goku after his return?",
+      "options": [
+        "Trunks",
+        "Goten",
+        "Uub",
+        "Bulla"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goten is Goku’s younger son and is introduced during the tournament period.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 205,
+        "arc": "Great Saiyaman Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q5",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who wins the final match of the junior division at the 25th World Martial Arts Tournament?",
+      "options": [
+        "Goten",
+        "Trunks",
+        "Marron",
+        "Videl"
+      ],
+      "answerIndex": 1,
+      "explanation": "Trunks defeats Goten in the junior-division final.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 211,
+        "arc": "World Tournament Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q6",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which fighter is badly injured by Spopovich during the tournament?",
+      "options": [
+        "Videl",
+        "Bulma",
+        "Chi-Chi",
+        "Marron"
+      ],
+      "answerIndex": 0,
+      "explanation": "Spopovich brutally injures Videl before Gohan intervenes.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 214,
+        "arc": "World Tournament Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q7",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What alias does the Supreme Kai use when he enters the tournament?",
+      "options": [
+        "Shin",
+        "Jin",
+        "East Kai",
+        "Kibito"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Supreme Kai enters under the name Shin.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": 213,
+        "arc": "World Tournament Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q8",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Babidi use to control Vegeta?",
+      "options": [
+        "A cursed sword",
+        "A magical seal marked with an M",
+        "A Dragon Ball wish",
+        "A parasite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Babidi’s magic places the Majin mark on Vegeta and amplifies his evil impulses.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 228,
+        "arc": "Babidi Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q9",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the immediate result of Vegeta’s Majin transformation?",
+      "options": [
+        "He becomes unable to use ki",
+        "His power is amplified and he challenges Goku",
+        "He loses his memories",
+        "He turns into a Great Ape"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Majin influence boosts Vegeta and drives him to fight Goku.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 229,
+        "arc": "Babidi Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q10",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Babidi need to fill in order to revive Majin Buu?",
+      "options": [
+        "A magic mirror",
+        "A cocoon or egg containing Buu",
+        "The Dragon Radar",
+        "A Namekian altar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Babidi gathers energy to release Buu from his sealed egg.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 232,
+        "arc": "Majin Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q11",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which technique is Vegeta using when he sacrifices himself against Majin Buu?",
+      "options": [
+        "Final Explosion",
+        "Final Flash",
+        "Big Bang Attack",
+        "Gamma Burst Flash"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vegeta detonates his own life force in the Final Explosion.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 237,
+        "arc": "Majin Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q12",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Goku teach Goten and Trunks as a way to combine their power?",
+      "options": [
+        "Potara fusion",
+        "The Fusion Dance",
+        "Kaioken",
+        "Spirit Bomb"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku teaches them the Metamoran Fusion Dance.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 251,
+        "arc": "Majin Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q13",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the name of the fused warrior created by Goten and Trunks?",
+      "options": [
+        "Gotenks",
+        "Trunkten",
+        "Gogeta",
+        "Vegito"
+      ],
+      "answerIndex": 0,
+      "explanation": "Their successful fusion creates Gotenks.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 251,
+        "arc": "Majin Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q14",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What unusual form does Super Buu take after absorbing Gotenks?",
+      "options": [
+        "Kid Buu",
+        "Super Buu with Gotenks’ power",
+        "Pure Buu",
+        "Fat Buu"
+      ],
+      "answerIndex": 1,
+      "explanation": "Absorbing Gotenks gives Super Buu his fused warrior’s power and appearance.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 266,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u3-q15",
+      "series": "Dragon Ball Z",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which two heroes use Potara earrings to fuse against Buu?",
+      "options": [
+        "Goku and Gohan",
+        "Goku and Vegeta",
+        "Vegeta and Trunks",
+        "Gohan and Piccolo"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku and Vegeta use the Potara to become Vegito.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 268,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q1",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Mr. Satan do that helps calm the good side of Majin Buu?",
+      "options": [
+        "He challenges Buu to a duel",
+        "He befriends Buu and treats him kindly",
+        "He wishes Buu away",
+        "He seals Buu in the Hyperbolic Time Chamber"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mr. Satan’s friendship helps the good side of Buu resist violence.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 254,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q2",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What happens when Buu’s evil half emerges from the good Buu?",
+      "options": [
+        "It becomes Dabura",
+        "It absorbs the good half and becomes Super Buu",
+        "It becomes Kid Buu immediately",
+        "It joins Goku"
+      ],
+      "answerIndex": 1,
+      "explanation": "The evil half absorbs the good half, producing the more powerful Super Buu.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 255,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q3",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which form of Gotenks is first shown fighting Super Buu in the Hyperbolic Time Chamber?",
+      "options": [
+        "Super Saiyan",
+        "Super Saiyan 2",
+        "Super Saiyan 3",
+        "Great Ape"
+      ],
+      "answerIndex": 2,
+      "explanation": "Gotenks reaches Super Saiyan 3 and uses it against Buu.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 260,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q4",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What attack does Super Buu use to eliminate most of Earth’s people?",
+      "options": [
+        "Human Extinction Attack",
+        "Planet Burst",
+        "Death Beam",
+        "Hell Flash"
+      ],
+      "answerIndex": 0,
+      "explanation": "Super Buu’s Human Extinction Attack kills nearly everyone on Earth.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 260,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q5",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What object does the Supreme Kai give Gohan to help him fight Buu?",
+      "options": [
+        "The Z Sword",
+        "A Potara box",
+        "The Dragon Radar",
+        "The Power Pole"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Supreme Kai gives Gohan the Z Sword.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 258,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q6",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What happens to the Z Sword during Gohan’s testing?",
+      "options": [
+        "It becomes a Dragon Ball",
+        "It breaks and releases the Elder Kai",
+        "It seals Gohan’s power",
+        "It fuses with Goku"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gohan breaks the Z Sword, freeing the Elder Kai from its ancient seal.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 263,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q7",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who unlocks Gohan’s latent power after the Z Sword breaks?",
+      "options": [
+        "The Grand Elder",
+        "The Elder Kai",
+        "King Kai",
+        "Supreme Kai"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Elder Kai performs the ritual that releases Gohan’s Ultimate power.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 266,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q8",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Vegito become after Buu uses a beam on him?",
+      "options": [
+        "A chocolate candy",
+        "A small frog",
+        "A paper charm",
+        "A stone statue"
+      ],
+      "answerIndex": 0,
+      "explanation": "Buu’s transmutation beam turns Vegito into a piece of candy.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 272,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q9",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Why does Vegito allow himself to be absorbed by Buu?",
+      "options": [
+        "To destroy Buu from outside",
+        "To rescue the people absorbed inside Buu",
+        "To steal Buu’s Dragon Balls",
+        "To restore the Z Sword"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vegito enters Buu so the absorbed heroes can be freed from inside him.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 274,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q10",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which character is removed first when Goku and Vegeta dismantle Buu from within?",
+      "options": [
+        "Gohan",
+        "Piccolo",
+        "Good Buu",
+        "Gotenks"
+      ],
+      "answerIndex": 2,
+      "explanation": "They remove the original good Buu first, causing Buu’s form to change.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": 274,
+        "arc": "Fusion Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q11",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the defining difference between Kid Buu and the other major Buu forms?",
+      "options": [
+        "He is the original pure form of Buu",
+        "He cannot use ki",
+        "He is controlled by Babidi",
+        "He is a fusion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kid Buu is Buu’s original, purely destructive form.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 276,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q12",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Where do Goku and Vegeta fight Kid Buu after Earth is restored?",
+      "options": [
+        "The Supreme Kai’s planet",
+        "King Kai’s planet",
+        "Planet Namek",
+        "The World Martial Arts Tournament"
+      ],
+      "answerIndex": 0,
+      "explanation": "Their final battle with Kid Buu takes place on the Supreme Kai’s planet.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 277,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q13",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which ally becomes the public champion who helps gather Earth’s support for the Spirit Bomb?",
+      "options": [
+        "Mr. Satan",
+        "Yamcha",
+        "Krillin",
+        "Dende"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mr. Satan persuades the people of Earth to raise their hands and contribute energy.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 285,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q14",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What do the Namekian Dragon Balls restore before the final Spirit Bomb is completed?",
+      "options": [
+        "Only the Dragon Radar",
+        "Earth and its population",
+        "The destroyed Z Sword",
+        "Goku’s halo"
+      ],
+      "answerIndex": 1,
+      "explanation": "Porunga restores Earth and revives those killed by Buu, enabling the final battle’s plan.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 286,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u4-q15",
+      "series": "Dragon Ball Z",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who throws the final Spirit Bomb that defeats Kid Buu?",
+      "options": [
+        "Vegeta",
+        "Goku",
+        "Mr. Satan",
+        "Gohan"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku launches the completed Spirit Bomb and destroys Kid Buu.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 286,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q1",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What wish does Goku ask Shenron to grant after Kid Buu’s defeat?",
+      "options": [
+        "Make Goku immortal",
+        "Reincarnate Buu as a good person",
+        "Erase all Saiyans",
+        "Restore Planet Vegeta"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku asks that Buu be reincarnated as a good person so they can meet again.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 287,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q2",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the name of Buu’s peaceful human reincarnation?",
+      "options": [
+        "Uub",
+        "Oob",
+        "Udo",
+        "Ubuu"
+      ],
+      "answerIndex": 0,
+      "explanation": "The reincarnated human is called Uub in the original Z continuity.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 290,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q3",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "How old is Uub when he enters the final tournament?",
+      "options": [
+        "Five",
+        "Eight",
+        "Ten",
+        "Fifteen"
+      ],
+      "answerIndex": 2,
+      "explanation": "The episode identifies Uub as ten years old.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 290,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q4",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who is Uub revealed to be the reincarnation of?",
+      "options": [
+        "Dabura",
+        "Kid Buu",
+        "Majin Vegeta",
+        "Babidi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Uub is the human reincarnation of the defeated Kid Buu.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 290,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q5",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who is Pan’s mother?",
+      "options": [
+        "Bulma",
+        "Videl",
+        "Marron",
+        "Chi-Chi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pan is the daughter of Gohan and Videl.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 289,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q6",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who is Pan’s father?",
+      "options": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Uub"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gohan and Videl are Pan’s parents.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 289,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q7",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "How long after Majin Buu’s defeat does the final Peaceful World arc take place?",
+      "options": [
+        "One year",
+        "Five years",
+        "Ten years",
+        "Twenty years"
+      ],
+      "answerIndex": 2,
+      "explanation": "The final episodes take place ten years after Buu’s defeat.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 289,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q8",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which tournament does Goku enter in the final episodes of Dragon Ball Z?",
+      "options": [
+        "The Other World Tournament",
+        "The 25th World Tournament",
+        "The 28th World Martial Arts Tournament",
+        "The Cell Games"
+      ],
+      "answerIndex": 2,
+      "explanation": "Goku attends the 28th World Martial Arts Tournament.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 289,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q9",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who is Goku’s first opponent in the final tournament?",
+      "options": [
+        "Uub",
+        "Pan",
+        "Mr. Satan",
+        "Mighty Mask"
+      ],
+      "answerIndex": 0,
+      "explanation": "The tournament draw pairs Goku with the young Uub.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 290,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q10",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Why does Goku leave the tournament with Uub?",
+      "options": [
+        "To arrest him",
+        "To train him",
+        "To revive Kid Buu",
+        "To take him to Namek"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku sees Uub’s potential and leaves to train him.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 291,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q11",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What relationship does Mr. Satan have with the peaceful Buu at the end of Z?",
+      "options": [
+        "He is Buu’s teacher",
+        "He is Buu’s friend and caretaker",
+        "He is Buu’s brother",
+        "He is Buu’s enemy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mr. Satan lives with and cares for the peaceful Buu.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 287,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q12",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What name does the peaceful Buu use after the final battle?",
+      "options": [
+        "Mr. Buu",
+        "Good Buu",
+        "Buu Jr.",
+        "Majin Satan"
+      ],
+      "answerIndex": 0,
+      "explanation": "The peaceful incarnation is publicly known as Mr. Buu.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 287,
+        "arc": "Kid Buu Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q13",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does Goku do immediately after defeating Uub in the final tournament?",
+      "options": [
+        "He wishes Uub away",
+        "He leaves with Uub to train",
+        "He turns Uub into a Saiyan",
+        "He gives Uub the Z Sword"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goku departs with Uub to train him.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 291,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q14",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the final numbered episode of the original Dragon Ball Z television series?",
+      "options": [
+        "286",
+        "288",
+        "291",
+        "300"
+      ],
+      "answerIndex": 2,
+      "explanation": "Toei’s official listing and the episode guide identify episode 291 as the final Z TV episode.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 291,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "dbz-u5-q15",
+      "series": "Dragon Ball Z",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which continuity boundary is respected by this bank?",
+      "options": [
+        "Only the original Dragon Ball Z TV anime",
+        "Dragon Ball Z Kai and Super together",
+        "All Dragon Ball films and GT",
+        "The manga only"
+      ],
+      "answerIndex": 0,
+      "explanation": "This bank is limited to the released Dragon Ball Z television anime and excludes Kai-only edits, Super, GT, films, games, and manga-only claims.",
+      "spoilerLevel": "extreme",
+      "source": {
+        "episode": 291,
+        "arc": "Peaceful World Saga",
+        "url": "https://www.kanzenshuu.com/episode/dbz/",
+        "title": "Dragon Ball Z TV Series Episode Guide",
+        "status": "verified"
+      }
+    }
+  ]
+}

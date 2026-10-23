@@ -1,0 +1,21 @@
+{
+  "id": "onepiece-u5-q6",
+  "current_prompt": "What does Sanji find after Zoro returns from Kuma's bargain?",
+  "answerIndex": 1,
+  "corrected_source": {
+    "episode": 377,
+    "episodeTitle": "The Pain of My Crewmates Is My Pain! Zoro's Desperate Fight!",
+    "arc": "Thriller Bark",
+    "url": "https://www.crunchyroll.com/watch/GY5VJDEGY/the-pain-of-my-crewmates-is-my-pain-zoros-desperate-fight",
+    "title": "Crunchyroll episode page",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://www.crunchyroll.com/watch/GY5VJDEGY/the-pain-of-my-crewmates-is-my-pain-zoros-desperate-fight",
+    "https://onepiece.fandom.com/wiki/Episode_377",
+    "https://onepiece.fandom.com/wiki/Episode_Guide/Thriller_Bark_Saga",
+    "https://theadultswimsquad.wordpress.com/2017/02/09/one-piece-double-recap-episodes-377-378/"
+  ],
+  "finding": "Verified as written. Episode 377 is in the Thriller Bark arc. After Kuma's bargain, Sanji reaches Zoro and finds him covered in blood; Zoro conceals the pain he took from Luffy by saying that nothing happened. The existing answer (option 2, answerIndex 1: blood on the ground and no trace of Luffy's pain) is supported, though English episode-title wording varies by source.",
+  "status": "verified"
+}

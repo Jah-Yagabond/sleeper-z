@@ -1,0 +1,1856 @@
+{
+  "id": "sleeperz-drstone",
+  "series": "Dr. STONE",
+  "title": "Dr. STONE Structured Question Bank",
+  "adaptationBoundary": "TV anime continuity through Dr. STONE SCIENCE FUTURE episode 94, 'Ushers of an Exhilarating Future' (released June 25, 2026), including the Dr. STONE: Ryusui television special; excludes manga-only material and any unreleased or unverified sequel content.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Stone World foundations",
+      "spoilerLevel": 1,
+      "questionIds": [
+        "drstone-u1-q1",
+        "drstone-u1-q2",
+        "drstone-u1-q3",
+        "drstone-u1-q4",
+        "drstone-u1-q5",
+        "drstone-u1-q6",
+        "drstone-u1-q7",
+        "drstone-u1-q8",
+        "drstone-u1-q9",
+        "drstone-u1-q10",
+        "drstone-u1-q11",
+        "drstone-u1-q12",
+        "drstone-u1-q13",
+        "drstone-u1-q14",
+        "drstone-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Kingdom of Science details",
+      "spoilerLevel": 2,
+      "questionIds": [
+        "drstone-u2-q1",
+        "drstone-u2-q2",
+        "drstone-u2-q3",
+        "drstone-u2-q4",
+        "drstone-u2-q5",
+        "drstone-u2-q6",
+        "drstone-u2-q7",
+        "drstone-u2-q8",
+        "drstone-u2-q9",
+        "drstone-u2-q10",
+        "drstone-u2-q11",
+        "drstone-u2-q12",
+        "drstone-u2-q13",
+        "drstone-u2-q14",
+        "drstone-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Stone Wars and Treasure Island",
+      "spoilerLevel": 3,
+      "questionIds": [
+        "drstone-u3-q1",
+        "drstone-u3-q2",
+        "drstone-u3-q3",
+        "drstone-u3-q4",
+        "drstone-u3-q5",
+        "drstone-u3-q6",
+        "drstone-u3-q7",
+        "drstone-u3-q8",
+        "drstone-u3-q9",
+        "drstone-u3-q10",
+        "drstone-u3-q11",
+        "drstone-u3-q12",
+        "drstone-u3-q13",
+        "drstone-u3-q14",
+        "drstone-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Americas and the Medusa campaign",
+      "spoilerLevel": 4,
+      "questionIds": [
+        "drstone-u4-q1",
+        "drstone-u4-q2",
+        "drstone-u4-q3",
+        "drstone-u4-q4",
+        "drstone-u4-q5",
+        "drstone-u4-q6",
+        "drstone-u4-q7",
+        "drstone-u4-q8",
+        "drstone-u4-q9",
+        "drstone-u4-q10",
+        "drstone-u4-q11",
+        "drstone-u4-q12",
+        "drstone-u4-q13",
+        "drstone-u4-q14",
+        "drstone-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Science Future canon mastery",
+      "spoilerLevel": 5,
+      "questionIds": [
+        "drstone-u5-q1",
+        "drstone-u5-q2",
+        "drstone-u5-q3",
+        "drstone-u5-q4",
+        "drstone-u5-q5",
+        "drstone-u5-q6",
+        "drstone-u5-q7",
+        "drstone-u5-q8",
+        "drstone-u5-q9",
+        "drstone-u5-q10",
+        "drstone-u5-q11",
+        "drstone-u5-q12",
+        "drstone-u5-q13",
+        "drstone-u5-q14",
+        "drstone-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+    "https://www.crunchyroll.com/news/guides/2026/6/28/dr-stone-watch-order",
+    "https://www.crunchyroll.com/news/latest/2026/3/29/dr-stone-science-future-cour-3-anime-previews-first-episode-in-new-video"
+  ],
+  "notes": [
+    "All 75 prompts are original wording and test one objectively checkable anime fact.",
+    "Episode numbering and release coverage were cross-checked against the released-episode list and Crunchyroll's official series/news pages.",
+    "Where science is discussed, explanations identify anime fictionalization or simplification rather than presenting it as established real-world science.",
+    "Source status is 'verified' for every item; no manga-only revelation or unreleased material is used."
+  ],
+  "questions": [
+    {
+      "id": "drstone-u1-q1",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What span of time does Senku say has passed since the petrification event?",
+      "options": [
+        "370 years",
+        "3,700 years",
+        "37,000 years",
+        "370,000 years"
+      ],
+      "answerIndex": 1,
+      "explanation": "The opening episode establishes that humanity has been stone for roughly 3,700 years.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "1",
+        "arc": "Stone Formula",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q2",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who is the first person Senku revives in the Stone World?",
+      "options": [
+        "Yuzuriha Ogawa",
+        "Tsukasa Shishio",
+        "Taiju Oki",
+        "Chrome"
+      ],
+      "answerIndex": 2,
+      "explanation": "Senku revives his friend Taiju before attempting to recruit anyone else.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "1",
+        "arc": "Stone Formula",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q3",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What cave-derived chemical does Senku identify as the key starting material for revival fluid?",
+      "options": [
+        "Nitric acid",
+        "Sodium chloride",
+        "Ethanol",
+        "Calcium carbonate"
+      ],
+      "answerIndex": 0,
+      "explanation": "The anime identifies nitric acid from the cave as the essential starting point; the revival formula is an anime simplification, not a complete real-world method for dissolving petrified humans.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "2",
+        "arc": "Stone Formula",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "King of the Stone World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q4",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does Taiju keep counting while petrified?",
+      "options": [
+        "Heartbeats",
+        "Days until spring",
+        "Seconds",
+        "The number of stars"
+      ],
+      "answerIndex": 2,
+      "explanation": "Taiju maintains consciousness by counting seconds throughout his petrification.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "1",
+        "arc": "Stone Formula",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q5",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Why does Senku revive Tsukasa so urgently?",
+      "options": [
+        "To hunt food",
+        "To fight a pride of lions",
+        "To repair the village bridge",
+        "To translate the hundred tales"
+      ],
+      "answerIndex": 1,
+      "explanation": "A lion attack leaves Senku and Taiju needing Tsukasa's exceptional physical strength.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "2",
+        "arc": "Vs. Tsukasa",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Weapons of Science",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q6",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What kind of people does Tsukasa say he wants to revive first?",
+      "options": [
+        "Only astronauts",
+        "Only children and young people",
+        "Only village leaders",
+        "Only scientists"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tsukasa's ideology favors a world revived without the adults he associates with the old corrupt society.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "2",
+        "arc": "Vs. Tsukasa",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Fire the Smoke Signal",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q7",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "How does Senku signal that the Kingdom of Science is active?",
+      "options": [
+        "A radio jingle",
+        "A smoke signal",
+        "A row of mirrors",
+        "A drumbeat"
+      ],
+      "answerIndex": 1,
+      "explanation": "Senku uses a column of smoke to announce his presence and draw Tsukasa's attention.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "1",
+        "arc": "Vs. Tsukasa",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Fire the Smoke Signal",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q8",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What valuable material is found in the cave later called the Cave of Miracles?",
+      "options": [
+        "Sulfur",
+        "Uranium",
+        "Silicon wafers",
+        "Iron ore"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sulfur is one of the cave resources that makes gunpowder and later chemical work possible.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "1",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Where Two Million Years Have Gone",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q9",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the name of the settled community that Senku encounters?",
+      "options": [
+        "Treasure Island",
+        "Corn City",
+        "Ishigami Village",
+        "The Empire of Might"
+      ],
+      "answerIndex": 2,
+      "explanation": "Kohaku's home is Ishigami Village, whose name honors Byakuya Ishigami.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "1",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Where Two Million Years Have Gone",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q10",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What invention eventually gives the Kingdom of Science two-way long-distance voice communication?",
+      "options": [
+        "A steam train",
+        "A cell phone",
+        "A telescope",
+        "A printing press"
+      ],
+      "answerIndex": 1,
+      "explanation": "The team builds cell phones to create a communications network across the Stone World.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "1",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Wave of Science",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q11",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What illness is Ruri suffering from when Senku first meets her?",
+      "options": [
+        "Pneumonia",
+        "Malaria",
+        "Scurvy",
+        "Appendicitis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ruri is gravely ill with pneumonia, motivating the search for the sulfa drug.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "1",
+        "arc": "Village Games",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Clear World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q12",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who is Byakuya Ishigami to Senku?",
+      "options": [
+        "His biological brother",
+        "His adoptive father",
+        "His former teacher",
+        "His village rival"
+      ],
+      "answerIndex": 1,
+      "explanation": "Byakuya adopted Senku and later became one of the astronauts stranded after the petrification.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "1",
+        "arc": "Village Origins",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "A Tale for the Ages",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q13",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does the Village Games winner gain the right to do?",
+      "options": [
+        "Become captain of the Perseus",
+        "Become village chief and marry Ruri",
+        "Claim the platinum",
+        "Lead the Empire of Might"
+      ],
+      "answerIndex": 1,
+      "explanation": "The games are held to choose Ruri's husband and the next village chief.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "2",
+        "arc": "Village Games",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Masked Warrior",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q14",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the main subject of Byakuya's hundred tales?",
+      "options": [
+        "Modern chemistry",
+        "The history and survival of humanity",
+        "Ship navigation",
+        "Martial-arts forms"
+      ],
+      "answerIndex": 1,
+      "explanation": "The hundred tales preserve knowledge and the story of humanity for descendants of the astronauts.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "1",
+        "arc": "Village Origins",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "A Hundred Nights and a Thousand Skies",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u1-q15",
+      "series": "Dr. STONE",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who leads the Empire of Might as its founder?",
+      "options": [
+        "Tsukasa Shishio",
+        "Hyoga",
+        "Gen Asagiri",
+        "Magma"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tsukasa establishes the opposing faction known as the Empire of Might.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "1",
+        "arc": "Vs. Hyoga",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Wars",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q1",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which seasoning does Senku prioritize when recreating ramen?",
+      "options": [
+        "Salt",
+        "Cinnamon",
+        "Cocoa",
+        "Black pepper"
+      ],
+      "answerIndex": 0,
+      "explanation": "Salt is the key seasoning Senku seeks for the ramen project.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "8",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Road",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q2",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which mineral does Senku use as the magnetic material for early electrical experiments?",
+      "options": [
+        "Magnetite",
+        "Quartz",
+        "Gypsum",
+        "Graphite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Magnetite supplies the magnetic material for the first electrical experiments; the anime then simplifies the engineering sequence for storytelling.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "9",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Let There Be the Light of Science",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q3",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is Gen Asagiri's profession before the petrification?",
+      "options": [
+        "Mentalist",
+        "Astronaut",
+        "Doctor",
+        "Pilot"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gen introduces himself as a mentalist and uses performance psychology to read and influence people.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "10",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "A Flimsy Alliance",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q4",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What medicine does Senku make for Ruri?",
+      "options": [
+        "A sulfa drug",
+        "Insulin",
+        "Penicillin",
+        "A vaccine"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Kingdom of Science synthesizes a sulfa drug to treat Ruri's pneumonia.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "11",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Clear World",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q5",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What job do Kinro and Ginro perform in Ishigami Village?",
+      "options": [
+        "Village guards",
+        "Blacksmiths",
+        "Priests",
+        "Ship captains"
+      ],
+      "answerIndex": 0,
+      "explanation": "The brothers serve as the village's guards and enforce its rules.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "12",
+        "arc": "Kingdom of Science",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Buddies Back to Back",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q6",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who wins the Village Games and becomes the village chief?",
+      "options": [
+        "Magma",
+        "Kinro",
+        "Senku",
+        "Ginro"
+      ],
+      "answerIndex": 2,
+      "explanation": "Senku wins the tournament and becomes chief, although the position is a means to reach Ruri's medicine ingredients.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "15",
+        "arc": "Village Games",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Culmination of Two Million Years",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q7",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which warrior is identified as Tsukasa's right-hand fighter?",
+      "options": [
+        "Hyoga",
+        "Matsukaze",
+        "Moz",
+        "Stanley"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyoga is Tsukasa's most trusted spear-wielding lieutenant at this stage of the story.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "18",
+        "arc": "Vs. Hyoga",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Wars",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q8",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What machine does Senku build to begin the modern energy age?",
+      "options": [
+        "A steam engine",
+        "A diesel submarine",
+        "A nuclear reactor",
+        "A jet aircraft"
+      ],
+      "answerIndex": 0,
+      "explanation": "Senku builds a steam engine, the power source for the later mobile laboratory.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "20",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Age of Energy",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q9",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is Ishigami Village's master craftsperson?",
+      "options": [
+        "Kaseki",
+        "Suika",
+        "Ukyo",
+        "Kinro"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kaseki is the elderly craftsman whose skill makes precision construction possible.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "21",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Spartan Crafts Club",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q10",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What metal is hidden in the treasure that makes large-scale revival fluid possible?",
+      "options": [
+        "Platinum",
+        "Aluminum",
+        "Copper",
+        "Titanium"
+      ],
+      "answerIndex": 0,
+      "explanation": "The treasure contains platinum, which lets the Kingdom of Science make nitric acid continuously.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "22",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Treasure",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q11",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the purpose of the cell-phone network in the first Stone Wars plan?",
+      "options": [
+        "To communicate and coordinate across enemy territory",
+        "To replace the village's water supply",
+        "To calculate the moon's orbit",
+        "To power the steam engine"
+      ],
+      "answerIndex": 0,
+      "explanation": "The network provides secure long-distance communication for the Kingdom's strategy.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "23",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Wave of Science",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q12",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who performs the voice imitation used in the Lillian broadcast?",
+      "options": [
+        "Gen",
+        "Kohaku",
+        "Suika",
+        "Francois"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gen impersonates Lillian's voice to make the broadcast believable.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "24",
+        "arc": "Communications",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Voices Over Infinite Distance",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q13",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the name of Tsukasa's faction?",
+      "options": [
+        "Kingdom of Science",
+        "Empire of Might",
+        "Corn City",
+        "The Astronauts' Village"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tsukasa's followers form the Empire of Might.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "25",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Wars Beginning",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q14",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What does Senku use to maintain a communication link with the opposing side?",
+      "options": [
+        "A cell phone",
+        "A semaphore flag only",
+        "A carrier pigeon",
+        "A crystal ball"
+      ],
+      "answerIndex": 0,
+      "explanation": "The cell phone network lets Senku speak with allies and opponents during the Stone Wars.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "26",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Hot Line",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u2-q15",
+      "series": "Dr. STONE",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What does Yuzuriha secretly do for the Kingdom of Science during the war?",
+      "options": [
+        "Repair the petrified statues",
+        "Build the Perseus",
+        "Pilot a plane",
+        "Mine bauxite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yuzuriha uses her extraordinary craft skills to restore statues without revealing the operation.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "31",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Secret Mission",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q1",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "How does Gen help make the Kingdom's fake Lillian broadcast convincing?",
+      "options": [
+        "He imitates Lillian's voice",
+        "He forges a telescope",
+        "He paints the radio tower",
+        "He disguises himself as Tsukasa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gen's vocal imitation supplies the voice that makes the radio deception work.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "27",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Call from the Dead",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q2",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What vehicle does the Kingdom of Science use for its decisive assault?",
+      "options": [
+        "Steam Gorilla",
+        "Perseus",
+        "Mobile lab only",
+        "A hot-air balloon"
+      ],
+      "answerIndex": 0,
+      "explanation": "Steam Gorilla is the armored vehicle used in the attack on the Empire's base.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "29",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Steam Gorilla",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q3",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Yuzuriha's main wartime task after joining the Kingdom's operation?",
+      "options": [
+        "Repairing petrified people",
+        "Mapping the moon",
+        "Brewing beer",
+        "Training Hyoga"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yuzuriha repairs statues so the defeated Empire can be revived without losing its people.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "30",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Prison Break",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q4",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who betrays Tsukasa during the final Stone Wars confrontation?",
+      "options": [
+        "Hyoga",
+        "Kinro",
+        "Matsukaze",
+        "Francois"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyoga turns on Tsukasa because he wants power for himself.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "33",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "To Destroy and to Save",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q5",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which pair finally defeats Hyoga in the Stone Wars climax?",
+      "options": [
+        "Senku and Gen",
+        "Tsukasa and Senku",
+        "Kohaku and Ruri",
+        "Chrome and Ginro"
+      ],
+      "answerIndex": 1,
+      "explanation": "Senku and Tsukasa cooperate to overcome Hyoga, combining science with Tsukasa's strength.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "34",
+        "arc": "Stone Wars",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Humanity's Strongest Tag Team",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q6",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the name of the Kingdom of Science's ocean-going ship?",
+      "options": [
+        "Perseus",
+        "Sagara",
+        "The Lillian",
+        "The Aurora"
+      ],
+      "answerIndex": 0,
+      "explanation": "The crew names its science vessel Perseus.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "40",
+        "arc": "Age of Exploration",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Science Vessel Perseus",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q7",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who is revived specifically to captain the ocean voyage?",
+      "options": [
+        "Ryusui Nanami",
+        "Dr. Xeno",
+        "Byakuya Ishigami",
+        "Chelsea"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryusui is revived because his pre-petrification sailing experience makes him the needed captain.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "special",
+        "arc": "Age of Exploration",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Dr. STONE: Ryusui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q8",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What invention lets Senku, Ryusui, and Chrome survey the changed coastline from above?",
+      "options": [
+        "A hot-air balloon",
+        "A radio telescope",
+        "A submarine",
+        "A glider made of steel"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hot-air balloon allows them to map the modern coastline and search for the oil field.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "special",
+        "arc": "Age of Exploration",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Dr. STONE: Ryusui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q9",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Ryusui introduce to turn his greed into a formal market?",
+      "options": [
+        "Currency",
+        "A voting machine",
+        "A postal code",
+        "A weather station"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryusui creates money and a market so goods and labor can be traded.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "special",
+        "arc": "Age of Exploration",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Dr. STONE: Ryusui",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q10",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What word repeats in the mysterious broadcast heard at sea?",
+      "options": [
+        "WHY",
+        "WHEN",
+        "WHERE",
+        "WHO"
+      ],
+      "answerIndex": 0,
+      "explanation": "The unexplained ocean transmission repeatedly says 'WHY,' creating the next major mystery.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "38",
+        "arc": "Age of Exploration",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "First Contact",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q11",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the petrification device called in the Treasure Island storyline?",
+      "options": [
+        "Medusa",
+        "Perseus",
+        "Möbius",
+        "Orpheus"
+      ],
+      "answerIndex": 0,
+      "explanation": "The characters call the petrification device a Medusa.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "41",
+        "arc": "Treasure Island",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Treasure Box",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q12",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Soyuz's remembered name ultimately identify him as?",
+      "options": [
+        "The child from Treasure Island",
+        "A former Kingdom of Science captain",
+        "A NASA engineer",
+        "A descendant of Tsukasa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Soyuz's recovered memories connect him to the people of Treasure Island and its ruler.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "42",
+        "arc": "Treasure Island",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Ray of Despair, Ray of Hope",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q13",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the key power source found inside each Medusa unit?",
+      "options": [
+        "A diamond",
+        "A platinum coin",
+        "A sulfur crystal",
+        "A uranium rod"
+      ],
+      "answerIndex": 0,
+      "explanation": "The device's core is diamond-based; the anime's mechanism is fictionalized technology, not established science.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "48",
+        "arc": "Treasure Island",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Medusa's True Face",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q14",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Ibara use as the island's ultimate weapon against the intruders?",
+      "options": [
+        "The Medusa petrification device",
+        "The Perseus cannon",
+        "A steam tank",
+        "A poison gas shell"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ibara controls the Medusa and uses its petrification effect to dominate Treasure Island.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "49",
+        "arc": "Treasure Island",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Deal Game, Test of Wit",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u3-q15",
+      "series": "Dr. STONE",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What do Ginro and Suika manage to escape with during the island climax?",
+      "options": [
+        "The mobile lab",
+        "The Perseus",
+        "The Medusa pyramid",
+        "A hot-air balloon"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ginro and Suika escape the ship with the mobile lab while the struggle for control of the Medusa unfolds.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "54",
+        "arc": "Treasure Island",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Last Man Standing",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q1",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the true purpose of the New America City expedition?",
+      "options": [
+        "Secure corn for mass revival fluid",
+        "Find a lost ISS module",
+        "Build a new village chief's palace",
+        "Capture every Medusa on the moon"
+      ],
+      "answerIndex": 0,
+      "explanation": "The American journey is driven by the need for corn, which can support large-scale revival-fluid production.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "58",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Ryusui vs. Senku",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q2",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which character agrees to train Matsukaze after being revived?",
+      "options": [
+        "Hyoga",
+        "Stanley",
+        "Moz",
+        "Xeno"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyoga accepts the training role in exchange for the right to choose two people to revive.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "59",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Science Journey",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q3",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What do corn-feeding moths help Senku locate?",
+      "options": [
+        "A large corn supply",
+        "A sulfur cave",
+        "A hidden Medusa pyramid",
+        "A rubber plantation"
+      ],
+      "answerIndex": 0,
+      "explanation": "The moths' food source points the team toward the enemy's cornfield.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "60",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Light Trap in the Darkness",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q4",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is the scientist leading the hostile American colony?",
+      "options": [
+        "Dr. Xeno",
+        "Dr. Chelsea",
+        "Ryusui Nanami",
+        "Byakuya Ishigami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dr. Xeno leads the American colony and becomes Senku's scientific rival.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "61",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Dr. X",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q5",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What industrial process does Xeno's colony use to produce gunpowder at scale?",
+      "options": [
+        "The Haber-Bosch process",
+        "The Hall-Héroult process",
+        "The Solvay process",
+        "The Bessemer process"
+      ],
+      "answerIndex": 0,
+      "explanation": "Xeno has built a Haber-Bosch plant; the episode presents this as an industrial fact, though the wider war technology remains anime fiction.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "62",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Doctor vs. Doctor",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q6",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is sent to infiltrate Senku's group and identify the real scientist?",
+      "options": [
+        "Luna",
+        "Chelsea",
+        "Yuzuriha",
+        "Amaryllis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Luna is placed near the crew as an informant for Stanley and Xeno.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "63",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Science Is Elegant",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q7",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is Xeno's personal connection to young Senku?",
+      "options": [
+        "He once mentored Senku by correspondence",
+        "He was Senku's biological father",
+        "He was Senku's village chief",
+        "He was Senku's rival at school"
+      ],
+      "answerIndex": 0,
+      "explanation": "Xeno answered Senku's childhood rocket questions and helped ignite his scientific ambition.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "64",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Two Scientists",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q8",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What material mixture does Senku use as an improvised bullet-resistant vest?",
+      "options": [
+        "Starch and water",
+        "Salt and oil",
+        "Sulfur and charcoal",
+        "Glass and rubber"
+      ],
+      "answerIndex": 0,
+      "explanation": "Senku combines starch and water into a viscous protective layer; the scene is an improvised anime application, not a complete real-world armor recipe.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "65",
+        "arc": "New America City",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Lock On",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q9",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Chelsea contribute to the plan for crossing South America?",
+      "options": [
+        "A shortcut route and motorcycle idea",
+        "A new petrification device",
+        "A nuclear battery",
+        "A replacement captain"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chelsea's geographical knowledge suggests the overland shortcut and motivates the motorcycle build.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "71",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Earth Race",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q10",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What natural material is collected to make motorcycle tires?",
+      "options": [
+        "Rubber-tree sap",
+        "Pine resin",
+        "Seaweed gel",
+        "Bee wax"
+      ],
+      "answerIndex": 0,
+      "explanation": "The team taps rubber trees and processes the latex into tires.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "72",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Escape",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q11",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who analyzes the recovered Medusa as a master watchmaker?",
+      "options": [
+        "Joel",
+        "Sai",
+        "Kaseki",
+        "Ukyo"
+      ],
+      "answerIndex": 0,
+      "explanation": "Joel's watchmaking skill lets the Corn City team dismantle and study the device.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "73",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Medusa Mechanism",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q12",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Hyoga do when Suika is blown from the ropeway?",
+      "options": [
+        "He helps pull her to safety",
+        "He abandons the team",
+        "He activates the Medusa",
+        "He pilots Stanley's plane"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyoga assists Kohaku and Suika, showing that his reform is genuine.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "74",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Sickening Yet Beautiful",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q13",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What causes many of the Medusa units in the Amazon to be unusable?",
+      "options": [
+        "Their diamond cores are damaged or charred",
+        "Their shells are made of wood",
+        "Their batteries contain seawater",
+        "They were never assembled"
+      ],
+      "answerIndex": 0,
+      "explanation": "The team finds dead batteries and damaged diamond cores; the device technology itself is fictionalized.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "75",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Diamond Heart",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q14",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is Chrome's proposed battlefield strategy at Araxá?",
+      "options": [
+        "Petrify both armies and revive the Kingdom later",
+        "Surrender to Stanley",
+        "Destroy every city by fire",
+        "Hide the Perseus in the Pacific"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chrome proposes using a revived Medusa to petrify both forces and let a distant ally revive their side.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "76",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Sanctuary",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u4-q15",
+      "series": "Dr. STONE",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Xeno secretly send to Stanley before the final confrontation?",
+      "options": [
+        "A coded message revealing their location",
+        "A recipe for ramen",
+        "A map of the moon",
+        "A repaired cell phone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Xeno betrays the Kingdom's position by transmitting a coded message to Stanley.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "76",
+        "arc": "South America",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone Sanctuary",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q1",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What is Senku's immediate objective when Science Future's final cour begins?",
+      "options": [
+        "Resume the plan to fly to the moon",
+        "Return to the Stone Formula cave",
+        "Find a new village priestess",
+        "Rebuild Tsukasa's Empire"
+      ],
+      "answerIndex": 0,
+      "explanation": "The final cour resumes the long-term plan to reach the moon and confront the source of the petrification mystery.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "82",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Future Engine",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q2",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which person is chosen to teach Sai the mathematics needed for advanced computing?",
+      "options": [
+        "Senku",
+        "Ryusui",
+        "Chrome",
+        "Xeno"
+      ],
+      "answerIndex": 2,
+      "explanation": "Chrome asks Sai for mathematical help, and Sai becomes the key mathematical expert for the computer project.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "84",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Universe Is Written in the Language of Mathematics",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q3",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does Senku build to automate calculations and support the rocket program?",
+      "options": [
+        "A computer",
+        "A steam-powered printing press",
+        "A submarine",
+        "A radio tower"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Kingdom builds a computer as a major step toward modern computation and aerospace engineering.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "85",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Dawn of the Computer",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q4",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What kind of memory does Senku recreate for the computer?",
+      "options": [
+        "Magnetic-core memory",
+        "Optical-disc memory",
+        "Vacuum-tube tape",
+        "Biological memory"
+      ],
+      "answerIndex": 0,
+      "explanation": "Senku uses tiny magnetized cores to encode binary information in magnetic-core memory.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "86",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Truth About the Rocket",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q5",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Why does Senku plan a one-way lunar mission at first?",
+      "options": [
+        "There is not enough time to build a return-capable rocket",
+        "The Moon has no gravity",
+        "The Perseus cannot reach Australia",
+        "Stanley forbids return flights"
+      ],
+      "answerIndex": 0,
+      "explanation": "The immediate deadline forces a one-way design, leaving the astronauts to petrify themselves until a future rescue.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "86",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "The Truth About the Rocket",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q6",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What power infrastructure is needed to produce the aluminum for the rocket?",
+      "options": [
+        "A hydroelectric dam",
+        "A coal mine",
+        "A windmill farm",
+        "A geothermal reactor"
+      ],
+      "answerIndex": 0,
+      "explanation": "Senku says the aluminum process needs massive electricity, leading the team to the planned hydroelectric dam.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "87",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Stone to Space",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q7",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does the successful Senku-7 mission allow Kohaku to locate?",
+      "options": [
+        "An unnatural structure on the Moon",
+        "The original Ishigami Village",
+        "A new oil field",
+        "The missing Perseus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Satellite images let Kohaku's exceptional vision identify the unnatural lunar structure associated with Why-Man.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "89",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Challengers of Science",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q8",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which three roles are selected for the lunar crew?",
+      "options": [
+        "Pilot, scientist, and warrior",
+        "Captain, doctor, and farmer",
+        "Engineer, priest, and diver",
+        "Navigator, chef, and blacksmith"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mission needs a pilot, a scientist, and a warrior to handle flight, investigation, and danger.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "90",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Wanting Everything",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q9",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Who ultimately replaces Ryusui as the planned lunar pilot?",
+      "options": [
+        "Stanley Snyder",
+        "Taiju Oki",
+        "Matsukaze",
+        "Gen Asagiri"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryusui admits Stanley is the superior pilot and marksman for the lunar mission.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "91",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Countdown",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q10",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What material does Senku use to make the astronauts' spacesuits?",
+      "options": [
+        "Vinyl",
+        "Silk",
+        "Wool",
+        "Paper"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vinyl is used for the improvised spacesuits in the anime's rebuilt technology chain.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "91",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Countdown",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q11",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "How does Ryusui help steer the lunar module after the reaction wheel is unavailable?",
+      "options": [
+        "He spins himself as a human reaction wheel",
+        "He blows a sail",
+        "He throws ballast overboard",
+        "He magnetizes the hull"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryusui straps himself to a disk and spins, supplying angular momentum; the scene is an anime workaround for a real spacecraft-control problem.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "92",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Giant Step",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q12",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does Why-Man turn out to be on the Moon?",
+      "options": [
+        "A colony of Medusa devices",
+        "A single human astronaut",
+        "An alien city",
+        "A lunar volcano"
+      ],
+      "answerIndex": 0,
+      "explanation": "The explorers discover that Why-Man is a colony of Medusas communicating together.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "93",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Why-Man",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q13",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which animals were the first targets of Why-Man's petrification experiments?",
+      "options": [
+        "Swallows",
+        "Wolves",
+        "Whales",
+        "Crows"
+      ],
+      "answerIndex": 0,
+      "explanation": "Why-Man says it first tested its petrification on swallows before targeting humanity.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "93",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Why-Man",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q14",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What philosophy does Why-Man claim petrification offers intelligent life?",
+      "options": [
+        "Eternal existence",
+        "Instant faster-than-light travel",
+        "Unlimited food",
+        "Perfect weather"
+      ],
+      "answerIndex": 0,
+      "explanation": "Why-Man presents petrification as a route to eternal existence, which Senku rejects in favor of continued scientific progress.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "94",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Ushers of an Exhilarating Future",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "drstone-u5-q15",
+      "series": "Dr. STONE",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What project does Senku reveal after the lunar conflict is resolved?",
+      "options": [
+        "A time machine",
+        "A new Empire of Might",
+        "A second petrification beam",
+        "A floating city"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ending reveals that Senku and the scientists are attempting to build a time machine to prevent the first petrification.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "94",
+        "arc": "New Stone World",
+        "url": "https://www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
+        "title": "Ushers of an Exhilarating Future",
+        "status": "verified"
+      }
+    }
+  ]
+}

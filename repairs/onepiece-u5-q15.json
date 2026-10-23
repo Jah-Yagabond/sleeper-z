@@ -1,0 +1,22 @@
+{
+  "id": "onepiece-u5-q15",
+  "current_prompt": "What ancient figure does Kaido say Luffy's awakened form resembles?",
+  "answerIndex": 0,
+  "corrected_source": {
+    "episode": 1076,
+    "episodeTitle": "The World That Luffy Wants!",
+    "arc": "Wano Country Arc",
+    "url": "https://onepiece.fandom.com/wiki/Episode_1076",
+    "title": "Episode 1076 - One Piece Wiki",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://onepiece.fandom.com/wiki/Episode_1076",
+    "https://www.bbc.co.uk/programmes/m0025f1t/episodes/guide",
+    "https://tv.apple.com/us/episode/episode-1076/umc.cmc.4n5kl9o4g03t4b79abcaxbcke?showId=umc.cmc.2jf3h5bibsseewr9bh0rg5kcl",
+    "https://www.crunchyroll.com/watch/G4VUQ1G9P/the-world-that-luffy-wants",
+    "https://screenrant.com/one-piece-1076-luffy-kaido-fight-end-flashback/"
+  ],
+  "finding": "The existing answer is correct: Joy Boy (answerIndex 0). Episode 1076 is titled 'The World That Luffy Wants!' and is listed in the Wano Country arc. The detailed episode account says Kaido recalls telling King that Joy Boy would defeat him; the BBC and Crunchyroll episode listings corroborate the episode number/title and the Apple TV listing corroborates the Kaido/Luffy final-clash context. The prompt's wording is a paraphrase: episode 1076 establishes Kaido's Joy Boy identification/belief rather than using the exact phrase that Luffy's awakened form 'resembles' Joy Boy.",
+  "status": "verified"
+}

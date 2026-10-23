@@ -1,0 +1,1859 @@
+{
+  "id": "sleeperz-haikyuu-anime-canon",
+  "series": "Haikyuu!!",
+  "title": "Haikyuu!! Anime Canon Question Bank",
+  "adaptationBoundary": "Includes only the officially released Haikyuu!! television anime Seasons 1–4, released continuity OAD/OVA episodes, and the released 2024 film HAIKYU!! The Dumpster Battle. Recap films are referenced only as released anime materials, not treated as new events. Excludes manga-only matches, post-anime manga outcomes, unreleased announced films/specials, and non-canon or promotional material.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-casual foundations",
+      "spoilerLevel": 1,
+      "questionIds": [
+        "haikyuu-u1-q1",
+        "haikyuu-u1-q2",
+        "haikyuu-u1-q3",
+        "haikyuu-u1-q4",
+        "haikyuu-u1-q5",
+        "haikyuu-u1-q6",
+        "haikyuu-u1-q7",
+        "haikyuu-u1-q8",
+        "haikyuu-u1-q9",
+        "haikyuu-u1-q10",
+        "haikyuu-u1-q11",
+        "haikyuu-u1-q12",
+        "haikyuu-u1-q13",
+        "haikyuu-u1-q14",
+        "haikyuu-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated-fan tournament knowledge",
+      "spoilerLevel": 2,
+      "questionIds": [
+        "haikyuu-u2-q1",
+        "haikyuu-u2-q2",
+        "haikyuu-u2-q3",
+        "haikyuu-u2-q4",
+        "haikyuu-u2-q5",
+        "haikyuu-u2-q6",
+        "haikyuu-u2-q7",
+        "haikyuu-u2-q8",
+        "haikyuu-u2-q9",
+        "haikyuu-u2-q10",
+        "haikyuu-u2-q11",
+        "haikyuu-u2-q12",
+        "haikyuu-u2-q13",
+        "haikyuu-u2-q14",
+        "haikyuu-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced Shiratorizawa and side-story canon",
+      "spoilerLevel": 3,
+      "questionIds": [
+        "haikyuu-u3-q1",
+        "haikyuu-u3-q2",
+        "haikyuu-u3-q3",
+        "haikyuu-u3-q4",
+        "haikyuu-u3-q5",
+        "haikyuu-u3-q6",
+        "haikyuu-u3-q7",
+        "haikyuu-u3-q8",
+        "haikyuu-u3-q9",
+        "haikyuu-u3-q10",
+        "haikyuu-u3-q11",
+        "haikyuu-u3-q12",
+        "haikyuu-u3-q13",
+        "haikyuu-u3-q14",
+        "haikyuu-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert nationals and film continuity",
+      "spoilerLevel": 4,
+      "questionIds": [
+        "haikyuu-u4-q1",
+        "haikyuu-u4-q2",
+        "haikyuu-u4-q3",
+        "haikyuu-u4-q4",
+        "haikyuu-u4-q5",
+        "haikyuu-u4-q6",
+        "haikyuu-u4-q7",
+        "haikyuu-u4-q8",
+        "haikyuu-u4-q9",
+        "haikyuu-u4-q10",
+        "haikyuu-u4-q11",
+        "haikyuu-u4-q12",
+        "haikyuu-u4-q13",
+        "haikyuu-u4-q14",
+        "haikyuu-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore canon mastery",
+      "spoilerLevel": 5,
+      "questionIds": [
+        "haikyuu-u5-q1",
+        "haikyuu-u5-q2",
+        "haikyuu-u5-q3",
+        "haikyuu-u5-q4",
+        "haikyuu-u5-q5",
+        "haikyuu-u5-q6",
+        "haikyuu-u5-q7",
+        "haikyuu-u5-q8",
+        "haikyuu-u5-q9",
+        "haikyuu-u5-q10",
+        "haikyuu-u5-q11",
+        "haikyuu-u5-q12",
+        "haikyuu-u5-q13",
+        "haikyuu-u5-q14",
+        "haikyuu-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://haikyu.jp/",
+    "https://haikyu.jp/season1/",
+    "https://haikyu.jp/season2/",
+    "https://haikyu.jp/season3/",
+    "https://haikyu.jp/season4/",
+    "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order"
+  ],
+  "notes": [
+    "All prompts are original wording and each has one objectively correct answer.",
+    "Episode references use season/episode ranges or released-special labels where an arc spans multiple episodes.",
+    "The bank does not use the announced but unreleased VS 小さな巨人 or バケモノたちの行くところ projects as evidence.",
+    "All retained source records are marked verified; review_count is zero."
+  ],
+  "questions": [
+    {
+      "id": "haikyuu-u1-q1",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What volleyball player does Shoyo Hinata first see on television and take as his model?",
+      "options": [
+        "The Little Giant",
+        "The Iron Wall",
+        "The King of the Court",
+        "The Ace of Shiratorizawa"
+      ],
+      "answerIndex": 0,
+      "explanation": "A television appearance by Karasuno’s Little Giant inspires Hinata to play volleyball.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Junior-high prologue",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q2",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which school does Tobio Kageyama attend when he first faces Hinata?",
+      "options": [
+        "Kitagawa Daiichi Junior High",
+        "Yukigaoka Junior High",
+        "Karasuno High",
+        "Aoba Johsai High"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kageyama is the setter of Kitagawa Daiichi Junior High in the opening match.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Junior-high prologue",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q3",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What nickname is given to Kageyama before he joins Karasuno?",
+      "options": [
+        "The King of the Court",
+        "The Little Giant",
+        "The Guess Monster",
+        "The Guardian Deity"
+      ],
+      "answerIndex": 0,
+      "explanation": "His controlling style at Kitagawa Daiichi earns him the nickname King of the Court.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Junior-high prologue",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q4",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Hinata’s listed playing position at Karasuno?",
+      "options": [
+        "Middle blocker",
+        "Setter",
+        "Libero",
+        "Wing spiker"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno lists Hinata as a middle blocker, despite his unusual lack of height for the role.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 character profile",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q5",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What position does Kageyama play for Karasuno?",
+      "options": [
+        "Setter",
+        "Middle blocker",
+        "Libero",
+        "Opposite hitter"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kageyama is Karasuno’s setter and supplies the attacks for its hitters.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q6",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which high school does Hinata enter at the start of the main story?",
+      "options": [
+        "Karasuno High",
+        "Nekoma High",
+        "Aoba Johsai High",
+        "Shiratorizawa Academy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hinata chooses Karasuno because its volleyball history includes the Little Giant.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q7",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is the name of Hinata’s junior-high school?",
+      "options": [
+        "Yukigaoka Junior High",
+        "Kitagawa Daiichi Junior High",
+        "Karasuno Junior High",
+        "Takanami Junior High"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hinata attends Yukigaoka Junior High before entering Karasuno.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1",
+        "arc": "Junior-high prologue",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q8",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who is Karasuno’s first-year manager when Hinata joins the club?",
+      "options": [
+        "Kiyoko Shimizu",
+        "Hitoka Yachi",
+        "Saeko Tanaka",
+        "Kanoka Amanai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kiyoko is the established manager; Yachi joins later.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E2–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q9",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who is Karasuno’s captain during the first season?",
+      "options": [
+        "Daichi Sawamura",
+        "Koshi Sugawara",
+        "Asahi Azumane",
+        "Ryunosuke Tanaka"
+      ],
+      "answerIndex": 0,
+      "explanation": "Daichi Sawamura is the third-year captain who anchors the team.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E1–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q10",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which Karasuno player is the team’s libero?",
+      "options": [
+        "Yu Nishinoya",
+        "Tadashi Yamaguchi",
+        "Kei Tsukishima",
+        "Chikara Ennoshita"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nishinoya is Karasuno’s libero and is known as its Guardian Deity.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E5–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q11",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who is Karasuno’s ace when he returns to the team?",
+      "options": [
+        "Asahi Azumane",
+        "Daichi Sawamura",
+        "Tobio Kageyama",
+        "Kei Tsukishima"
+      ],
+      "answerIndex": 0,
+      "explanation": "Asahi is the wing spiker recognized as Karasuno’s ace.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E8–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q12",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which former Karasuno player becomes the team’s coach in the first season?",
+      "options": [
+        "Keishin Ukai",
+        "Ittetsu Takeda",
+        "Yasufumi Nekomata",
+        "Taneo Oda"
+      ],
+      "answerIndex": 0,
+      "explanation": "Keishin Ukai, a former Karasuno player, takes the coaching role.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E8–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q13",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which first-year joins Karasuno alongside Hinata and Kageyama and later develops a jump float serve?",
+      "options": [
+        "Tadashi Yamaguchi",
+        "Kei Tsukishima",
+        "Chikara Ennoshita",
+        "Kazuhito Narita"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yamaguchi is the first-year pinch server who develops the jump float.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E6–S1E25",
+        "arc": "Karasuno team formation",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q14",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which school is Karasuno’s principal rival in the first season’s Interhigh run?",
+      "options": [
+        "Aoba Johsai",
+        "Date Tech",
+        "Nekoma",
+        "Wakutani Minami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aoba Johsai is the team that stands between Karasuno and the Interhigh advance.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E15–S1E25",
+        "arc": "Interhigh preliminaries",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u1-q15",
+      "series": "Haikyuu!!",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is the result of Karasuno’s first official match against Aoba Johsai?",
+      "options": [
+        "Karasuno loses",
+        "Karasuno wins in straight sets",
+        "The match is cancelled",
+        "The teams draw"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aoba Johsai defeats Karasuno in the first season’s Interhigh match.",
+      "spoilerLevel": 1,
+      "source": {
+        "episode": "S1E24–S1E25",
+        "arc": "Interhigh preliminaries",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q1",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Where does Karasuno travel for the multi-team training camp at the beginning of Season 2?",
+      "options": [
+        "Tokyo",
+        "Osaka",
+        "Nagoya",
+        "Sapporo"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno is invited to a Tokyo training camp with several strong schools.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E1–S2E11",
+        "arc": "Tokyo Expedition",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q2",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who becomes Karasuno’s second manager during Season 2?",
+      "options": [
+        "Hitoka Yachi",
+        "Kiyoko Shimizu",
+        "Saeko Tanaka",
+        "Kanoka Amanai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yachi joins Kiyoko as Karasuno’s manager.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E4–S2E25",
+        "arc": "Tokyo Expedition and Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q3",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is the captain of Nekoma High?",
+      "options": [
+        "Tetsuro Kuroo",
+        "Kenma Kozume",
+        "Morisuke Yaku",
+        "Nobuyuki Kai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kuroo is Nekoma’s captain and central blocker.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E1–S2E25",
+        "arc": "Tokyo Expedition and Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q4",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which position does Kenma Kozume play for Nekoma?",
+      "options": [
+        "Setter",
+        "Libero",
+        "Middle blocker",
+        "Opposite hitter"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kenma is Nekoma’s setter and tactical brains.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E11–S2E25",
+        "arc": "Tokyo Expedition and Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q5",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who captains Fukurodani Academy during the Tokyo camp?",
+      "options": [
+        "Kotaro Bokuto",
+        "Keiji Akaashi",
+        "Akinori Konoha",
+        "Wataru Onaga"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bokuto is Fukurodani’s ace and captain.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E2–S2E11",
+        "arc": "Tokyo Expedition",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q6",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is Bokuto’s playing position?",
+      "options": [
+        "Wing spiker",
+        "Setter",
+        "Libero",
+        "Middle blocker"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bokuto is Fukurodani’s powerful wing spiker.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E2–S2E11",
+        "arc": "Tokyo Expedition",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q7",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What position does Lev Haiba play for Nekoma?",
+      "options": [
+        "Middle blocker",
+        "Setter",
+        "Libero",
+        "Wing spiker"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lev is Nekoma’s tall first-year middle blocker.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "OAD Lev Appears!",
+        "arc": "Nekoma introduction",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q8",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the name of Tsukishima’s older brother?",
+      "options": [
+        "Akiteru",
+        "Tadashi",
+        "Kiyoomi",
+        "Yasushi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Akiteru is Kei’s older brother and a former Karasuno player.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E8–S2E9",
+        "arc": "Tsukishima family and training camp",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q9",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which technique becomes Yamaguchi’s specialty?",
+      "options": [
+        "Jump float serve",
+        "Jump set",
+        "Setter dump",
+        "Straight shot"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yamaguchi develops a jump float serve for use as a pinch server.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E17–S2E25",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q10",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What nickname is associated with Date Tech’s blocking system?",
+      "options": [
+        "The Iron Wall",
+        "The Dumpster Battle",
+        "The Guarding Net",
+        "The Monster Block"
+      ],
+      "answerIndex": 0,
+      "explanation": "Date Tech’s front line is called the Iron Wall.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E16–S2E6",
+        "arc": "Interhigh and Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q11",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is Aoba Johsai’s setter and captain?",
+      "options": [
+        "Toru Oikawa",
+        "Hajime Iwaizumi",
+        "Kentaro Kyotani",
+        "Issei Matsukawa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oikawa is Aoba Johsai’s setter and captain.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E7–S2E25",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q12",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is Aoba Johsai’s vice-captain and ace?",
+      "options": [
+        "Hajime Iwaizumi",
+        "Toru Oikawa",
+        "Shigeru Yahaba",
+        "Takashi Matsukawa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Iwaizumi is Oikawa’s vice-captain and the team’s ace.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S1E7–S2E25",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q13",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What nickname is given to Aoba Johsai’s volatile wing spiker Kentaro Kyotani?",
+      "options": [
+        "Mad Dog",
+        "Iron Wall",
+        "Little Giant",
+        "Guess Monster"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kyotani is known as Mad Dog because of his aggressive play and temperament.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E15–S2E24",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q14",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which team does Karasuno defeat in the Season 2 quarterfinal?",
+      "options": [
+        "Wakutani Minami",
+        "Aoba Johsai",
+        "Date Tech",
+        "Johzenji"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno defeats Wakutani Minami before the final with Aoba Johsai.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E21–S2E22",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u2-q15",
+      "series": "Haikyuu!!",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the set score when Karasuno defeats Aoba Johsai in the Season 2 final?",
+      "options": [
+        "3–2",
+        "3–0",
+        "3–1",
+        "2–1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno wins the deciding fifth set to take the match 3–2.",
+      "spoilerLevel": 2,
+      "source": {
+        "episode": "S2E24–S2E25",
+        "arc": "Spring High preliminaries",
+        "url": "https://haikyu.jp/season2/",
+        "title": "Haikyu!! official Season 2 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q1",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which school does Karasuno face in the Season 3 prefectural final?",
+      "options": [
+        "Shiratorizawa Academy",
+        "Aoba Johsai",
+        "Inarizaki High",
+        "Kamomedai High"
+      ],
+      "answerIndex": 0,
+      "explanation": "Season 3 is the Karasuno versus Shiratorizawa final.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q2",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is distinctive about Wakatoshi Ushijima’s hitting arm?",
+      "options": [
+        "He is left-handed",
+        "He is ambidextrous",
+        "He only tips",
+        "He serves left-handed but hits right-handed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ushijima attacks with his left hand, a major tactical problem for Karasuno.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q3",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who coaches Shiratorizawa Academy?",
+      "options": [
+        "Tanji Washijo",
+        "Keishin Ukai",
+        "Yasufumi Nekomata",
+        "Nobuteru Irihata"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanji Washijo is Shiratorizawa’s coach.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q4",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What nickname is used for Shiratorizawa middle blocker Satori Tendo?",
+      "options": [
+        "The Guess Monster",
+        "The King of the Court",
+        "Mad Dog",
+        "The Little Giant"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tendo reads attacking choices and is called the Guess Monster.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q5",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What position does Satori Tendo play?",
+      "options": [
+        "Middle blocker",
+        "Setter",
+        "Libero",
+        "Wing spiker"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tendo is Shiratorizawa’s middle blocker and read blocker.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q6",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Shiratorizawa player is determined to become the team’s ace after Ushijima?",
+      "options": [
+        "Tsutomu Goshiki",
+        "Kenjiro Shirabu",
+        "Reon Ohira",
+        "Eita Semi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Goshiki repeatedly declares his ambition to become Shiratorizawa’s ace.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q7",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Karasuno player makes the decisive read-blocking breakthrough against Ushijima?",
+      "options": [
+        "Kei Tsukishima",
+        "Yu Nishinoya",
+        "Shoyo Hinata",
+        "Tadashi Yamaguchi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tsukishima’s patient block is the key breakthrough against Ushijima.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E4–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q8",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What match format governs the Karasuno–Shiratorizawa final?",
+      "options": [
+        "Best of five sets",
+        "Best of three sets",
+        "Single 25-point game",
+        "Two-match aggregate"
+      ],
+      "answerIndex": 0,
+      "explanation": "The prefectural final uses the best-of-five format.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q9",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is Karasuno’s final set score against Shiratorizawa?",
+      "options": [
+        "3–2",
+        "3–0",
+        "3–1",
+        "2–2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno wins the five-set match 3–2.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E9–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q10",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which Shiratorizawa player is the team’s libero?",
+      "options": [
+        "Hayato Yamagata",
+        "Satori Tendo",
+        "Kenjiro Shirabu",
+        "Eita Semi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yamagata is Shiratorizawa’s libero.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q11",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who is Shiratorizawa’s starting setter in the final?",
+      "options": [
+        "Kenjiro Shirabu",
+        "Eita Semi",
+        "Wakatoshi Ushijima",
+        "Tsutomu Goshiki"
+      ],
+      "answerIndex": 0,
+      "explanation": "Shirabu is the starting setter who feeds Ushijima.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E1–S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q12",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Karasuno earn by winning the Shiratorizawa match?",
+      "options": [
+        "A place at the national tournament",
+        "The Interhigh title",
+        "A rematch with Aoba Johsai",
+        "A professional contract"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Miyagi final win sends Karasuno to the Spring High national tournament.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "S3E10",
+        "arc": "Spring High Miyagi final",
+        "url": "https://haikyu.jp/season3/",
+        "title": "Haikyu!! official Season 3 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q13",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which two Tokyo teams are central to the released OVA Land vs Air?",
+      "options": [
+        "Fukurodani and Nekoma",
+        "Karasuno and Shiratorizawa",
+        "Aoba Johsai and Date Tech",
+        "Inarizaki and Kamomedai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Land vs Air follows the Tokyo Spring High qualifiers, especially Fukurodani and Nekoma.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "OVA Land vs Air",
+        "arc": "Tokyo Spring High qualifiers",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q14",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What competition is being decided in Land vs Air?",
+      "options": [
+        "Tokyo Spring High representative places",
+        "Miyagi Interhigh places",
+        "The national final",
+        "A training-camp ranking"
+      ],
+      "answerIndex": 0,
+      "explanation": "The OVA covers Tokyo’s Spring High representative tournament.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "OVA Land vs Air",
+        "arc": "Tokyo Spring High qualifiers",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u3-q15",
+      "series": "Haikyuu!!",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which released special follows other teams’ tournament paths alongside Land vs Air?",
+      "options": [
+        "The Path of the Ball",
+        "Lev Appears!",
+        "VS Failing Marks",
+        "The Dumpster Battle"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Path of the Ball is the companion OVA about the broader tournament ecosystem.",
+      "spoilerLevel": 3,
+      "source": {
+        "episode": "OVA The Path of the Ball",
+        "arc": "Spring High tournament side stories",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q1",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which national development camp invites Kageyama at the beginning of Season 4?",
+      "options": [
+        "All-Japan Youth Training Camp",
+        "Tokyo Expedition Camp",
+        "Miyagi First-Year Camp",
+        "National Spring Camp"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kageyama is selected for the All-Japan Youth Training Camp.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E1–S4E3",
+        "arc": "Tokyo Nationals setup",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q2",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which camp does Tsukishima attend in Miyagi?",
+      "options": [
+        "Miyagi first-year selected camp",
+        "All-Japan Youth Training Camp",
+        "Fukurodani winter camp",
+        "Nekoma rookie camp"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tsukishima is invited to the Miyagi first-year selected training camp.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E1–S4E3",
+        "arc": "Tokyo Nationals setup",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q3",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "How does Hinata participate in the camp he was not invited to?",
+      "options": [
+        "As a ball boy",
+        "As a referee",
+        "As a substitute setter",
+        "As a team manager"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hinata attends the Miyagi camp as a ball boy to observe and learn.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E2–S4E3",
+        "arc": "Tokyo Nationals setup",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q4",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which team is Karasuno’s first opponent at the Spring High national tournament?",
+      "options": [
+        "Tsubakihara Academy",
+        "Inarizaki High",
+        "Nekoma High",
+        "Kamomedai High"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno opens nationals against Tsubakihara Academy.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E14–S4E16",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q5",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is Inarizaki’s captain?",
+      "options": [
+        "Shinsuke Kita",
+        "Atsumu Miya",
+        "Osamu Miya",
+        "Aran Ojiro"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kita is Inarizaki’s captain and stabilizing leader.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E17–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q6",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which pair are the famous twins on Inarizaki’s roster?",
+      "options": [
+        "Atsumu and Osamu Miya",
+        "Kuroo and Kenma",
+        "Bokuto and Akaashi",
+        "Sakusa and Komori"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Miya twins are Atsumu and Osamu.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E17–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q7",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which Miya twin is Inarizaki’s setter?",
+      "options": [
+        "Atsumu",
+        "Osamu",
+        "Both equally",
+        "Neither; Kita is the setter"
+      ],
+      "answerIndex": 0,
+      "explanation": "Atsumu is the setter; Osamu is his hitting twin.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E17–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q8",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "In which prefecture is Inarizaki High located?",
+      "options": [
+        "Hyogo",
+        "Miyagi",
+        "Tokyo",
+        "Kanagawa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inarizaki represents Hyogo Prefecture.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E17–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q9",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What position does Suna Rintaro play for Inarizaki?",
+      "options": [
+        "Middle blocker",
+        "Setter",
+        "Libero",
+        "Opposite hitter"
+      ],
+      "answerIndex": 0,
+      "explanation": "Suna is Inarizaki’s distinctive middle blocker.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E17–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q10",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which school is associated with Sakusa Kiyoomi?",
+      "options": [
+        "Itachiyama Institute",
+        "Kamomedai High",
+        "Inarizaki High",
+        "Fukurodani Academy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sakusa is presented as a star player from Itachiyama Institute.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E1–S4E3",
+        "arc": "Tokyo Nationals setup",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q11",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which school does Korai Hoshiumi represent?",
+      "options": [
+        "Kamomedai High",
+        "Itachiyama Institute",
+        "Tsubakihara Academy",
+        "Mujinazaka High"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hoshiumi is the standout player from Kamomedai High.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E1–S4E3",
+        "arc": "Tokyo Nationals setup",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 cast",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q12",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the final match score when Karasuno defeats Inarizaki?",
+      "options": [
+        "3–1",
+        "3–0",
+        "3–2",
+        "2–1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karasuno wins the national second-round match in four sets, 3–1.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "S4E24–S4E25",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/season4/",
+        "title": "Haikyu!! official Season 4 story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q13",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which school does Karasuno face in the released film HAIKYU!! The Dumpster Battle?",
+      "options": [
+        "Nekoma High",
+        "Aoba Johsai",
+        "Fukurodani Academy",
+        "Inarizaki High"
+      ],
+      "answerIndex": 0,
+      "explanation": "The film depicts the long-awaited official match between Karasuno and Nekoma.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "Film: HAIKYU!! The Dumpster Battle",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/",
+        "title": "HAIKYU!! official portal introduction",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q14",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is Nekoma’s starting setter during The Dumpster Battle?",
+      "options": [
+        "Kenma Kozume",
+        "Tetsuro Kuroo",
+        "Morisuke Yaku",
+        "Nobuyuki Kai"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kenma remains Nekoma’s setter in the official tournament match.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "Film: HAIKYU!! The Dumpster Battle",
+        "arc": "Spring High nationals",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u4-q15",
+      "series": "Haikyuu!!",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Why is The Dumpster Battle significant within the anime continuity?",
+      "options": [
+        "It is Karasuno and Nekoma’s first official tournament match",
+        "It is their first meeting ever",
+        "It is a recap-only film of Shiratorizawa",
+        "It is a professional-league match"
+      ],
+      "answerIndex": 0,
+      "explanation": "Their rivalry had been built through practice games; the film is their first official tournament match.",
+      "spoilerLevel": 4,
+      "source": {
+        "episode": "Film: HAIKYU!! The Dumpster Battle",
+        "arc": "Spring High nationals",
+        "url": "https://haikyu.jp/",
+        "title": "HAIKYU!! official portal introduction",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q1",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Hinata wear for Karasuno?",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hinata wears Karasuno’s number 10 jersey.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story and character presentation",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q2",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Kageyama wear for Karasuno?",
+      "options": [
+        "9",
+        "10",
+        "1",
+        "2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kageyama wears number 9, the setter’s jersey on Karasuno.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 story and character presentation",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q3",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does captain Daichi wear?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Daichi wears Karasuno’s number 1 jersey.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q4",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Sugawara wear?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sugawara wears number 2 for Karasuno.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q5",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Asahi wear?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 0,
+      "explanation": "Asahi wears Karasuno’s number 3 jersey.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q6",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Nishinoya wear?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nishinoya wears number 4.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E5–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q7",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Tanaka wear?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tanaka wears Karasuno’s number 5 jersey.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q8",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Tsukishima wear?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "7"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tsukishima wears number 11.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E1–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 character presentation",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q9",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What jersey number does Yamaguchi wear?",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "6"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yamaguchi wears number 12.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S1E6–S4E25",
+        "arc": "Karasuno team continuity",
+        "url": "https://haikyu.jp/season1/",
+        "title": "Haikyu!! official Season 1 cast and story",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q10",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which two schools are specifically named alongside Nekoma and Fukurodani as Tokyo-camp participants?",
+      "options": [
+        "Ubugawa and Shinzen",
+        "Shiratorizawa and Inarizaki",
+        "Date Tech and Wakutani",
+        "Tsubakihara and Kamomedai"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Season 2 Tokyo camp includes Ubugawa and Shinzen among its participating schools.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S2E1–S2E11",
+        "arc": "Tokyo Expedition",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q11",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which released OAD introduces Lev before his regular Season 2 appearances?",
+      "options": [
+        "Lev Appears!",
+        "The Path of the Ball",
+        "Land vs Air",
+        "VS Failing Marks"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lev Appears! is the OAD devoted to Lev’s arrival at Nekoma.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "OAD Lev Appears!",
+        "arc": "Nekoma introduction",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q12",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which released OAD is centered on school marks rather than a major volleyball match?",
+      "options": [
+        "VS Failing Marks",
+        "Lev Appears!",
+        "The Path of the Ball",
+        "Land vs Air"
+      ],
+      "answerIndex": 0,
+      "explanation": "VS Failing Marks follows the characters’ school-life challenge with exams.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "OAD VS Failing Marks",
+        "arc": "Season 2 side story",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q13",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which film is a recap of the Karasuno–Shiratorizawa match rather than a new match in the anime timeline?",
+      "options": [
+        "The Movie: Battle of Concepts",
+        "The Dumpster Battle",
+        "The Movie: Talent and Sense",
+        "Land vs Air"
+      ],
+      "answerIndex": 0,
+      "explanation": "Battle of Concepts recaps the Shiratorizawa match; The Dumpster Battle is the new canon tournament match.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "Film: Battle of Concepts",
+        "arc": "Released recap film boundary",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q14",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which film recaps Karasuno’s match against Aoba Johsai?",
+      "options": [
+        "The Movie: Talent and Sense",
+        "The Movie: Battle of Concepts",
+        "The Dumpster Battle",
+        "The Path of the Ball"
+      ],
+      "answerIndex": 0,
+      "explanation": "Talent and Sense is the recap film for the Aoba Johsai match.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "Film: Talent and Sense",
+        "arc": "Released recap film boundary",
+        "url": "https://www.crunchyroll.com/news/guides/2024/6/11/haikyu-watch-order",
+        "title": "How to Watch Haikyu!! in Order",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "haikyuu-u5-q15",
+      "series": "Haikyuu!!",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "By the end of the released television anime, how many TV seasons had been produced?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Two"
+      ],
+      "answerIndex": 0,
+      "explanation": "The official portal states that four TV seasons were produced and broadcast through December 2020.",
+      "spoilerLevel": 5,
+      "source": {
+        "episode": "S4E25 / official series overview",
+        "arc": "TV anime boundary",
+        "url": "https://haikyu.jp/",
+        "title": "HAIKYU!! official portal introduction",
+        "status": "verified"
+      }
+    }
+  ]
+}

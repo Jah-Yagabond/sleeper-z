@@ -1,0 +1,1855 @@
+{
+  "id": "onepiece-tv-anime-question-bank",
+  "series": "One Piece",
+  "title": "One Piece Television Anime Canon Question Bank",
+  "adaptationBoundary": "Released One Piece television-anime continuity only, using episodes 1–1085 in this bank; manga-only facts, films, non-continuity specials, and unreleased episodes are excluded. Anime-original continuity is included only when clearly identified, such as the G-8 arc.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-Casual Foundations",
+      "spoilerLevel": "early",
+      "questionIds": [
+        "onepiece-u1-q1",
+        "onepiece-u1-q2",
+        "onepiece-u1-q3",
+        "onepiece-u1-q4",
+        "onepiece-u1-q5",
+        "onepiece-u1-q6",
+        "onepiece-u1-q7",
+        "onepiece-u1-q8",
+        "onepiece-u1-q9",
+        "onepiece-u1-q10",
+        "onepiece-u1-q11",
+        "onepiece-u1-q12",
+        "onepiece-u1-q13",
+        "onepiece-u1-q14",
+        "onepiece-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated Fan East Blue to Enies Lobby",
+      "spoilerLevel": "early",
+      "questionIds": [
+        "onepiece-u2-q1",
+        "onepiece-u2-q2",
+        "onepiece-u2-q3",
+        "onepiece-u2-q4",
+        "onepiece-u2-q5",
+        "onepiece-u2-q6",
+        "onepiece-u2-q7",
+        "onepiece-u2-q8",
+        "onepiece-u2-q9",
+        "onepiece-u2-q10",
+        "onepiece-u2-q11",
+        "onepiece-u2-q12",
+        "onepiece-u2-q13",
+        "onepiece-u2-q14",
+        "onepiece-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced Grand Line and New World",
+      "spoilerLevel": "mid",
+      "questionIds": [
+        "onepiece-u3-q1",
+        "onepiece-u3-q2",
+        "onepiece-u3-q3",
+        "onepiece-u3-q4",
+        "onepiece-u3-q5",
+        "onepiece-u3-q6",
+        "onepiece-u3-q7",
+        "onepiece-u3-q8",
+        "onepiece-u3-q9",
+        "onepiece-u3-q10",
+        "onepiece-u3-q11",
+        "onepiece-u3-q12",
+        "onepiece-u3-q13",
+        "onepiece-u3-q14",
+        "onepiece-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert Wano Mastery",
+      "spoilerLevel": "late",
+      "questionIds": [
+        "onepiece-u4-q1",
+        "onepiece-u4-q2",
+        "onepiece-u4-q3",
+        "onepiece-u4-q4",
+        "onepiece-u4-q5",
+        "onepiece-u4-q6",
+        "onepiece-u4-q7",
+        "onepiece-u4-q8",
+        "onepiece-u4-q9",
+        "onepiece-u4-q10",
+        "onepiece-u4-q11",
+        "onepiece-u4-q12",
+        "onepiece-u4-q13",
+        "onepiece-u4-q14",
+        "onepiece-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore Canon Mastery",
+      "spoilerLevel": "hardcore",
+      "questionIds": [
+        "onepiece-u5-q1",
+        "onepiece-u5-q2",
+        "onepiece-u5-q3",
+        "onepiece-u5-q4",
+        "onepiece-u5-q5",
+        "onepiece-u5-q6",
+        "onepiece-u5-q7",
+        "onepiece-u5-q8",
+        "onepiece-u5-q9",
+        "onepiece-u5-q10",
+        "onepiece-u5-q11",
+        "onepiece-u5-q12",
+        "onepiece-u5-q13",
+        "onepiece-u5-q14",
+        "onepiece-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://one-piece.com/op/guidetothevoyage/index.html",
+    "https://www.toei-animation-usa.com/one-piece.html"
+  ],
+  "notes": [
+    "Questions listed in review_ids use otherwise unambiguous anime facts but their episode-number mapping should be spot-checked against a primary episode listing before production lock.",
+    "review_ids: onepiece-u2-q15, onepiece-u3-q14, onepiece-u3-q15, onepiece-u4-q13, onepiece-u4-q15, onepiece-u5-q13, onepiece-u5-q14, onepiece-u5-q15, onepiece-u5-q5, onepiece-u5-q6",
+    "Episode source URL is a stable episode guide; arc ranges are cross-checked against the Crunchyroll arc guide. Official series context is linked in officialSourceUrls.",
+    "Films, manga-only material, unreleased episodes, and non-continuity specials are excluded. The G-8 question is explicitly anime-original television continuity."
+  ],
+  "questions": [
+    {
+      "id": "onepiece-u1-q1",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is the name of the village where Luffy grew up?",
+      "options": [
+        "Foosha Village",
+        "Shimotsuki Village",
+        "Cocoyasi Village",
+        "Orange Town"
+      ],
+      "answerIndex": 0,
+      "explanation": "Luffy was raised in Foosha Village in East Blue.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 1,
+        "arc": "Romance Dawn",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q2",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who originally gave Luffy the straw hat he wears?",
+      "options": [
+        "Gol D. Roger",
+        "Red-Haired Shanks",
+        "Monkey D. Garp",
+        "Silvers Rayleigh"
+      ],
+      "answerIndex": 1,
+      "explanation": "Shanks entrusted the straw hat to Luffy when Luffy promised to become a great pirate.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 4,
+        "arc": "Romance Dawn",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q3",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Before joining Luffy, what job was Zoro known for in East Blue?",
+      "options": [
+        "Shipwright",
+        "Bounty hunter",
+        "Marine cartographer",
+        "Treasure diver"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zoro was widely known as a pirate hunter.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 3,
+        "arc": "Romance Dawn",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q4",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which Devil Fruit power does Buggy use?",
+      "options": [
+        "Supa Supa no Mi",
+        "Bara Bara no Mi",
+        "Bomu Bomu no Mi",
+        "Sube Sube no Mi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Buggy ate the Bara Bara no Mi, allowing his body to split apart.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 8,
+        "arc": "Orange Town",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q5",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What identity did Kuro use while serving Kaya's household?",
+      "options": [
+        "Merry",
+        "Klahadore",
+        "Jango",
+        "Django"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kuro posed as Kaya’s butler, Klahadore.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 17,
+        "arc": "Syrup Village",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q6",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which Straw Hat joins after the Baratie conflict?",
+      "options": [
+        "Usopp",
+        "Nami",
+        "Sanji",
+        "Chopper"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sanji leaves the Baratie and joins Luffy’s crew at the end of the arc.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 30,
+        "arc": "Baratie",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q7",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What does Nami ask Luffy to do after finally breaking down?",
+      "options": [
+        "Find Bellemere",
+        "Save her",
+        "Steal Arlong’s map",
+        "Join the Marines"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nami asks Luffy for help, beginning the Straw Hats’ direct fight against Arlong.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 37,
+        "arc": "Arlong Park",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q8",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which village is Nami's home?",
+      "options": [
+        "Syrup Village",
+        "Cocoyasi Village",
+        "Loguetown",
+        "Shells Town"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nami was raised in Cocoyasi Village, which Arlong occupied.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 37,
+        "arc": "Arlong Park",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q9",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which Marine captain confronts Luffy in Loguetown?",
+      "options": [
+        "Tashigi",
+        "Hina",
+        "Smoker",
+        "Koby"
+      ],
+      "answerIndex": 2,
+      "explanation": "Smoker, the smoke-powered Marine captain, pursues Luffy in Loguetown.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 48,
+        "arc": "Loguetown",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q10",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What major sea route does the crew enter after leaving East Blue?",
+      "options": [
+        "The Calm Belt",
+        "The Grand Line",
+        "The New World",
+        "The Florian Triangle"
+      ],
+      "answerIndex": 1,
+      "explanation": "The crew crosses Reverse Mountain and begins its Grand Line voyage.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 53,
+        "arc": "Loguetown",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q11",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is the name of the giant whale encountered at the Grand Line entrance?",
+      "options": [
+        "Laboon",
+        "Surume",
+        "Momonosuke",
+        "Ryunosuke"
+      ],
+      "answerIndex": 0,
+      "explanation": "Laboon waits at Reverse Mountain for the Rumbar Pirates to return.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 62,
+        "arc": "Reverse Mountain",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q12",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Which pair of giants are locked in a century-long duel on Little Garden?",
+      "options": [
+        "Oimo and Kashii",
+        "Dorry and Brogy",
+        "Hajrudin and Goldberg",
+        "Jorl and Jarul"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dorry and Brogy have fought one another on Little Garden for 100 years.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 70,
+        "arc": "Little Garden",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q13",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "What is Chopper's role when he first joins the Straw Hats?",
+      "options": [
+        "Navigator",
+        "Doctor",
+        "Shipwright",
+        "Archaeologist"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chopper joins as the crew’s doctor.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 91,
+        "arc": "Drum Island",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q14",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "Who is defeated by Luffy at the climax of the Alabasta conflict?",
+      "options": [
+        "Mr. 1",
+        "Crocodile",
+        "Wapol",
+        "Bellamy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Luffy defeats Crocodile, the mastermind behind Baroque Works’ Alabasta plan.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 126,
+        "arc": "Alabasta",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u1-q15",
+      "series": "One Piece",
+      "unit": 1,
+      "difficulty": "beyond-casual knowledge",
+      "prompt": "How does Vivi signal her farewell to the departing Straw Hats?",
+      "options": [
+        "A coded Den Den Mushi call",
+        "A raised hand with an X mark",
+        "A flare from the palace",
+        "A written newspaper notice"
+      ],
+      "answerIndex": 1,
+      "explanation": "The crew raises marked arms so Vivi can recognize their silent farewell.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 130,
+        "arc": "Alabasta",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q1",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What principle does Blackbeard defend when he says that people's dreams never end?",
+      "options": [
+        "Pirates should avoid the Grand Line",
+        "Dreams are part of the pirate age",
+        "Devil Fruits are all illusions",
+        "The Marines control fate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Blackbeard’s speech in Mock Town affirms that a new age of dreams is underway.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 151,
+        "arc": "Jaya",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q2",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is Bellamy's defining attitude toward the old dreams of pirates?",
+      "options": [
+        "He worships them",
+        "He dismisses them as worthless",
+        "He is unaware of them",
+        "He wants to report them to the Marines"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bellamy mocks ideas such as Sky Island and the One Piece rather than believing in them.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 146,
+        "arc": "Jaya",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q3",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What name does the Skypiea arc use for the sensing ability later associated with Observation Haki?",
+      "options": [
+        "Mantra",
+        "Rokushiki",
+        "Life Return",
+        "Soru"
+      ],
+      "answerIndex": 0,
+      "explanation": "The priests and Eneru call their powerful sensing ability Mantra.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 167,
+        "arc": "Skypiea",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q4",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Why is Luffy naturally resistant to Eneru's lightning attacks?",
+      "options": [
+        "He is a fish-man",
+        "His body is rubber",
+        "He wears sea-stone armor",
+        "He has fire powers"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rubber is an insulator, so Eneru’s electricity does not affect Luffy normally.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 182,
+        "arc": "Skypiea",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q5",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which Marine vice admiral commands the G-8 base in the anime-original arc?",
+      "options": [
+        "Jonathan",
+        "Momonga",
+        "Onigumo",
+        "John Giant"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vice Admiral Jonathan is the strategic commander of the G-8 base.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 196,
+        "arc": "G-8",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q6",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What contest do the Straw Hats and Foxy Pirates enter?",
+      "options": [
+        "The Davy Back Fight",
+        "The Sea Train Derby",
+        "The Grand Line Cup",
+        "The Captain’s Trial"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Davy Back Fight is a pirate contest whose prizes can include crew members.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 207,
+        "arc": "Long Ring Long Land",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q7",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which former admiral defeats Luffy and the Straw Hats after Long Ring Long Land?",
+      "options": [
+        "Kizaru",
+        "Sengoku",
+        "Aokiji",
+        "Akainu"
+      ],
+      "answerIndex": 2,
+      "explanation": "Aokiji demonstrates the overwhelming gap between an admiral and the crew at that point.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 219,
+        "arc": "Long Ring Long Land",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q8",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What is the Franky Family's main base of operations in Water 7?",
+      "options": [
+        "Dock One",
+        "The Scrap Island hideout",
+        "The Galley-La tower",
+        "The Sea Train station"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Franky Family operates from a scrapyard-style hideout in Water 7.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 236,
+        "arc": "Water 7",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q9",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What does Robin finally say when the Straw Hats ask what she wants?",
+      "options": [
+        "I want to be Pirate King",
+        "I want to live",
+        "I want to return to Ohara",
+        "I want to defeat Spandam"
+      ],
+      "answerIndex": 1,
+      "explanation": "Robin declares that she wants to live, accepting the crew’s rescue.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 278,
+        "arc": "Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q10",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What triggers Chopper's uncontrolled Monster Point transformation at Enies Lobby?",
+      "options": [
+        "A fourth Rumble Ball in six hours",
+        "A third Rumble Ball within a short period",
+        "A dose of sea-stone medicine",
+        "Robin’s Devil Fruit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Using a third Rumble Ball in a short span forces Chopper into Monster Point.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 290,
+        "arc": "Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q11",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Which member of the Straw Hats says goodbye to the Going Merry during its funeral?",
+      "options": [
+        "Zoro",
+        "Nami",
+        "Luffy",
+        "Franky"
+      ],
+      "answerIndex": 2,
+      "explanation": "Luffy leads the crew’s emotional farewell to their damaged ship.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 312,
+        "arc": "Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q12",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Who is Ace pursuing when the anime shows his decisive clash?",
+      "options": [
+        "Shanks",
+        "Marshall D. Teach",
+        "Buggy",
+        "Crocodile"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ace confronts Marshall D. Teach, also known as Blackbeard.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 325,
+        "arc": "Post-Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q13",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What does Zoro agree to take from Kuma in exchange for Luffy's safety?",
+      "options": [
+        "A Devil Fruit",
+        "Luffy’s pain and fatigue",
+        "A Marine bounty",
+        "The crew’s treasure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zoro accepts all of Luffy’s accumulated pain and exhaustion.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 377,
+        "arc": "Thriller Bark",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q14",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "What happens to the Straw Hats at the end of the Sabaody conflict?",
+      "options": [
+        "They are crowned kings",
+        "Bartholomew Kuma scatters them",
+        "They join the Marines",
+        "They enter the New World together"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kuma sends each crew member to a different location.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 405,
+        "arc": "Sabaody Archipelago",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u2-q15",
+      "series": "One Piece",
+      "unit": 2,
+      "difficulty": "dedicated fan",
+      "prompt": "Where does Kuma send Nami during the crew's separation?",
+      "options": [
+        "Weatheria",
+        "Kuraigana Island",
+        "Boin Archipelago",
+        "Tequila Wolf"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nami is sent to Weatheria, a sky island of weather scholars.",
+      "spoilerLevel": "early",
+      "source": {
+        "episode": 417,
+        "arc": "Amazon Lily",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u3-q1",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Why does Luffy enter Impel Down?",
+      "options": [
+        "To rescue Ace",
+        "To steal a Poneglyph",
+        "To recruit Crocodile",
+        "To capture Magellan"
+      ],
+      "answerIndex": 0,
+      "explanation": "Luffy infiltrates the prison to rescue his brother Ace before his execution.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 422,
+        "arc": "Impel Down",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q2",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who sacrifices his chance to escape so Luffy can reach Marineford?",
+      "options": [
+        "Mr. 1",
+        "Bon Clay",
+        "Buggy",
+        "Ivankov"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bon Clay stays behind to operate the gate and gives Luffy another chance.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 451,
+        "arc": "Impel Down",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q3",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What happens to Portgas D. Ace during the Marineford war?",
+      "options": [
+        "He becomes a Marine",
+        "He dies protecting Luffy",
+        "He escapes with Whitebeard",
+        "He defeats Akainu"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ace dies after shielding Luffy from Akainu’s attack.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 482,
+        "arc": "Marineford",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q4",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Whitebeard affirm about the One Piece in his final moments?",
+      "options": [
+        "It is a Devil Fruit",
+        "It does not exist",
+        "It is real",
+        "It belongs to the Marines"
+      ],
+      "answerIndex": 2,
+      "explanation": "Whitebeard declares that the One Piece is real and that its discovery will shake the world.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 489,
+        "arc": "Marineford",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q5",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "How long does the Straw Hats' planned separation last before their reunion?",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Five years"
+      ],
+      "answerIndex": 2,
+      "explanation": "The crew trains separately for two years before returning to Sabaody.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 516,
+        "arc": "Return to Sabaody",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q6",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What kind of place is Fish-Man Island located in?",
+      "options": [
+        "Above the Red Line",
+        "Under the sea beneath the Red Line",
+        "Inside the Calm Belt only",
+        "On a sky island"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fish-Man Island lies beneath the Red Line, under the sea.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 522,
+        "arc": "Return to Sabaody",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q7",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the name of Caesar Clown's poisonous gas weapon?",
+      "options": [
+        "Shinokuni",
+        "Miasma D. Flame",
+        "Gas-Gas Nova",
+        "Smiley"
+      ],
+      "answerIndex": 0,
+      "explanation": "Shinokuni is the weaponized gas released over Punk Hazard.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 574,
+        "arc": "Punk Hazard",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q8",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who rules Dressrosa when the Straw Hats arrive?",
+      "options": [
+        "Donquixote Doflamingo",
+        "Riku Dold III",
+        "Fujitora",
+        "Kyros"
+      ],
+      "answerIndex": 0,
+      "explanation": "Doflamingo rules Dressrosa through his royal identity and underworld power.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 629,
+        "arc": "Dressrosa",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q9",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What identity does Sabo recover during the Dressrosa tournament storyline?",
+      "options": [
+        "His childhood memories",
+        "His title as Fleet Admiral",
+        "The location of Laugh Tale",
+        "His Devil Fruit origin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sabo’s memories of Luffy and Ace return during the Corrida Colosseum events.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 663,
+        "arc": "Dressrosa",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q10",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What initial does Law reveal is part of his full name?",
+      "options": [
+        "D.",
+        "X.",
+        "S.",
+        "V."
+      ],
+      "answerIndex": 0,
+      "explanation": "Law’s full name is Trafalgar D. Water Law.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 700,
+        "arc": "Dressrosa",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q11",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What message do the Mink leaders repeat when the Straw Hats ask about Raizo?",
+      "options": [
+        "He went to Wano",
+        "Raizo is safe",
+        "He joined Kaido",
+        "He is in the forest"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Minks repeatedly insist that Raizo is safe on Zou.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 767,
+        "arc": "Zou",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q12",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What unusual feature does Charlotte Pudding hide beneath her bangs?",
+      "options": [
+        "A third eye",
+        "A pair of horns",
+        "A tattoo of a sun",
+        "A mechanical lens"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pudding is a Three-Eye Tribe member with a third eye.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 783,
+        "arc": "Whole Cake Island",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q13",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which fighting style does Katakuri combine with his Mochi Mochi no Mi?",
+      "options": [
+        "Three-sword style",
+        "Trident-based combat",
+        "Fish-Man Karate",
+        "Rokushiki"
+      ],
+      "answerIndex": 1,
+      "explanation": "Katakuri uses the trident Mogura with his mochi powers.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 870,
+        "arc": "Whole Cake Island",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u3-q14",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Why does Sanji initially leave the Straw Hats in the Whole Cake Island saga?",
+      "options": [
+        "He is recruited by the Marines",
+        "He is coerced into a political marriage",
+        "He wants to become a Yonko",
+        "He loses his memory"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Vinsmokes and Big Mom Pirates force Sanji into the arranged marriage plot.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 825,
+        "arc": "Whole Cake Island",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u3-q15",
+      "series": "One Piece",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What is the main food Sanji prepares as the Whole Cake Island escape reaches its crisis?",
+      "options": [
+        "A wedding cake",
+        "A giant bento",
+        "Sea-prism candy",
+        "A fish-man feast"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sanji and the cooks complete the wedding cake that calms Big Mom.",
+      "spoilerLevel": "mid",
+      "source": {
+        "episode": 877,
+        "arc": "Whole Cake Island",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u4-q1",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What alias does Luffy use when entering Wano Country?",
+      "options": [
+        "Lucy",
+        "Luffytaro",
+        "Sogeking",
+        "Gangster Gastino"
+      ],
+      "answerIndex": 1,
+      "explanation": "Luffy takes the Wano name Luffytaro while undercover.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 891,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q2",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which legendary pirate crew is identified as having once united Kaido, Big Mom, and Whitebeard?",
+      "options": [
+        "The Rocks Pirates",
+        "The Roger Pirates",
+        "The Giant Warrior Pirates",
+        "The Rumbar Pirates"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Rocks Pirates are the former crew that included those future Emperors.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 958,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q3",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Whose ship does Kozuki Oden first join after leaving Wano?",
+      "options": [
+        "Gol D. Roger’s",
+        "Edward Newgate’s",
+        "Shanks’s",
+        "Kaido’s"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oden first sails with Whitebeard before later joining Roger.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 960,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q4",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "How is Oden executed by Kaido in the anime?",
+      "options": [
+        "He is frozen in ice",
+        "He is boiled in oil",
+        "He is thrown into the sea",
+        "He is struck by lightning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oden endures the boiling execution while holding up his retainers.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 974,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q5",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who are the first five fighters shown confronting Kaido on the rooftop of Onigashima?",
+      "options": [
+        "Luffy, Zoro, Law, Kid, and Killer",
+        "Luffy, Sanji, Jinbe, Marco, and Yamato",
+        "Zoro, Robin, Franky, Brook, and Nami",
+        "Law, Drake, Hawkins, Apoo, and Killer"
+      ],
+      "answerIndex": 0,
+      "explanation": "The rooftop supernova group is Luffy, Zoro, Law, Kid, and Killer.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1015,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q6",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What advanced application of Haki does Luffy begin using against Kaido?",
+      "options": [
+        "Advanced Conqueror’s Haki coating",
+        "Future-sight only",
+        "Armament emission only",
+        "Voice of All Things"
+      ],
+      "answerIndex": 0,
+      "explanation": "Luffy learns to coat attacks in Conqueror’s Haki.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1028,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q7",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the name of King’s revealed Lunarian flame-based power?",
+      "options": [
+        "His flame remains active behind him",
+        "He creates sea clouds",
+        "He turns into a dragon",
+        "He controls magma"
+      ],
+      "answerIndex": 0,
+      "explanation": "King’s Lunarian physiology includes a flame burning on his back.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1062,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q8",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What transformation does Luffy reveal in the episode titled around the peak of his power?",
+      "options": [
+        "Gear 5",
+        "Gear 2",
+        "Sulong",
+        "Ashura"
+      ],
+      "answerIndex": 0,
+      "explanation": "Luffy awakens the power later identified with Gear 5.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1071,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q9",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What recurring sound is tied to Luffy's awakened heartbeat?",
+      "options": [
+        "The Drums of Liberation",
+        "The Bells of Shandora",
+        "The Buster Call",
+        "The Song of Sake"
+      ],
+      "answerIndex": 0,
+      "explanation": "The awakened heartbeat is described as the Drums of Liberation.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1072,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q10",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who is defeated when Luffy's Bajrang Gun finishes the rooftop battle?",
+      "options": [
+        "King",
+        "Big Mom",
+        "Kaido",
+        "Orochi"
+      ],
+      "answerIndex": 2,
+      "explanation": "Luffy’s Bajrang Gun overcomes Kaido.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1076,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q11",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which two members of the Worst Generation defeat Big Mom in Wano?",
+      "options": [
+        "Luffy and Zoro",
+        "Law and Kid",
+        "Killer and Hawkins",
+        "Drake and Apoo"
+      ],
+      "answerIndex": 1,
+      "explanation": "Trafalgar Law and Eustass Kid combine attacks to defeat Big Mom.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1067,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q12",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is Yamato's Devil Fruit transformation?",
+      "options": [
+        "A mythical wolf deity",
+        "A mythical okuchi-no-makami",
+        "A phoenix",
+        "A dragon fish"
+      ],
+      "answerIndex": 1,
+      "explanation": "Yamato ate the Inu Inu no Mi, Model: Okuchi-no-Makami.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1046,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q13",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which former Whitebeard Pirates commander arrives in Wano to protect the alliance?",
+      "options": [
+        "Oden",
+        "Marco",
+        "Rayleigh",
+        "Scopper Gaban"
+      ],
+      "answerIndex": 1,
+      "explanation": "Marco arrives and supports the alliance during the Onigashima battle.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 982,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u4-q14",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the name of the Mink transformation used under the full moon?",
+      "options": [
+        "Sulong",
+        "Gear Fourth",
+        "Monster Point",
+        "Ashura"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sulong is the Minks’ moon-triggered transformation.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1022,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u4-q15",
+      "series": "One Piece",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which trio of allies remains in Wano after the Straw Hats depart?",
+      "options": [
+        "Yamato, Momonosuke, and Kin’emon",
+        "Zoro, Sanji, and Nami",
+        "Jinbe, Robin, and Franky",
+        "Law, Kid, and Killer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Yamato, Momonosuke, and Kin’emon remain in Wano after the Straw Hats sail onward.",
+      "spoilerLevel": "late",
+      "source": {
+        "episode": 1085,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u5-q1",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What is distinctive about Nami's tattoo after she joins Arlong's side?",
+      "options": [
+        "It combines a tangerine and pinwheel motif",
+        "It shows the World Government crest",
+        "It is a skull with three swords",
+        "It depicts the Going Merry"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nami’s tattoo combines Bellemere’s tangerine symbol with Genzo’s pinwheel.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 37,
+        "arc": "Arlong Park",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q2",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Why do Dorry and Brogy continue their duel despite no longer remembering its original cause?",
+      "options": [
+        "Their warrior code demands they honor the duel",
+        "The Marines command them to fight",
+        "A Devil Fruit forces them to continue",
+        "They are competing for the One Piece"
+      ],
+      "answerIndex": 0,
+      "explanation": "The giants continue because their pride and warrior honor bind them to the contest.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 76,
+        "arc": "Little Garden",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q3",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What do the Straw Hats use to show Vivi that they still consider her a friend?",
+      "options": [
+        "Their X-marked raised arms",
+        "A ship’s cannon salute",
+        "A newspaper headline",
+        "A Vivre Card"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hidden X marks let Vivi recognize the crew without a public farewell.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 130,
+        "arc": "Alabasta",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q4",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which complete name does Robin state when she declares that she wants to live?",
+      "options": [
+        "Nico Robin",
+        "Nico Olvia",
+        "Robin D. Ohara",
+        "Miss All Sunday"
+      ],
+      "answerIndex": 0,
+      "explanation": "Robin identifies herself as Nico Robin while making her plea.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 278,
+        "arc": "Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q5",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What is the name of Blackbeard's ship shown in the anime?",
+      "options": [
+        "Saber of Xebec",
+        "Oro Jackson",
+        "Moby Dick",
+        "Red Force"
+      ],
+      "answerIndex": 0,
+      "explanation": "Blackbeard’s ship is named the Saber of Xebec.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 325,
+        "arc": "Post-Enies Lobby",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u5-q6",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does Sanji find after Zoro returns from Kuma's bargain?",
+      "options": [
+        "Zoro’s missing sword",
+        "Blood on the ground and no trace of Luffy’s pain",
+        "A letter from Mihawk",
+        "A new bounty poster"
+      ],
+      "answerIndex": 1,
+      "explanation": "The crew sees the aftermath while Zoro conceals the pain he took from Luffy.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 377,
+        "arc": "Thriller Bark",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u5-q7",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What change in the world does Whitebeard's final declaration promise?",
+      "options": [
+        "The Grand Line will vanish",
+        "The One Piece will be found and the era will erupt",
+        "The Marines will dissolve immediately",
+        "The Red Line will split that day"
+      ],
+      "answerIndex": 1,
+      "explanation": "Whitebeard’s final words signal that the great pirate age will continue.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 489,
+        "arc": "Marineford",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q8",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which destination receives Usopp after Kuma scatters the crew?",
+      "options": [
+        "Boin Archipelago",
+        "Weatheria",
+        "Kuraigana Island",
+        "Tequila Wolf"
+      ],
+      "answerIndex": 0,
+      "explanation": "Usopp is sent to the Boin Archipelago, where he trains with Heracles.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 405,
+        "arc": "Sabaody Archipelago",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q9",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which destination receives Zoro after Kuma scatters the crew?",
+      "options": [
+        "Kuraigana Island",
+        "Weatheria",
+        "Momoiro Island",
+        "Tequila Wolf"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zoro is sent to Kuraigana Island, where Mihawk is staying.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 405,
+        "arc": "Sabaody Archipelago",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q10",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What happens to the giant children Caesar experiments on if they miss their candy dose?",
+      "options": [
+        "They shrink into bubbles",
+        "They suffer withdrawal and collapse",
+        "They become Sea Kings",
+        "They lose their memories"
+      ],
+      "answerIndex": 1,
+      "explanation": "The addictive candy is used to keep the abducted children compliant.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 574,
+        "arc": "Punk Hazard",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q11",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What does the 'D.' in Trafalgar D. Water Law's name indicate in the anime's revealed identity?",
+      "options": [
+        "A family initial tied to the D. clan",
+        "A Marine rank",
+        "A Wano title",
+        "A Devil Fruit model"
+      ],
+      "answerIndex": 0,
+      "explanation": "The initial marks Law as one of the people carrying the mysterious D. name.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 700,
+        "arc": "Dressrosa",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q12",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Why had the Minks refused to betray Raizo despite Jack's torture?",
+      "options": [
+        "He was a Marine admiral",
+        "He was their protected guest from Wano",
+        "He possessed a Poneglyph",
+        "He had become their king"
+      ],
+      "answerIndex": 1,
+      "explanation": "Raizo was sheltered by the Minks, who would not surrender their guest.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 767,
+        "arc": "Zou",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "onepiece-u5-q13",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which battle cry is associated with the mysterious inherited power that begins to stir in Luffy?",
+      "options": [
+        "The Drums of Liberation",
+        "The Great Eruption",
+        "The Voice of All Things",
+        "The Red Line Bell"
+      ],
+      "answerIndex": 0,
+      "explanation": "The drums are the auditory sign of the awakening associated with liberation.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 1015,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u5-q14",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "Which Devil Fruit name does the Five Elders say was concealed by the World Government?",
+      "options": [
+        "Hito Hito no Mi, Model: Nika",
+        "Gomu Gomu no Mi",
+        "Mera Mera no Mi",
+        "Uo Uo no Mi, Model: Seiryu"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Elders identify the fruit’s true name as the Hito Hito no Mi, Model: Nika.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 1071,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    },
+    {
+      "id": "onepiece-u5-q15",
+      "series": "One Piece",
+      "unit": 5,
+      "difficulty": "hardcore canon mastery",
+      "prompt": "What ancient figure does Kaido say Luffy's awakened form resembles?",
+      "options": [
+        "Joy Boy",
+        "Ryuma",
+        "Imu",
+        "Nika the First"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kaido recognizes the awakened Luffy as the figure he believes may be Joy Boy.",
+      "spoilerLevel": "hardcore",
+      "source": {
+        "episode": 1076,
+        "arc": "Wano",
+        "url": "https://onepiece.fandom.com/wiki/Episode_Guide",
+        "title": "Episode Guide",
+        "status": "review"
+      }
+    }
+  ]
+}

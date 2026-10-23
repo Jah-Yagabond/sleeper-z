@@ -1,0 +1,23 @@
+{
+  "id": "onepiece-u3-q14",
+  "current_prompt": "Why does Sanji initially leave the Straw Hats in the Whole Cake Island saga?",
+  "answerIndex": 1,
+  "corrected_source": {
+    "episode": 825,
+    "episodeTitle": "A Liar! Luffy and Sanji!!",
+    "arc": "Whole Cake Island",
+    "url": "https://onepiece.fandom.com/wiki/Episode_825",
+    "title": "Episode 825 | One Piece Wiki - Fandom",
+    "status": "verified"
+  },
+  "evidence_urls": [
+    "https://onepiece.fandom.com/wiki/Episode_825",
+    "https://tv.apple.com/us/episode/episode-825/umc.cmc.3e2tfr7akrbxx0ca35dvcfivx?showId=umc.cmc.2jf3h5bibsseewr9bh0rg5kcl",
+    "https://www.onepiecepodcast.com/one-piece-news/2018/02/10/one-piece-episode-825-827-titles",
+    "https://www.imdb.com/title/tt7993942/",
+    "https://www.crunchyroll.com/news/guides/2022/11/1/one-piece-arcs-order",
+    "https://onepiece.fandom.com/wiki/Episode_764"
+  ],
+  "finding": "The answer is correct and preserved (answerIndex 1): Sanji is compelled into an arranged/political marriage involving the Vinsmoke family and Big Mom Pirates. Episode 825 is the verified explanatory/reunion episode where Sanji states that the wedding, the threat to Zeff/Baratie, and the danger to his family prevent him from returning; its English title is A Liar! Luffy and Sanji!!, and independent listings place it in the Whole Cake Island arc. Episode 764 is also documented as the direct departure scene, so it is retained in evidence as context rather than replacing the current why-focused citation.",
+  "status": "verified"
+}

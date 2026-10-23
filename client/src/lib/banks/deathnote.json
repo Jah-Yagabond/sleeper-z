@@ -1,0 +1,1854 @@
+{
+  "id": "deathnote-tv-anime-2006-2007",
+  "series": "Death Note",
+  "title": "Death Note (2006–2007 TV Anime) Structured Question Bank",
+  "adaptationBoundary": "Only the 37-episode Death Note television anime broadcast in 2006–2007 is included. Manga-only material, the Relight specials, live-action films and series, novels, games, and fan interpretations are excluded.",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Beyond-casual Kira fundamentals",
+      "spoilerLevel": "low",
+      "questionIds": [
+        "deathnote-u1-q1",
+        "deathnote-u1-q2",
+        "deathnote-u1-q3",
+        "deathnote-u1-q4",
+        "deathnote-u1-q5",
+        "deathnote-u1-q6",
+        "deathnote-u1-q7",
+        "deathnote-u1-q8",
+        "deathnote-u1-q9",
+        "deathnote-u1-q10",
+        "deathnote-u1-q11",
+        "deathnote-u1-q12",
+        "deathnote-u1-q13",
+        "deathnote-u1-q14",
+        "deathnote-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated-fan investigation details",
+      "spoilerLevel": "medium",
+      "questionIds": [
+        "deathnote-u2-q1",
+        "deathnote-u2-q2",
+        "deathnote-u2-q3",
+        "deathnote-u2-q4",
+        "deathnote-u2-q5",
+        "deathnote-u2-q6",
+        "deathnote-u2-q7",
+        "deathnote-u2-q8",
+        "deathnote-u2-q9",
+        "deathnote-u2-q10",
+        "deathnote-u2-q11",
+        "deathnote-u2-q12",
+        "deathnote-u2-q13",
+        "deathnote-u2-q14",
+        "deathnote-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced notebook and Yotsuba canon",
+      "spoilerLevel": "high",
+      "questionIds": [
+        "deathnote-u3-q1",
+        "deathnote-u3-q2",
+        "deathnote-u3-q3",
+        "deathnote-u3-q4",
+        "deathnote-u3-q5",
+        "deathnote-u3-q6",
+        "deathnote-u3-q7",
+        "deathnote-u3-q8",
+        "deathnote-u3-q9",
+        "deathnote-u3-q10",
+        "deathnote-u3-q11",
+        "deathnote-u3-q12",
+        "deathnote-u3-q13",
+        "deathnote-u3-q14",
+        "deathnote-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert successor-era canon",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "deathnote-u4-q1",
+        "deathnote-u4-q2",
+        "deathnote-u4-q3",
+        "deathnote-u4-q4",
+        "deathnote-u4-q5",
+        "deathnote-u4-q6",
+        "deathnote-u4-q7",
+        "deathnote-u4-q8",
+        "deathnote-u4-q9",
+        "deathnote-u4-q10",
+        "deathnote-u4-q11",
+        "deathnote-u4-q12",
+        "deathnote-u4-q13",
+        "deathnote-u4-q14",
+        "deathnote-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore canon mastery",
+      "spoilerLevel": "very-high",
+      "questionIds": [
+        "deathnote-u5-q1",
+        "deathnote-u5-q2",
+        "deathnote-u5-q3",
+        "deathnote-u5-q4",
+        "deathnote-u5-q5",
+        "deathnote-u5-q6",
+        "deathnote-u5-q7",
+        "deathnote-u5-q8",
+        "deathnote-u5-q9",
+        "deathnote-u5-q10",
+        "deathnote-u5-q11",
+        "deathnote-u5-q12",
+        "deathnote-u5-q13",
+        "deathnote-u5-q14",
+        "deathnote-u5-q15"
+      ]
+    }
+  ],
+  "officialSourceUrls": [
+    "https://www.ntv.co.jp/english/sphone/pc/2011/03/death-note-1.html",
+    "https://www.viz.com/death-note"
+  ],
+  "notes": [
+    "Episode numbers and titles were cross-checked against the anime episode list and the official Nippon TV series page, which identifies 37 television episodes.",
+    "All questions use original wording and target one objectively verifiable fact from the television anime.",
+    "The Relight compilation specials are not counted as television episodes and are outside the adaptation boundary."
+  ],
+  "questions": [
+    {
+      "id": "deathnote-u1-q1",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Where does Light Yagami first find the Death Note?",
+      "options": [
+        "At To-Oh University",
+        "On his high-school grounds",
+        "Inside police headquarters",
+        "At a train station"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light picks up the notebook on the grounds of his high school in the opening episode.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q2",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Who is the shinigami that dropped the notebook Light finds?",
+      "options": [
+        "Rem",
+        "Sidoh",
+        "Ryuk",
+        "Gelus"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ryuk is the shinigami who drops the Death Note into the human world and later approaches Light.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q3",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What name does the public give the mysterious killer?",
+      "options": [
+        "X-Kira",
+        "Kira",
+        "Lind",
+        "The Successor"
+      ],
+      "answerIndex": 1,
+      "explanation": "The public adopts Kira, the Japanese rendering of 'killer,' as the name for the unknown murderer.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "2 — Confrontation",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q4",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which region does L reveal Kira is located in through his television trap?",
+      "options": [
+        "Hokkaido",
+        "Kansai",
+        "Kanto",
+        "Kyushu"
+      ],
+      "answerIndex": 2,
+      "explanation": "L's broadcast is targeted to Kanto, revealing that Kira is in that region of Japan.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "2 — Confrontation",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q5",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What happens to a person whose name is written in the Death Note, assuming the notebook's conditions are met?",
+      "options": [
+        "They lose their memories",
+        "They die",
+        "They become a shinigami",
+        "They fall into a coma"
+      ],
+      "answerIndex": 1,
+      "explanation": "The notebook's central rule is that a human whose name is written in it dies.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q6",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is the name of Light's father?",
+      "options": [
+        "Soichiro Yagami",
+        "Shuichi Aizawa",
+        "Touta Matsuda",
+        "Kanzo Mogi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light's father and the police official leading the investigation is Soichiro Yagami.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q7",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which criminal is Light's first test subject after he begins using the notebook?",
+      "options": [
+        "Kurou Otoharada",
+        "Takuo Shibuimaru",
+        "Hirokazu Ukita",
+        "Kiichiro Osoreda"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light first tests the notebook on Kurou Otoharada, a criminal shown on television.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q8",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What type of death does Light initially use for most of his criminal targets?",
+      "options": [
+        "A heart attack",
+        "A traffic accident",
+        "Poisoning",
+        "Drowning"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light's early public pattern is a wave of apparently natural heart attacks.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q9",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What is Raye Penber's occupation in the investigation?",
+      "options": [
+        "Japanese prosecutor",
+        "FBI agent",
+        "Television producer",
+        "University lecturer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Raye Penber is an FBI agent assigned to investigate people connected to the Kira case.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "4 — Pursuit",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q10",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does Light use to force the man following him to reveal his identity?",
+      "options": [
+        "A staged train derailment",
+        "A bus hijacking",
+        "A fake television broadcast",
+        "A police raid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light engineers a bus hijacking and uses the resulting encounter to learn that his follower is Raye Penber.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "4 — Pursuit",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q11",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "How many FBI agents in Japan are killed as a result of Light's train gambit?",
+      "options": [
+        "Six",
+        "Eight",
+        "Twelve",
+        "Twenty-four"
+      ],
+      "answerIndex": 2,
+      "explanation": "Light coerces Raye Penber into writing the names of twelve FBI agents, killing them all.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "5 — Tactics",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q12",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Which alias does L use when he first confronts Kira on television?",
+      "options": [
+        "Lind L. Tailor",
+        "Hideki Ryuga",
+        "Naomi Misora",
+        "Ryuzaki"
+      ],
+      "answerIndex": 0,
+      "explanation": "L uses the condemned criminal Lind L. Tailor as the bait in his first televised challenge.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "2 — Confrontation",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q13",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What does Light say he wants to become after using the notebook to remake society?",
+      "options": [
+        "The world's chief of police",
+        "The god of a new world",
+        "The next head of the FBI",
+        "The king of the shinigami"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light repeatedly describes his intended role as the god of a new, crime-free world.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "1 — Rebirth",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q14",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "What two pieces of information can shinigami eyes show above a human's head?",
+      "options": [
+        "Name and remaining lifespan",
+        "Age and blood type",
+        "Address and occupation",
+        "Memories and criminal record"
+      ],
+      "answerIndex": 0,
+      "explanation": "The eyes show a human's name and lifespan, information normally unavailable to humans.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "3 — Dealings",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u1-q15",
+      "series": "Death Note",
+      "unit": 1,
+      "difficulty": "beyond-casual",
+      "prompt": "Why does Light refuse Ryuk's offer of shinigami eyes?",
+      "options": [
+        "The eyes would erase his memories",
+        "The deal would cost half his remaining lifespan",
+        "The eyes work only on criminals",
+        "Ryuk asks for the notebook in return"
+      ],
+      "answerIndex": 1,
+      "explanation": "The eye deal would halve Light's remaining lifespan, so he declines it.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "3 — Dealings",
+        "arc": "Opening / Kira investigation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q1",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "How does Light continue killing during the room-surveillance operation?",
+      "options": [
+        "He hides a television inside a potato-chip bag",
+        "He memorizes every newspaper for later",
+        "He uses a second notebook supplied by L",
+        "He sends names through the police database"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light conceals a portable television in a potato-chip bag and writes names while appearing to snack.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "8 — Glare",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q2",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "At which institution do Light and L first meet face to face?",
+      "options": [
+        "To-Oh University",
+        "Wammy's House",
+        "The NPA headquarters",
+        "Sakura TV"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light meets L at the entrance ceremony for To-Oh University.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "9 — Encounter",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q3",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What alias does L use when he introduces himself to Light at the university?",
+      "options": [
+        "Ryuzaki",
+        "Hideki Ryuga",
+        "Eraldo Coil",
+        "Deneuve"
+      ],
+      "answerIndex": 1,
+      "explanation": "L presents himself as Hideki Ryuga, borrowing the name of a famous idol.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "9 — Encounter",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q4",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which sport does L use to test Light's behavior and reasoning?",
+      "options": [
+        "Tennis",
+        "Baseball",
+        "Fencing",
+        "Basketball"
+      ],
+      "answerIndex": 0,
+      "explanation": "L challenges Light to a tennis match and discusses the Kira case during it.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "10 — Doubt",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q5",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What medical emergency briefly takes Soichiro Yagami out of the investigation?",
+      "options": [
+        "A stroke",
+        "A heart attack",
+        "Appendicitis",
+        "A gunshot wound"
+      ],
+      "answerIndex": 1,
+      "explanation": "Soichiro suffers a heart attack after L's tennis match with Light and is taken to hospital.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "10 — Doubt",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q6",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which television station receives the mysterious tapes associated with the second Kira?",
+      "options": [
+        "Sakura TV",
+        "NHK",
+        "To-Oh TV",
+        "Kanto News Network"
+      ],
+      "answerIndex": 0,
+      "explanation": "The prerecorded messages are sent to Sakura TV, which begins broadcasting them.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q7",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which member of the investigation team dies outside Sakura TV?",
+      "options": [
+        "Hirokazu Ukita",
+        "Shuichi Aizawa",
+        "Kanzo Mogi",
+        "Touta Matsuda"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hirokazu Ukita dies at Sakura TV after going to stop the broadcasts.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q8",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Which shinigami is attached to Misa Amane when she contacts the Kira case?",
+      "options": [
+        "Rem",
+        "Ryuk",
+        "Sidoh",
+        "Gelus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rem accompanies Misa and is the shinigami who gives her the second notebook context in the anime.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q9",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What special ability has Misa obtained by the time she approaches Kira?",
+      "options": [
+        "The ability to erase names",
+        "Shinigami eyes",
+        "The ability to see the future",
+        "The ability to control shinigami"
+      ],
+      "answerIndex": 1,
+      "explanation": "Misa has made the shinigami-eye deal, allowing her to see names and lifespans.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q10",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Where does the task force send Matsuda and Light to look for the second Kira?",
+      "options": [
+        "Aoyama",
+        "Shibuya",
+        "Osaka",
+        "Yokohama"
+      ],
+      "answerIndex": 0,
+      "explanation": "The team investigates Aoyama on the date given in the second Kira's message.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "13 — Confession",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q11",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "Why can Misa identify Light as Kira when she sees him?",
+      "options": [
+        "His lifespan is printed on his school uniform",
+        "A Death Note owner's lifespan is invisible to her eyes",
+        "Rem tells her his name",
+        "L announces Light's identity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Misa cannot see a Death Note owner's lifespan, and that absence identifies Light to her.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "13 — Confession",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q12",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What does Misa do instead of accepting the police offer to reduce the second Kira's punishment?",
+      "options": [
+        "She flees Japan",
+        "She goes to find and introduce herself to Light",
+        "She destroys Rem's notebook",
+        "She confesses to L"
+      ],
+      "answerIndex": 1,
+      "explanation": "Misa ignores the offer and seeks out the real Kira, whom she recognizes as Light.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "13 — Confession",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q13",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What conclusion does L draw from the Sakura TV tapes?",
+      "options": [
+        "They are from Kira's first notebook",
+        "They likely come from a different Kira",
+        "They are fabricated by the FBI",
+        "They were recorded by Soichiro"
+      ],
+      "answerIndex": 1,
+      "explanation": "The tapes use a different method and voice, leading L to suspect a second Kira.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q14",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "How does Soichiro enter Sakura TV's building to seize the tapes?",
+      "options": [
+        "He disguises himself as a reporter",
+        "He hijacks a bus and crashes into the lobby",
+        "He walks in with a television crew",
+        "He parachutes onto the roof"
+      ],
+      "answerIndex": 1,
+      "explanation": "Soichiro drives a hijacked bus into the lobby so the police can seize the tapes without exposing their faces.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "11 — Assault",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u2-q15",
+      "series": "Death Note",
+      "unit": 2,
+      "difficulty": "dedicated-fan",
+      "prompt": "What does Light arrange around himself at Aoyama to conceal Misa's view of his face?",
+      "options": [
+        "A ring of friends",
+        "A police escort",
+        "A group of television cameras",
+        "A crowd of FBI agents"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light has friends surround him so the shinigami following Misa cannot easily identify the real Kira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "13 — Confession",
+        "arc": "Kira investigation / Second Kira",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q1",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Misa do with ownership of her Death Note after being detained?",
+      "options": [
+        "She transfers it to Light",
+        "She relinquishes ownership",
+        "She gives it to L",
+        "She buries it under Sakura TV"
+      ],
+      "answerIndex": 1,
+      "explanation": "Misa gives up ownership, causing her memories connected to the notebook to disappear.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "15 — Wager",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q2",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What does Light do as part of his plan to make himself appear innocent?",
+      "options": [
+        "He burns the notebook publicly",
+        "He relinquishes ownership of his Death Note",
+        "He accepts the eye deal",
+        "He reveals Ryuk to L"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light relinquishes ownership and arranges confinement so he will forget being Kira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "16 — Decision",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q3",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Where does Light spend part of the confinement plan?",
+      "options": [
+        "In a cell without television",
+        "At Wammy's House",
+        "In a Yotsuba boardroom",
+        "At the police academy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light asks to be confined in a cell without television as part of the innocence test.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "16 — Decision",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q4",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What happens to the killings while Light and Misa are confined?",
+      "options": [
+        "They stop completely",
+        "They continue, weakening the case against Light and Misa",
+        "They switch to accidents only",
+        "They are blamed on L"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kira killings continue during the confinement, making Light's apparent innocence more plausible.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "16 — Decision",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q5",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What unusual arrangement does L impose after Light joins the active investigation?",
+      "options": [
+        "He chains himself to Light",
+        "He moves into Light's classroom",
+        "He gives Light the SPK",
+        "He exchanges notebooks with Light"
+      ],
+      "answerIndex": 0,
+      "explanation": "L has himself physically chained to Light so the two can be observed together.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "18 — Ally",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q6",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which investigator leaves the task force during the early Yotsuba investigation?",
+      "options": [
+        "Shuichi Aizawa",
+        "Touta Matsuda",
+        "Hirokazu Ukita",
+        "Soichiro Yagami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aizawa leaves the group after disagreements over the risks and L's methods.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "18 — Ally",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q7",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which pair of independent operatives does L bring into the Yotsuba investigation?",
+      "options": [
+        "Wedy and Aiber",
+        "Misa and Rem",
+        "Near and Mello",
+        "Raye and Naomi"
+      ],
+      "answerIndex": 0,
+      "explanation": "L recruits the thief Wedy and con man Aiber to support the investigation.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "18 — Ally",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q8",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Which organization is linked to the corporate killings in the Yotsuba investigation?",
+      "options": [
+        "Yotsuba Group",
+        "SPK",
+        "Los Angeles BB Unit",
+        "Mafia of the United States"
+      ],
+      "answerIndex": 0,
+      "explanation": "The murders are traced to executives within Yotsuba Group.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "18 — Ally",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q9",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What cover identity does Matsuda use while investigating Yotsuba?",
+      "options": [
+        "Misa's manager",
+        "A bank auditor",
+        "An FBI translator",
+        "A television anchor"
+      ],
+      "answerIndex": 0,
+      "explanation": "Matsuda enters Yotsuba while pretending to be Misa's manager.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "19 — Matsuda",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q10",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who infiltrates Yotsuba on the task force's behalf to gather information?",
+      "options": [
+        "Misa",
+        "Rem",
+        "Sayu",
+        "Naomi"
+      ],
+      "answerIndex": 0,
+      "explanation": "L asks Misa to use her entertainment connection to infiltrate Yotsuba and learn more.",
+      "spoilerLevel": "medium",
+      "source": {
+        "episode": "20 — Makeshift",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q11",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Who is identified as the third Kira during the Yotsuba arc?",
+      "options": [
+        "Kyosuke Higuchi",
+        "Reiji Namikawa",
+        "Shingo Mido",
+        "Takeshi Ooi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Misa's recovered memories point to Kyosuke Higuchi as the active Yotsuba Kira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "21 — Performance",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q12",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What additional deal does Higuchi make when he is cornered?",
+      "options": [
+        "A deal for shinigami eyes",
+        "A deal to become a shinigami",
+        "A deal to erase the Death Note",
+        "A deal to trade places with L"
+      ],
+      "answerIndex": 0,
+      "explanation": "Higuchi accepts the shinigami-eye deal during the trap and chase.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "23 — Frenzy",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q13",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What happens to Higuchi at the end of the pursuit?",
+      "options": [
+        "He escapes to the United States",
+        "He is arrested by the task force",
+        "He is killed by Rem",
+        "He becomes L's informant"
+      ],
+      "answerIndex": 1,
+      "explanation": "The task force captures Higuchi, allowing the notebook and its rules to be examined.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "23 — Frenzy",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q14",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "What do the investigators encounter for the first time after Higuchi's arrest?",
+      "options": [
+        "A Death Note and the rules written in it",
+        "The shinigami king",
+        "Mello's organization",
+        "A working time machine"
+      ],
+      "answerIndex": 0,
+      "explanation": "The task force physically encounters the Death Note and begins examining its written rules.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "24 — Revival",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u3-q15",
+      "series": "Death Note",
+      "unit": 3,
+      "difficulty": "advanced",
+      "prompt": "Whom does Rem kill at the end of the first major investigation?",
+      "options": [
+        "L and Watari",
+        "Light and Ryuk",
+        "Near and Mello",
+        "Soichiro and Matsuda"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rem kills both L and Watari to protect Misa, producing the investigation's decisive catastrophe.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "25 — Silence",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q1",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the title of episode 26, the transition episode after L's death?",
+      "options": [
+        "Renewal",
+        "Revival",
+        "Transfer",
+        "New World"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 26 is titled Renewal and functions as a recap and transition into the successor storyline.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "26 — Renewal",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q2",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What new professional position does Light officially take five years later?",
+      "options": [
+        "NPA investigator",
+        "Head of Wammy's House",
+        "FBI director",
+        "Yotsuba chairman"
+      ],
+      "answerIndex": 0,
+      "explanation": "The timeskip shows Light joining the National Police Agency as an investigator.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "26 — Renewal",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q3",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does SPK stand for in the successor investigation?",
+      "options": [
+        "Special Provision for Kira",
+        "Shinigami Police Kanto",
+        "Specialized Pursuit of Kira",
+        "Secret Police of Kanto"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near forms the Special Provision for Kira, abbreviated SPK.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "27 — Abduction",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q4",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "With whom does Mello ally himself after leaving Wammy's House?",
+      "options": [
+        "The criminal underworld",
+        "The Japanese police",
+        "The shinigami realm",
+        "Yotsuba's board of directors"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mello works with criminals and uses that alliance to pursue the notebook and Kira.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "27 — Abduction",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q5",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which member of the Yagami family is kidnapped to obtain the notebook?",
+      "options": [
+        "Sayu Yagami",
+        "Sachiko Yagami",
+        "Light Yagami",
+        "Soichiro Yagami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mello's group kidnaps Sayu Yagami and demands the Death Note in exchange.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "27 — Abduction",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q6",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Why does Sidoh enter the human world during Mello's storyline?",
+      "options": [
+        "He is searching for his stolen notebook",
+        "He wants to become Kira",
+        "He is hunting Near",
+        "He is sent by Rem"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sidoh comes to the human world looking for the Death Note that Mello possesses.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "28 — Impatience",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q7",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Soichiro do to obtain Mello's real name during the raid?",
+      "options": [
+        "He makes the shinigami-eye deal",
+        "He trades away his notebook",
+        "He asks Ryuk to write it",
+        "He reads it from Near's files"
+      ],
+      "answerIndex": 0,
+      "explanation": "Soichiro trades half his remaining lifespan for shinigami eyes so he can see Mello's name.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "29 — Father",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q8",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What public stance does the United States announce in episode 30?",
+      "options": [
+        "It declares neutrality",
+        "It joins Kira's worshippers",
+        "It arrests Near",
+        "It abolishes the SPK"
+      ],
+      "answerIndex": 0,
+      "explanation": "The United States declares neutrality rather than openly supporting either side.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "30 — Justice",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q9",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Mello reveal to Near about the Death Note?",
+      "options": [
+        "That some rules are fake",
+        "That Ryuk is L",
+        "That Light is already dead",
+        "That the notebook cannot kill criminals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mello tells Near that the Death Note contains fake rules, including the 13-day rule used as a defense.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "30 — Justice",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q10",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which former task-force member gives Near information after meeting him?",
+      "options": [
+        "Shuichi Aizawa",
+        "Hirokazu Ukita",
+        "Lind L. Tailor",
+        "Raye Penber"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aizawa meets Near and supplies information about the Japanese investigation.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "31 — Transfer",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q11",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who becomes Light's selected new second Kira and public spokesperson?",
+      "options": [
+        "Kiyomi Takada",
+        "Misa Amane",
+        "Naomi Misora",
+        "Sayu Yagami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light selects Kiyomi Takada to act as the new Kira spokesperson.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "32 — Selection",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q12",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Which prosecutor does Light choose to act as the new Kira?",
+      "options": [
+        "Teru Mikami",
+        "Reiji Namikawa",
+        "Hitoshi Demegawa",
+        "Halle Lidner"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light chooses Teru Mikami as the new Kira and directs him through Takada.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "32 — Selection",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q13",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Near's group do before the final phase of the confrontation?",
+      "options": [
+        "The SPK goes to Japan",
+        "The SPK disbands",
+        "The SPK joins Yotsuba",
+        "The SPK gives Light the notebook"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near and the SPK travel to Japan as the final investigation moves there.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "33 — Scorn",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q14",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Who tails Mikami and helps expose the notebook's location?",
+      "options": [
+        "Stephen Gevanni",
+        "Matt",
+        "Mello",
+        "Halle Lidner"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gevanni follows Mikami and photographs the notebook, giving Near evidence for the substitution plan.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "34 — Vigilance",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u4-q15",
+      "series": "Death Note",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the title of episode 36, the episode immediately before the finale?",
+      "options": [
+        "1.28",
+        "Malice",
+        "New World",
+        "Transfer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 36 is titled 1.28, referring to the date of the final confrontation.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "36 — 1.28",
+        "arc": "Post-L / Near and Mello",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q1",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "At which warehouse does the final confrontation take place?",
+      "options": [
+        "Yellow Box Warehouse",
+        "Sakura Storage Depot",
+        "To-Oh Warehouse",
+        "Kanto Evidence Hall"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near arranges the final meeting at the Yellow Box Warehouse.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "36 — 1.28 / 37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q2",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does Mikami write in the notebook during the final warehouse test?",
+      "options": [
+        "Everyone's name except Light's",
+        "Only Near's name",
+        "Light's name first",
+        "The names of the task-force members only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mikami writes the names of everyone present except Light, following Light's instruction.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "36 — 1.28",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q3",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does the group observe after the supposed notebook names are written at the warehouse?",
+      "options": [
+        "No one dies after forty seconds",
+        "Everyone dies instantly",
+        "The warehouse catches fire",
+        "Ryuk disappears"
+      ],
+      "answerIndex": 0,
+      "explanation": "The expected deaths do not occur after forty seconds, exposing the notebook substitution.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q4",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who writes Light Yagami's name in a Death Note at the end of the anime?",
+      "options": [
+        "Ryuk",
+        "Near",
+        "Mikami",
+        "Matsuda"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ryuk writes Light's name in his own Death Note after telling Light that the promise has come due.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q5",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is the immediate cause of Light's death after Ryuk writes his name?",
+      "options": [
+        "A heart attack",
+        "A gunshot from Matsuda",
+        "A fall from the warehouse",
+        "A shinigami attack"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light dies from the notebook's specified default death: a heart attack.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q6",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which investigator shoots Light during the final confrontation?",
+      "options": [
+        "Touta Matsuda",
+        "Shuichi Aizawa",
+        "Stephen Gevanni",
+        "Soichiro Yagami"
+      ],
+      "answerIndex": 0,
+      "explanation": "Matsuda shoots Light after Light attempts to use a hidden piece of the notebook.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q7",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Where has Light concealed the notebook fragment he tries to use at the warehouse?",
+      "options": [
+        "Inside his watch",
+        "Inside a cigarette case",
+        "Under the warehouse floor",
+        "In Mikami's glasses"
+      ],
+      "answerIndex": 0,
+      "explanation": "Light keeps a torn notebook piece in his watch for a last attempt to write a name.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q8",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does Mikami use to make the final hidden notebook accessible before the warehouse meeting?",
+      "options": [
+        "A safety-deposit-box notebook",
+        "A notebook from Wammy's House",
+        "A copy supplied by Near",
+        "A page from Ryuk's notebook"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mikami retrieves the real notebook from a safety-deposit box, a move that lets Gevanni track it.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "New World (episode)",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q9",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Who is killed during Mello's operation involving Takada?",
+      "options": [
+        "Mello",
+        "Near",
+        "Aizawa",
+        "Gevanni"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mello dies after carrying out the abduction that disrupts Light and Near's plans.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "35 — Malice",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q10",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which character's kidnapping causes Mikami to act outside Light's intended schedule?",
+      "options": [
+        "Kiyomi Takada",
+        "Misa Amane",
+        "Sayu Yagami",
+        "Halle Lidner"
+      ],
+      "answerIndex": 0,
+      "explanation": "Takada's kidnapping prompts Mikami to access the real notebook, revealing its location.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "35 — Malice",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q11",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What does Near's team substitute before the warehouse meeting?",
+      "options": [
+        "A fake notebook for the real one",
+        "A fake shinigami for Ryuk",
+        "A fake identity for Light",
+        "A fake broadcast for Takada"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near's team replaces the real notebook with a replica so Mikami's writing will fail.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "36 — 1.28",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q12",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "What is Near's given name?",
+      "options": [
+        "Nate River",
+        "Mihael Keehl",
+        "Teru Mikami",
+        "Hideki Ryuga"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near's real name is Nate River, one of the successor details exposed in the endgame.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q13",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which title is used for the anime's final episode?",
+      "options": [
+        "New World",
+        "Silence",
+        "Renewal",
+        "Justice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The 37th and final episode is titled New World.",
+      "spoilerLevel": "high",
+      "source": {
+        "episode": "37 — New World",
+        "arc": "Final warehouse confrontation",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q14",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "Which title belongs to the episode in which L and Watari die?",
+      "options": [
+        "Silence",
+        "Wager",
+        "Father",
+        "Malice"
+      ],
+      "answerIndex": 0,
+      "explanation": "Episode 25, Silence, contains Rem's fatal intervention that kills L and Watari.",
+      "spoilerLevel": "very-high",
+      "source": {
+        "episode": "25 — Silence",
+        "arc": "Second Kira / Yotsuba",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "deathnote-u5-q15",
+      "series": "Death Note",
+      "unit": 5,
+      "difficulty": "hardcore-canon-mastery",
+      "prompt": "How many numbered television episodes make up the 2006–2007 anime series?",
+      "options": [
+        "26",
+        "37",
+        "39",
+        "52"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nippon TV identifies the animated series as 37 episodes; the two Relight specials are separate works and are excluded here.",
+      "spoilerLevel": "low",
+      "source": {
+        "episode": "Series scope",
+        "arc": "Series-wide canon",
+        "url": "https://deathnote.fandom.com/wiki/Death_Note_(anime)/List_of_Episodes",
+        "title": "Death Note (anime) — List of Episodes",
+        "status": "verified"
+      }
+    }
+  ]
+}

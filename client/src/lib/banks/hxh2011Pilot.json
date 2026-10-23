@@ -1,0 +1,1854 @@
+{
+  "series": "Hunter × Hunter (2011)",
+  "title": "Hunter × Hunter 2011 Pilot",
+  "officialSourceUrls": [
+    "https://www.primevideo.com/detail/0OHRX33I16B9NUX1B3FMMPK8PI?tr=us",
+    "https://tv.apple.com/us/episode/a--dangerous--watchdog/umc.cmc.8g6fgb074mzx91trgq5p3vwc?showId=umc.cmc.6iubybdmze8hzxhis7q2gzmk3",
+    "https://www.crunchyroll.com/watch/GYX0J8J2R/the-x-zoldyck-x-family",
+    "https://www.crunchyroll.com/watch/GYMGEZD5Y/pursuit-x-and-x-analysis"
+  ],
+  "notes": [
+    "Granular episode facts use the cited secondary episode/character references because official distributor pages generally expose metadata and short synopses rather than scene-level mechanics.",
+    "One question remains explicitly marked review where the available source did not expose a precise episode number; it is retained in the 75-question pilot but should be manually confirmed before calling the full bank publication-ready."
+  ],
+  "units": [
+    {
+      "unit": 1,
+      "title": "Knowledge beyond casual viewers",
+      "spoilerLevel": "Hunter Exam and Zoldyck Family arcs; light spoilers through episode 26",
+      "questionIds": [
+        "hunter-2011-u1-q01",
+        "hunter-2011-u1-q02",
+        "hunter-2011-u1-q03",
+        "hunter-2011-u1-q04",
+        "hunter-2011-u1-q05",
+        "hunter-2011-u1-q06",
+        "hunter-2011-u1-q07",
+        "hunter-2011-u1-q08",
+        "hunter-2011-u1-q09",
+        "hunter-2011-u1-q10",
+        "hunter-2011-u1-q11",
+        "hunter-2011-u1-q12",
+        "hunter-2011-u1-q13",
+        "hunter-2011-u1-q14",
+        "hunter-2011-u1-q15"
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Dedicated fan knowledge",
+      "spoilerLevel": "Through episode 58",
+      "questionIds": [
+        "hunter-2011-u2-q01",
+        "hunter-2011-u2-q02",
+        "hunter-2011-u2-q03",
+        "hunter-2011-u2-q04",
+        "hunter-2011-u2-q05",
+        "hunter-2011-u2-q06",
+        "hunter-2011-u2-q07",
+        "hunter-2011-u2-q08",
+        "hunter-2011-u2-q09",
+        "hunter-2011-u2-q10",
+        "hunter-2011-u2-q11",
+        "hunter-2011-u2-q12",
+        "hunter-2011-u2-q13",
+        "hunter-2011-u2-q14",
+        "hunter-2011-u2-q15"
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Advanced character, ability, and plot details",
+      "spoilerLevel": "Major spoilers through episode 136",
+      "questionIds": [
+        "hunter-2011-u3-q01",
+        "hunter-2011-u3-q02",
+        "hunter-2011-u3-q03",
+        "hunter-2011-u3-q04",
+        "hunter-2011-u3-q05",
+        "hunter-2011-u3-q06",
+        "hunter-2011-u3-q07",
+        "hunter-2011-u3-q08",
+        "hunter-2011-u3-q09",
+        "hunter-2011-u3-q10",
+        "hunter-2011-u3-q11",
+        "hunter-2011-u3-q12",
+        "hunter-2011-u3-q13",
+        "hunter-2011-u3-q14",
+        "hunter-2011-u3-q15"
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Expert continuity, conditions, strategies, and cause-and-effect",
+      "spoilerLevel": "Full spoilers through episode 148; Chimera Ant and 13th Hunter Chairman Election arcs",
+      "questionIds": [
+        "hunter-2011-u4-q01",
+        "hunter-2011-u4-q02",
+        "hunter-2011-u4-q03",
+        "hunter-2011-u4-q04",
+        "hunter-2011-u4-q05",
+        "hunter-2011-u4-q06",
+        "hunter-2011-u4-q07",
+        "hunter-2011-u4-q08",
+        "hunter-2011-u4-q09",
+        "hunter-2011-u4-q10",
+        "hunter-2011-u4-q11",
+        "hunter-2011-u4-q12",
+        "hunter-2011-u4-q13",
+        "hunter-2011-u4-q14",
+        "hunter-2011-u4-q15"
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Hardcore canon mastery",
+      "spoilerLevel": "Full 2011 anime through episode 148",
+      "questionIds": [
+        "hunter-2011-u5-q01",
+        "hunter-2011-u5-q02",
+        "hunter-2011-u5-q03",
+        "hunter-2011-u5-q04",
+        "hunter-2011-u5-q05",
+        "hunter-2011-u5-q06",
+        "hunter-2011-u5-q07",
+        "hunter-2011-u5-q08",
+        "hunter-2011-u5-q09",
+        "hunter-2011-u5-q10",
+        "hunter-2011-u5-q11",
+        "hunter-2011-u5-q12",
+        "hunter-2011-u5-q13",
+        "hunter-2011-u5-q14",
+        "hunter-2011-u5-q15"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "hunter-2011-u1-q01",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "In episode 1, what natural sign does Gon cite when warning the ship's captain that a violent storm is approaching?",
+      "options": [
+        "The sea birds are warning one another",
+        "The tide has suddenly stopped moving",
+        "Lightning is visible beyond the horizon",
+        "The ship's compass is spinning"
+      ],
+      "answer": 0,
+      "explanation": "Gon says the sea birds flying above the ship are warning each other, and he confirms the storm by smell.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "1",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_1_(2011)",
+        "title": "Departure × And × Friends (Episode 1, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q02",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "At the masked villagers' two-choice riddle in episode 2, what response does Kurapika recognize as the correct way to proceed?",
+      "options": [
+        "Choose the path toward Zaban City",
+        "Choose the path toward the cedar tree",
+        "Answer that the travelers should decide for themselves",
+        "Remain silent"
+      ],
+      "answer": 3,
+      "explanation": "The riddle has no meaningful yes-or-no answer; the correct response is silence, which avoids wasting the answer.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "2",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_2_(2011)",
+        "title": "Test × Of × Tests (Episode 2, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q03",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "What alternate name does Satotz give the Milsy Wetlands in episode 4?",
+      "options": [
+        "The Hunter's Marsh",
+        "Swindlers' Swamp",
+        "The Great Stamp Preserve",
+        "The Blacklist Fen"
+      ],
+      "answer": 1,
+      "explanation": "After the long run, Satotz identifies the dangerous wetlands as the Milsy Wetlands, also called Swindlers' Swamp.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "4",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_4_(2011)",
+        "title": "Hope × And × Ambition (Episode 4, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q04",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "easy",
+      "prompt": "In the original Second Phase task in episode 6, what animal must the examinees hunt for their pork dish?",
+      "options": [
+        "A Great Stamp",
+        "A Spider Eagle",
+        "A Kiriko",
+        "A Man-faced Ape"
+      ],
+      "answer": 0,
+      "explanation": "Menchi and Buhara require meat from a Great Stamp, described as the world's wildest and most carnivorous boar.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "6",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_6_(2011)",
+        "title": "An × Unexpected × Task (Episode 6, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q05",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "After Menchi's first Second Phase is annulled, what does the retest at Split Mountain require examinees to obtain?",
+      "options": [
+        "Great Stamp tusks",
+        "Spider Eagle eggs",
+        "A Hunter license from Netero",
+        "A badge from another applicant"
+      ],
+      "answer": 1,
+      "explanation": "Menchi's retest is to retrieve the rare Spider Eagle eggs, also called dream eggs, from webs over the ravine.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "6",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_6_(2011)",
+        "title": "An × Unexpected × Task (Episode 6, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q06",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "easy",
+      "prompt": "During Netero's airship challenge in episode 7, what does he promise Gon and Killua if they take the ball from him?",
+      "options": [
+        "They will skip directly to the Final Phase",
+        "They will automatically become Hunters",
+        "They will receive a second Hunter license",
+        "They may choose the next examiner"
+      ],
+      "answer": 1,
+      "explanation": "Netero says that successfully taking the ball from him will make them Hunters automatically; the challenge is not a formal exam phase.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "7",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_7_(2011)",
+        "title": "Showdown × On The × Airship (Episode 7, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q07",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "easy",
+      "prompt": "What time limit does Beans state for reaching the bottom of Trick Tower in the Third Phase?",
+      "options": [
+        "24 hours",
+        "48 hours",
+        "72 hours",
+        "Seven days"
+      ],
+      "answer": 2,
+      "explanation": "The Third Phase requires the candidates to reach the bottom of Trick Tower alive within 72 hours.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "8",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_8_(2011)",
+        "title": "Decision × By × Majority? (Episode 8, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q08",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "Why does Gon's candle begin burning faster during his match with Sedokan?",
+      "options": [
+        "Sedokan secretly lights a second wick",
+        "Gon chose the longer candle, which was oil-soaked",
+        "The tower's wind reaches only Gon's candle",
+        "The candle is made from Spider Eagle wax"
+      ],
+      "answer": 1,
+      "explanation": "Gon chooses the longer candle, not knowing it has been soaked in oil; it therefore burns down faster.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "9",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_9_(2011)",
+        "title": "Beware × Of × Prisoners (Episode 9, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q09",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "Why must Gon, Killua, Kurapika, Leorio, and Tonpa form a five-person group to advance in Trick Tower?",
+      "options": [
+        "The tower's lift holds exactly five people",
+        "The prisoners will only fight teams of five",
+        "Their chosen route uses majority-rule voting",
+        "The Third Phase requires five Hunter licenses"
+      ],
+      "answer": 2,
+      "explanation": "They enter the majority-rule route, where decisions are made by voting, so Lippo's rules require five members.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "8",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_8_(2011)",
+        "title": "Decision × By × Majority? (Episode 8, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q10",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "hard",
+      "prompt": "At the final Trick Tower fork in episode 12, what is the stated trade-off for choosing the O-marked route?",
+      "options": [
+        "It lets five people pass but takes at least 45 hours",
+        "It lets three people pass but takes at least 45 hours",
+        "It lets five people pass but takes only three minutes",
+        "It lets one person pass and awards six points"
+      ],
+      "answer": 0,
+      "explanation": "The O route is long and difficult but allows all five to pass and requires a minimum of 45 hours; the group later breaks through the wall to save time.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "12",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_12_(2011)",
+        "title": "Last × Test Of × Resolve! (Episode 12, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q11",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "According to the final-phase format explained in episode 19, what does a remaining examinee need in order to pass?",
+      "options": [
+        "Three wins without being injured",
+        "One win, with losers moving up the bracket",
+        "The most points from collecting badges",
+        "A unanimous vote from the other examinees"
+      ],
+      "answer": 1,
+      "explanation": "The Chairman explains that each contestant needs only one win; the loser moves up the bracket until one applicant fails to pass.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "19",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_19_(2011)",
+        "title": "Can't Win × And × Can't Lose (Episode 19, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q12",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "easy",
+      "prompt": "Who is identified as the first applicant to pass the 287th Hunter Exam in the 2011 anime?",
+      "options": [
+        "Kurapika",
+        "Killua",
+        "Gon",
+        "Hanzo"
+      ],
+      "answer": 2,
+      "explanation": "After Hanzo concedes their match, Gon is explicitly described as the first applicant to pass the 287th exam.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "19",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_19_(2011)",
+        "title": "Can't Win × And × Can't Lose (Episode 19, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q13",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "In episode 20, who is revealed to be hiding behind the examinee name Gittarackur?",
+      "options": [
+        "Milluki Zoldyck",
+        "Illumi Zoldyck",
+        "Silva Zoldyck",
+        "Zeno Zoldyck"
+      ],
+      "answer": 1,
+      "explanation": "During Killua's match, Gittarackur is revealed to be his older brother Illumi, who has altered his appearance.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "20",
+        "arc": "Hunter Exam arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_20_(2011)",
+        "title": "Baffling × Turn Of × Events (Episode 20, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q14",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "According to Zebro in episode 22, how much does one door of the Zoldyck estate's Testing Gate weigh?",
+      "options": [
+        "500 kilograms",
+        "One ton",
+        "Two tons",
+        "Sixteen tons"
+      ],
+      "answer": 2,
+      "explanation": "Zebro demonstrates that the first door weighs two tons; the larger total figures refer to multiple opened levels, not one door.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "22",
+        "arc": "Zoldyck Family arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_22_(2011)",
+        "title": "A × Dangerous × Watchdog (Episode 22, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u1-q15",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 1,
+      "difficulty": "medium",
+      "prompt": "In Gotoh's coin-guessing game in episode 25, how much time does a player have to answer each guess?",
+      "options": [
+        "One second",
+        "Three seconds",
+        "Ten seconds",
+        "Until the coin stops spinning"
+      ],
+      "answer": 1,
+      "explanation": "Gotoh states that a player has only three seconds to answer; a wrong answer eliminates that player, while exceeding the time limit triggers the stated threat.",
+      "spoilerLevel": "light spoilers through episode 26",
+      "source": {
+        "episode": "25",
+        "arc": "Zoldyck Family arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_25_(2011)",
+        "title": "Can't See × If × You're Blind (Episode 25, 2011 anime) — Hunterpedia",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q01",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "During Wing's water-divination demonstration, what does the water do when Gon performs it?",
+      "options": [
+        "The water overflows from the glass",
+        "The leaf spins rapidly",
+        "The water changes color",
+        "The water becomes salty"
+      ],
+      "answer": 0,
+      "explanation": "Gon's aura makes the water overflow, identifying him as an Enhancer.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "35",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_35_(2011)",
+        "title": "Episode 35 (2011) - The × True × Pass",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q02",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What sensory change occurs in the water when Killua performs water divination?",
+      "options": [
+        "It tastes sweet",
+        "It becomes bitter",
+        "It starts to boil",
+        "It gives off a metallic smell"
+      ],
+      "answer": 0,
+      "explanation": "Killua makes the water taste sweet, the sign of a Transmuter in Wing's demonstration.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "35",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_35_(2011)",
+        "title": "Episode 35 (2011) - The × True × Pass",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q03",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "Which Nen category does Wing's water divination identify for Zushi?",
+      "options": [
+        "Enhancement",
+        "Transmutation",
+        "Manipulation",
+        "Conjuration"
+      ],
+      "answer": 2,
+      "explanation": "The leaf moves on top of the water for Zushi, indicating Manipulation.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "35",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_35_(2011)",
+        "title": "Episode 35 (2011) - The × True × Pass",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q04",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What does Gyo let Gon and Killua see during their Heavens Arena training?",
+      "options": [
+        "Hidden Nen and aura",
+        "Future events",
+        "A person's memories",
+        "The exact Nen category of anyone nearby"
+      ],
+      "answer": 0,
+      "explanation": "Wing teaches Gyo as a technique that concentrates aura in the eyes so hidden Nen can be seen.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "33",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_33_(2011)",
+        "title": "Episode 33 (2011) - An × Empty × Threat",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q05",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "In Gon's rematch with Gido, what does Gon's fishing-rod hook catch to disrupt Gido's spinning?",
+      "options": [
+        "A ceiling beam",
+        "One of the ring's flagstones",
+        "Gido's metal peg",
+        "The referee's platform"
+      ],
+      "answer": 1,
+      "explanation": "Gon hooks a flagstone in the ring and flips it upward, leaving Gido vulnerable and allowing Gon to break his prosthetic leg.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "34",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_34_(2011)",
+        "title": "Episode 34 (2011) - Power × To × Avenge",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q06",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "How does Killua turn Riehlvelt's Twin Snake whips against him?",
+      "options": [
+        "He catches both whips, then pulls Riehlvelt into the air while the electrical attack is active",
+        "He cuts the whips with a card and pins Riehlvelt to the wall",
+        "He uses Gyo to make the whips disappear",
+        "He grabs the wheelchair and wins by stopping the match before contact"
+      ],
+      "answer": 0,
+      "explanation": "Killua catches both whips, withstands their electricity, and uses them to hurl and then catch Riehlvelt, winning the fight.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "34",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_34_(2011)",
+        "title": "Episode 34 (2011) - Power × To × Avenge",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q07",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "How does Gon make Riehlvelt pass out in their 200th-floor match?",
+      "options": [
+        "He breaks the wheelchair with a single punch",
+        "He traps Riehlvelt under a flagstone",
+        "He wraps the Twin Snake around Riehlvelt's neck and feigns pressing its switch",
+        "He uses Ren to extinguish Riehlvelt's aura"
+      ],
+      "answer": 2,
+      "explanation": "Gon takes the Twin Snake, wraps it around Riehlvelt's neck, and only pretends to activate the electricity; fear makes Riehlvelt lose consciousness.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "34",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_34_(2011)",
+        "title": "Episode 34 (2011) - Power × To × Avenge",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q08",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "medium",
+      "prompt": "What did the referee award Gon for striking Hisoka with the shattered flagstone and following attack?",
+      "options": [
+        "A critical hit",
+        "An automatic disqualification",
+        "A ring-out victory",
+        "A penalty point"
+      ],
+      "answer": 0,
+      "explanation": "The referee awarded Gon a critical hit for the flagstone strategy and the punch that followed, putting him briefly ahead on points.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "36",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_36_(2011)",
+        "title": "Episode 36 (2011) - A Big Debt × And × A Small Kick",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q09",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "When did Hisoka attach Bungee Gum to Gon, enabling the pull that set up Hisoka's decisive punch?",
+      "options": [
+        "When Gon returned Hisoka's number plate",
+        "During Hisoka's personality analysis of Gon",
+        "When Gon first entered the arena",
+        "After the referee awarded Gon his critical hit"
+      ],
+      "answer": 1,
+      "explanation": "Gyo reveals the gum on Gon's cheek; Hisoka explains that he attached it during the personality analysis.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "36",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_36_(2011)",
+        "title": "Episode 36 (2011) - A Big Debt × And × A Small Kick",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q10",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What Nen state does Kurapika's Chain Jail impose on a Phantom Troupe member when it ensnares him?",
+      "options": [
+        "Zetsu, preventing the captive from using aura",
+        "Ren, forcing the captive's aura to expand",
+        "In, making the captive invisible",
+        "Gyo, revealing every hidden object"
+      ],
+      "answer": 0,
+      "explanation": "Kurapika explains that Chain Jail activates Zetsu on a Troupe member, which is why Uvogin cannot break it with aura.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "47",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_47_(2011)",
+        "title": "Episode 47 (2011) - Condition × And × Condition",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q11",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Why does Kurapika choose Uvogin as his first Phantom Troupe target?",
+      "options": [
+        "Uvogin is the only Troupe member who cannot use Nen",
+        "Uvogin is the physically strongest, so containing him would suggest the other Spiders could also be contained",
+        "Uvogin personally sold the Kurta eyes at the auction",
+        "Uvogin is the Troupe member who betrayed Chrollo"
+      ],
+      "answer": 1,
+      "explanation": "Kurapika selects the strongest member in physical strength as a test: if Uvogin cannot break Chain Jail, the others should be helpless in it as well.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "47",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_47_(2011)",
+        "title": "Episode 47 (2011) - Condition × And × Condition",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q12",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What rule does Kurapika place on Uvogin with Judgment Chain before asking where the Phantom Troupe is hiding?",
+      "options": [
+        "Uvogin must answer all of Kurapika's questions",
+        "Uvogin must never use physical strength again",
+        "Uvogin must lead Kurapika to the auction",
+        "Uvogin must reveal his Nen category to Chrollo"
+      ],
+      "answer": 0,
+      "explanation": "Kurapika's rule requires Uvogin to answer his questions; Uvogin refuses to answer the location question, so the Judgment Chain kills him.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "47",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_47_(2011)",
+        "title": "Episode 47 (2011) - Condition × And × Condition",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q13",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "When Chrollo uses Indoor Fish on an assassin in episode 51, what happens under the ability's shown rule?",
+      "options": [
+        "The victim is kept alive inside until Chrollo opens the window, then dies immediately",
+        "The victim is transformed into a fish and can escape through any door",
+        "The victim's memories are erased but the body survives",
+        "The victim can leave safely as soon as Chrollo closes the book"
+      ],
+      "answer": 0,
+      "explanation": "Indoor Fish tears the assassin apart while keeping him alive; when Chrollo opens the window, the ability's rule causes the assassin to die instantly.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "51",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_51_(2011)",
+        "title": "Episode 51 (2011) - A × Brutal × Battlefield",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q14",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "Which two conditions does Kurapika place on Chrollo during the hostage exchange?",
+      "options": [
+        "He may not use Nen and may not contact any Phantom Troupe member",
+        "He must leave Yorknew and surrender his stolen book",
+        "He must reveal the Kurta massacre and return the Scarlet Eyes",
+        "He must fight Hisoka and remain inside the airship"
+      ],
+      "answer": 0,
+      "explanation": "Kurapika's Judgment Chain forbids Chrollo from using Nen and from contacting any member of the Phantom Troupe.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "58",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_58_(2011)",
+        "title": "Episode 58 (2011) - Signal × To × Retreat",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u2-q15",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 2,
+      "difficulty": "hard",
+      "prompt": "What does Pakunoda do immediately before Kurapika's Judgment Chain kills her after the hostage exchange?",
+      "options": [
+        "She fires six Memory Bombs bullets containing her memories into six founding Troupe members",
+        "She burns Chrollo's book and flees Yorknew alone",
+        "She uses Dowsing Chain to locate Kurapika",
+        "She challenges Hisoka to a duel in the airship"
+      ],
+      "answer": 0,
+      "explanation": "Pakunoda fires her maximum six memory bullets into Feitan, Phinks, Machi, Nobunaga, Shalnark, and Franklin; then the chain activates and kills her.",
+      "spoilerLevel": "Through episode 58",
+      "source": {
+        "episode": "58",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_58_(2011)",
+        "title": "Episode 58 (2011) - Signal × To × Retreat",
+        "status": "verified"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q01",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "easy",
+      "prompt": "According to Eta's explanation when Gon enters Greed Island, what must a player collect to clear the game?",
+      "options": [
+        "All 40 spell cards",
+        "All 100 restricted (specified-slot) cards",
+        "The three cards in the special case",
+        "A complete set of free-slot cards"
+      ],
+      "answer": 1,
+      "explanation": "Eta explains that the binder has 100 restricted card slots and that clearing Greed Island requires collecting all of those cards.",
+      "spoilerLevel": "Greed Island arc spoilers",
+      "source": {
+        "episode": "60",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_60_(2011)",
+        "title": "End × And × Beginning — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q02",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "easy",
+      "prompt": "Which keyword spell makes Greed Island's card binder appear?",
+      "options": [
+        "Gain",
+        "Book",
+        "Accompany",
+        "Leave"
+      ],
+      "answer": 1,
+      "explanation": "Eta tells Gon that saying “Book” materializes the binder used to store Greed Island cards.",
+      "spoilerLevel": "Greed Island arc spoilers",
+      "source": {
+        "episode": "60",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_60_(2011)",
+        "title": "End × And × Beginning — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q03",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "easy",
+      "prompt": "Which Greed Island keyword spell changes a card back into its material item form?",
+      "options": [
+        "Book",
+        "Gain",
+        "Trace",
+        "Contact"
+      ],
+      "answer": 1,
+      "explanation": "The ring's “Gain” spell materializes an item represented by a card; Eta explains this while introducing the game rules.",
+      "spoilerLevel": "Greed Island arc spoilers",
+      "source": {
+        "episode": "60",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_60_(2011)",
+        "title": "End × And × Beginning — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q04",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "During the final exchange of the dodgeball match against Razor, who used Bungee Gum to stop Razor's returning ball?",
+      "options": [
+        "Gon",
+        "Killua",
+        "Hisoka",
+        "Goreinu"
+      ],
+      "answer": 2,
+      "explanation": "After Gon’s powered throw, Hisoka used Bungee Gum to catch and redirect Razor’s counter, pushing Razor out of bounds and securing the win.",
+      "spoilerLevel": "Greed Island arc spoilers",
+      "source": {
+        "episode": "71",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_71_(2011)",
+        "title": "Bargain × And × Deal — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q05",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What is the name of Genthru's ability that he uses by gripping a target and detonating an explosion?",
+      "options": [
+        "Countdown",
+        "Little Flower",
+        "Ripper Cyclotron",
+        "Deep Purple"
+      ],
+      "answer": 1,
+      "explanation": "Genthru uses Little Flower to explode what he is holding; Gon counters by protecting his wrist with aura.",
+      "spoilerLevel": "Greed Island arc spoilers",
+      "source": {
+        "episode": "74",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_74_(2011)",
+        "title": "Victor × And × Loser — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q06",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "When Gon and Killua used Accompany on the player name “Nigg,” where did the card actually take them?",
+      "options": [
+        "To Ging at the Greed Island starting point",
+        "To Kite near the Chimera Ant nest",
+        "To Razor's lighthouse",
+        "To Battera's mansion"
+      ],
+      "answer": 1,
+      "explanation": "Ging had arranged the game’s transport so Accompany on “Nigg” would send Gon to Kite; Magnetic Force was the route intended for Ging himself.",
+      "spoilerLevel": "Greed Island and Chimera Ant arc spoilers",
+      "source": {
+        "episode": "76",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_76_(2011)",
+        "title": "Reunion × And × Understanding — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q07",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What did Killua pull out of his own head to break free of the hesitation controlling him during his fight with Rammot?",
+      "options": [
+        "A piece of Kite's Crazy Slots",
+        "Illumi's needle",
+        "A dart from the Ortho Siblings",
+        "A transmitter planted by Morel"
+      ],
+      "answer": 1,
+      "explanation": "Killua realized Illumi’s voice and the urge to flee came from a needle implanted by Illumi, then pulled it out and immediately defeated Rammot.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "94",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_94_(2011)",
+        "title": "Friend × And × Journey — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q08",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "What is the name of Zazan's ability that turns humans into Chimera Ant soldiers by stinging them?",
+      "options": [
+        "Sexy Stinger of Rebirth",
+        "Battle Cantabile",
+        "Rental Pod",
+        "Satellite Dragonflies"
+      ],
+      "answer": 0,
+      "explanation": "The episode identifies Zazan as the self-declared queen and names her human-transforming tail-sting ability Sexy Stinger of Rebirth.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "96",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_96_(2011)",
+        "title": "A × Lawless × Home — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q09",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "How did Killua neutralize the Ortho Siblings' supposedly fatal final dart?",
+      "options": [
+        "He reflected it with Bungee Gum",
+        "He used a suction cup to catch it when it materialized",
+        "He destroyed it with Godspeed before it appeared",
+        "He substituted a yo-yo for his head"
+      ],
+      "answer": 1,
+      "explanation": "Killua predicted the final dart’s location from the double-out rule, placed a suction cup over that spot, and caught the dart as it materialized.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "101",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_101_(2011)",
+        "title": "Ikalgo × And × Lightning — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q10",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "How many rooms does Knov's Hide and Seek Nen space contain?",
+      "options": [
+        "12",
+        "21",
+        "40",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "Knov explains that Hide and Seek creates a Nen space consisting of 21 isolated rooms arranged across four floors.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "104",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_104_(2011)",
+        "title": "Doubt × And × Hesitation — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q11",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "What did Morel use to defeat Leol after Leol activated the stolen Inamura ability?",
+      "options": [
+        "A poisonous smoke compound",
+        "Carbon dioxide produced and concentrated with his lungs and smoke",
+        "A direct Deep Purple clone attack",
+        "A water counter from Knuckle"
+      ],
+      "answer": 1,
+      "explanation": "Morel increased the carbon-dioxide concentration underwater using his lungs and smoke, causing Leol to lose consciousness and his ability to fail.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "107",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_107_(2011)",
+        "title": "Return × And × Retire — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q12",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which Royal Guard's wing scales hypnotized and dazed the citizens marching toward the palace?",
+      "options": [
+        "Neferpitou",
+        "Menthuthuyoupi",
+        "Shaiapouf",
+        "Meruem"
+      ],
+      "answer": 2,
+      "explanation": "The infiltration team identifies the marching citizens as hypnotized by Shaiapouf’s wing scales.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "109",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_109_(2011)",
+        "title": "Taking Stock × And × Taking Action — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q13",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which named attack did Netero use to drive Meruem into the underground tomb at the start of their decisive battle?",
+      "options": [
+        "The Ninety-Ninth Hand",
+        "Zero Hand",
+        "Jupiter",
+        "Jajanken: Rock"
+      ],
+      "answer": 0,
+      "explanation": "Netero activates the 100-Type Guanyin Bodhisattva and uses the Ninety-Ninth Hand, whose impact sends both fighters down into the tomb.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "125",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_125_(2011)",
+        "title": "Great Power × And × Ultimate Power — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q14",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "hard",
+      "prompt": "Which attack did Netero use immediately before activating the Poor Man's Rose against Meruem?",
+      "options": [
+        "Ninety-Ninth Hand",
+        "Zero Hand",
+        "Dragon Dive",
+        "Little Flower"
+      ],
+      "answer": 1,
+      "explanation": "After Meruem tears off Netero’s limbs, Netero fires the 100-Type Guanyin Bodhisattva’s Zero Hand; when it fails to stop the King, he activates the implanted Poor Man’s Rose.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "126",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_126_(2011)",
+        "title": "Zero × And × Rose — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u3-q15",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 3,
+      "difficulty": "medium",
+      "prompt": "According to the ending shown in episode 136, who was the Chimera Ant child Shidore before reincarnation?",
+      "options": [
+        "Kurt",
+        "Reina",
+        "Komugi",
+        "Ponzu"
+      ],
+      "answer": 1,
+      "explanation": "The episode reveals that Shidore is the reincarnation of Reina; her mother recognizes her when she returns to the NGL village.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "136",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_136_(2011)",
+        "title": "Homecoming × And × Real Name — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q01",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "When Neferpitou summons Doctor Blythe while being thrown away by Netero, what movement restriction does the ability impose?",
+      "options": [
+        "Pitou cannot move more than 20 meters from Doctor Blythe's original position.",
+        "Pitou must remain within 5 meters of the person being healed.",
+        "Pitou cannot move until the healing is complete, regardless of distance.",
+        "Pitou can move freely, but Doctor Blythe cannot be summoned again for one hour."
+      ],
+      "answer": 0,
+      "explanation": "Doctor Blythe is stationary after being summoned, and Pitou cannot move beyond 20 meters from it.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "111",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_111_(2011)",
+        "title": "Episode 111 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q02",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Why does Menthuthuyoupi fail to see A.P.R. when Knuckle attacks during the palace invasion?",
+      "options": [
+        "Meleoron hides Knuckle and A.P.R. with God's Accomplice.",
+        "Knuckle temporarily removes A.P.R. from Youpi to avoid detection.",
+        "A.P.R. is invisible to Royal Guards by its basic Nen property.",
+        "Zeno's Dragon Dive disrupts Youpi's eyesight at that moment."
+      ],
+      "answer": 0,
+      "explanation": "Meleoron's God's Accomplice makes the cooperating users invisible, so Knuckle and the attached A.P.R. cannot be seen by Youpi.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "112",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_112_(2011)",
+        "title": "Episode 112 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q03",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What practical limitation affects Meleoron's use of Perfect Plan during the palace operation?",
+      "options": [
+        "It consumes oxygen, so he has to deactivate it briefly to breathe.",
+        "It drains his blood, so it can be used only once per hour.",
+        "It prevents him from moving, so he can activate it only while standing still.",
+        "It works only inside Morel's Smoky Jail."
+      ],
+      "answer": 0,
+      "explanation": "Meleoron repeatedly has to turn Perfect Plan off briefly to catch his breath and conserve oxygen.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "115",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_115_(2011)",
+        "title": "Episode 115 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q04",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What immediate tactical opening lets Knuckle land eight hits on Menthuthuyoupi in episode 118?",
+      "options": [
+        "Killua's lightning temporarily paralyzes Youpi.",
+        "Shoot's Hotel Rafflesia traps Youpi's arms.",
+        "Morel's Smoky Jail seals Youpi's aura.",
+        "Meleoron makes Knuckle invisible and immobilizes Youpi."
+      ],
+      "answer": 0,
+      "explanation": "Killua strikes Youpi with lightning, paralyzing him for several seconds; Knuckle uses that opening to land eight hits.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "118",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_118_(2011)",
+        "title": "Episode 118 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q05",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What attack pattern does Meruem identify while analyzing Netero's 100-Type Guanyin Bodhisattva?",
+      "options": [
+        "Netero must put his hands together before launching an attack.",
+        "Netero must step backward before every third strike.",
+        "The Bodhisattva can attack only when Meruem is facing it.",
+        "Netero's attacks always repeat in groups of ten."
+      ],
+      "answer": 0,
+      "explanation": "Meruem recognizes that Netero has to bring his hands together before the Bodhisattva's attack is activated.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "126",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_126_(2011)",
+        "title": "Episode 126 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q06",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What is the immediate result of Netero's Zero Hand before he activates the Poor Man's Rose?",
+      "options": [
+        "It does little to Meruem; Netero then uses the Rose as his final resort.",
+        "It kills Meruem, but the Rose is used to destroy the palace afterward.",
+        "It restores Netero's lost arm and leg, allowing him to continue fighting.",
+        "It traps Meruem underground until the Hunters can capture him."
+      ],
+      "answer": 0,
+      "explanation": "Zero Hand is Netero's strongest Nen attack, but Meruem survives it with little effective damage; Netero then triggers the implanted Poor Man's Rose.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "126",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_126_(2011)",
+        "title": "Episode 126 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q07",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Neferpitou's post-mortem Terpsichora do immediately after Pitou is killed by Gon?",
+      "options": [
+        "It keeps Pitou's corpse moving long enough to rip off Gon's right arm.",
+        "It resurrects Pitou with full consciousness and restores Doctor Blythe.",
+        "It seals Gon's Nen and prevents him from using Jajanken.",
+        "It transfers Pitou's aura into Killua's body."
+      ],
+      "answer": 0,
+      "explanation": "Pitou's devotion to the King causes Terpsichora to animate the corpse after death; the puppet-like body tears off Gon's right arm.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "131",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_131_(2011)",
+        "title": "Episode 131 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q08",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "As the wager in Meruem's contest with Pouf and Youpi is set, what restriction does Meruem accept for his own search?",
+      "options": [
+        "He may use En no more than once.",
+        "He may use En only for ten seconds at a time.",
+        "He may use En only inside the West tower.",
+        "He must give up En entirely and search by sight."
+      ],
+      "answer": 0,
+      "explanation": "Meruem accepts the handicap that he may activate En only once while searching for the other intruders.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "132",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_132_(2011)",
+        "title": "Episode 132 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q09",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "How does Palm help keep Komugi from being detected when Meruem uses En?",
+      "options": [
+        "She covers Komugi with her hair, hiding her presence from the King.",
+        "She places Komugi inside a Smoky Jail made by Morel.",
+        "She uses Wink Blue to erase Komugi's aura.",
+        "She disguises Komugi as a Hunter's corpse."
+      ],
+      "answer": 0,
+      "explanation": "Palm reasons that Meruem did not detect Komugi because Palm covered her with her hair; she keeps Komugi hidden in that way.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "133",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_133_(2011)",
+        "title": "Episode 133 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q10",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "According to the explanation of the Miniature Rose's aftereffect, what happens to people who survive its initial explosion?",
+      "options": [
+        "A poison degrades their organs and continues producing poison until they die.",
+        "Their Nen is permanently sealed, but the poison itself disappears within minutes.",
+        "They become immune to all other toxins but lose their memories.",
+        "They can survive if they remain within Meruem's aura."
+      ],
+      "answer": 0,
+      "explanation": "Episode 134 explains that the Rose's poison degrades organs and keeps emitting more poison until the victim dies.",
+      "spoilerLevel": "Chimera Ant arc spoilers",
+      "source": {
+        "episode": "134",
+        "arc": "Chimera Ant arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_134_(2011)",
+        "title": "Episode 134 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q11",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does the first election rule chosen from Ging's proposal establish about Hunters?",
+      "options": [
+        "Every Hunter is both a candidate and a voter.",
+        "Only Zodiacs may vote, while all Hunters may run.",
+        "Only licensed Hunters with two-star status may be candidates.",
+        "Hunters may vote, but candidates must be nominated by the Zodiacs."
+      ],
+      "answer": 0,
+      "explanation": "Rule 1 explicitly makes all Hunters both candidates and voters.",
+      "spoilerLevel": "Election arc spoilers",
+      "source": {
+        "episode": "137",
+        "arc": "13th Hunter Chairman Election arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_137_(2011)",
+        "title": "Episode 137 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q12",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "Under Ging's election rules, what happens to a ballot that does not contain the voter's name?",
+      "options": [
+        "It is invalid and does not count.",
+        "It counts only if the voter has a valid Hunter License.",
+        "It is counted anonymously after Beans verifies it.",
+        "It is added to the leading candidate's total."
+      ],
+      "answer": 0,
+      "explanation": "Rule 4 requires voters to put their names on ballots; anonymous or nameless votes are invalid.",
+      "spoilerLevel": "Election arc spoilers",
+      "source": {
+        "episode": "137",
+        "arc": "13th Hunter Chairman Election arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_137_(2011)",
+        "title": "Episode 137 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q13",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What additional enforcement measure does Pariston propose after the early election rounds fail to reach 95% turnout?",
+      "options": [
+        "Hunters who abstain or submit invalid ballots temporarily lose their licenses, while retaining the right to vote.",
+        "Any Hunter who votes for a losing candidate permanently loses their license.",
+        "The Zodiacs may cast two votes each in the next round.",
+        "All absent Hunters are automatically assigned to Pariston."
+      ],
+      "answer": 0,
+      "explanation": "Pariston proposes temporary license confiscation for abstentions or invalid votes, while explicitly preserving those Hunters' voting rights.",
+      "spoilerLevel": "Election arc spoilers",
+      "source": {
+        "episode": "138",
+        "arc": "13th Hunter Chairman Election arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_138_(2011)",
+        "title": "Episode 138 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q14",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What conditional instruction does Killua give Nanika to get past Silva's restriction at Kukuroo Mountain?",
+      "options": [
+        "Kill his mother if they have not left in half an hour; kiss him if they have.",
+        "Kill Silva if he refuses; heal Gon if he agrees.",
+        "Destroy the estate if Illumi appears; hide if he does not.",
+        "Put every butler to sleep if Killua is delayed; wake them after one hour."
+      ],
+      "answer": 0,
+      "explanation": "Killua tells Nanika to kill his mother if they have not left within half an hour, or kiss him on the cheek if they have left.",
+      "spoilerLevel": "Election arc spoilers",
+      "source": {
+        "episode": "139",
+        "arc": "13th Hunter Chairman Election arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_139_(2011)",
+        "title": "Episode 139 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u4-q15",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 4,
+      "difficulty": "expert",
+      "prompt": "What does Pariston do immediately after winning the final Hunter Chairman election?",
+      "options": [
+        "He appoints Cheadle vice-chairman and then resigns as chairman.",
+        "He appoints Ging vice-chairman and orders a new election.",
+        "He dissolves the Zodiac Council and keeps the chairmanship.",
+        "He gives the chairmanship to Leorio and leaves the Association."
+      ],
+      "answer": 0,
+      "explanation": "After the ninth round meets all conditions and Pariston wins, he names Cheadle vice-chairman and immediately resigns.",
+      "spoilerLevel": "Election arc spoilers",
+      "source": {
+        "episode": "146",
+        "arc": "13th Hunter Chairman Election arc",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_146_(2011)",
+        "title": "Episode 146 (2011) — Hunterpedia",
+        "status": "verified_secondary_source"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q01",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "During the Greed Island dodgeball match, how many numbered anthropomorphic Nen beasts does Razor create for his side?",
+      "options": [
+        "Four",
+        "Eight",
+        "Fourteen",
+        "Fifteen"
+      ],
+      "answer": 1,
+      "explanation": "Razor's ability is called 14 Devils, but it produces eight numbered beasts (0 through 7): seven can act as teammates and one can referee. The other six of the fourteen are part of the ability's broader game-fiction framing, not additional numbered beasts on the court.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "69",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Razor",
+        "title": "Razor — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q02",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "In Razor's dodgeball game, what numbered Devil results when Devil No. 6 fuses with Devil No. 7?",
+      "options": [
+        "No. 11",
+        "No. 12",
+        "No. 13",
+        "No. 14"
+      ],
+      "answer": 2,
+      "explanation": "The fusion's number is the sum of its component numbers: 6 + 7 produces Devil No. 13. The fused Devil catches a throw that an individual Devil could not.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "69–70",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Razor",
+        "title": "Razor — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q03",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What interest does Knuckle's A.P.R. add, and how often, while its target remains within the ability's effective distance?",
+      "options": [
+        "5% every 5 seconds",
+        "10% every 10 seconds",
+        "10% every 60 seconds",
+        "20% every 10 seconds"
+      ],
+      "answer": 1,
+      "explanation": "A.P.R. adds interest equal to 10% of the borrowed aura every 10 seconds, provided the target is within 50 meters of Knuckle. The debt can eventually force bankruptcy.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "90 and 111–114",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Knuckle_Bine",
+        "title": "Knuckle Bine — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q04",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "Which target is explicitly outside the things Shizuku's conjured vacuum Blinky can inhale?",
+      "options": [
+        "Blood spilled on the floor",
+        "A non-Nen metal object",
+        "A living person",
+        "A corpse"
+      ],
+      "answer": 2,
+      "explanation": "Blinky can remove nonliving matter, including crime-scene evidence, but it cannot inhale something Shizuku considers living or an object made of Nen.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "45–55",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Shizuku_Murasaki",
+        "title": "Shizuku Murasaki — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q05",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "In the 2011 anime, what exact phrase releases Countdown from a person who has been marked by Genthru?",
+      "options": [
+        "I defeated the Bomber",
+        "I caught the Bomber",
+        "The Bomber is gone",
+        "Release the Bomber"
+      ],
+      "answer": 1,
+      "explanation": "The victim must touch Genthru and say \"I caught the Bomber.\" Episode 75 shows Abengane use that exact phrase to remove the Countdown mark from himself.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "75",
+        "arc": "Greed Island",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_75_(2011)",
+        "title": "Ging's Friends × And × True Friends — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q06",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "Which rule about wishes is explicitly associated with Nanika's power?",
+      "options": [
+        "The same person may ask for consecutive wishes only after saying Nanika's name",
+        "The same person cannot ask Alluka for consecutive wishes",
+        "Only a Zoldyck may ask Nanika for a wish",
+        "A wish must always be made outside Kukuroo Mountain"
+      ],
+      "answer": 1,
+      "explanation": "One of the rules established through the Zoldyck family's experiments is that the same person cannot ask Alluka for consecutive wishes. Killua's special command is an exception to some ordinary wish restrictions, not a general repeal of this rule for everyone.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "139–146",
+        "arc": "13th Hunter Chairman Election",
+        "url": "https://hunterxhunter.fandom.com/wiki/Nanika",
+        "title": "Nanika — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q07",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "At the Hunter Association election, what does Leorio's remote Nen punch hit on Ging?",
+      "options": [
+        "His left shoulder",
+        "His chest",
+        "His jaw",
+        "The microphone in his hand"
+      ],
+      "answer": 2,
+      "explanation": "After Ging dismisses the need to visit Gon, Leorio projects a punch that strikes Ging squarely in the jaw and sends him flying from his seat.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "140",
+        "arc": "13th Hunter Chairman Election",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_140_(2011)",
+        "title": "Join Battle × And × Open Battle — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q08",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What is the immediate result of Netero's Zero Hand against Meruem?",
+      "options": [
+        "It kills Meruem instantly",
+        "It seals Meruem inside the tomb",
+        "It destroys the underground tomb but leaves Meruem alive",
+        "It restores Netero's severed limbs"
+      ],
+      "answer": 2,
+      "explanation": "The 100-Type Guanyin Bodhisattva's Zero Hand devastates the underground tomb, but Meruem survives the blast with little apparent damage and praises the attack.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "126",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_126_(2011)",
+        "title": "Zero × And × Rose — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q09",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What happens to Shaiapouf's small Beelzebub clones when Morel's smoke puppets break them in episode 120?",
+      "options": [
+        "They turn into ordinary smoke",
+        "They reform",
+        "They become permanently unconscious",
+        "They merge into Menthuthuyoupi"
+      ],
+      "answer": 1,
+      "explanation": "The broken miniature Pouf bodies reform, making the clones appear invulnerable to Morel's attacks. Pouf uses them to observe events throughout the palace.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "120",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_120_(2011)",
+        "title": "Fake × And × Real — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q10",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "How does Palm's Black Widow ability manifest when she confronts Killua?",
+      "options": [
+        "Her crystal ball becomes a shield",
+        "Her hair wraps around her body as a black dress and wide-brim hat",
+        "Her scales turn into metal armor",
+        "Her eyes project a beam that freezes Killua"
+      ],
+      "answer": 1,
+      "explanation": "Palm wraps her hair around herself, forming the Black Widow's black dress and wide-brim-hat appearance before attacking Killua.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "124",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_124_(2011)",
+        "title": "Breakdown × And × Awakening — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q11",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What two properties does Hisoka say make up Bungee Gum?",
+      "options": [
+        "Rubber and gum",
+        "Paper and ink",
+        "Water and oil",
+        "Steel and silk"
+      ],
+      "answer": 0,
+      "explanation": "Hisoka describes Bungee Gum as having the properties of both rubber and gum, which explains its stretch and adhesion.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "36",
+        "arc": "Heavens Arena",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_36_(2011)",
+        "title": "A Big Debt × And × A Small Kick — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q12",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What canon consequence did Melody say followed her hearing a movement of the Sonata of Darkness?",
+      "options": [
+        "She lost her ability to hear",
+        "She and the friend who played it were both transformed: she was deformed and he later died",
+        "She gained the ability to control every musician",
+        "She became unable to use Nen"
+      ],
+      "answer": 1,
+      "explanation": "Melody says that hearing one movement deformed her, while her friend—the person who played the piece—suffered a much worse transformation and died. Melody retained extraordinary hearing as the lasting ability associated with the incident.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "42",
+        "episodeTitle": "Defend × And × Attack",
+        "arc": "Yorknew City arc",
+        "url": "https://tv.apple.com/nz/episode/defend-x-and-x-attack/umc.cmc.7ehrb3cj5fti3q914ucah30im?showId=umc.cmc.6iubybdmze8hzxhis7q2gzmk3",
+        "title": "Defend × And × Attack — Apple TV episode listing (secondary verification)",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q13",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "Before removing the needle in episode 94, what behavior had Illumi conditioned into Killua when he faced an opponent he judged stronger?",
+      "options": [
+        "Run away rather than risk the fight",
+        "Use Godspeed immediately",
+        "Ask Gon to make the decision",
+        "Challenge the opponent without hesitation"
+      ],
+      "answer": 0,
+      "explanation": "Illumi’s needle reinforced Killua’s instinct to retreat from opponents he judged stronger; removing it lets Killua choose the fight for himself.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "94",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_94_(2011)",
+        "title": "Friend × And × Journey — Hunterpedia episode reference",
+        "status": "verified_secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q14",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "Why can Morel no longer summon new smoke puppets after Shaiapouf takes his pipe in episode 120?",
+      "options": [
+        "Deep Purple requires Morel's pipe to activate new constructs",
+        "Pouf seals Morel's aura permanently",
+        "Menthuthuyoupi absorbs all existing smoke",
+        "Morel's clones can only be made underwater"
+      ],
+      "answer": 0,
+      "explanation": "Morel's pipe is the necessary medium for creating new Deep Purple smoke constructs. After Pouf steals it, Morel is limited to the smoke he has already produced.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "120",
+        "arc": "Chimera Ant",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_120_(2011)",
+        "title": "Fake × And × Real — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    },
+    {
+      "id": "hunter-2011-u5-q15",
+      "series": "Hunter × Hunter (2011)",
+      "unit": 5,
+      "difficulty": "hardcore",
+      "prompt": "What restriction does Kurapika explicitly place on Chain Jail in episode 55?",
+      "options": [
+        "It can only target Zoldycks",
+        "It can only be used on Phantom Troupe members",
+        "It works only while Kurapika is unconscious",
+        "It can only be used against Specialists"
+      ],
+      "answer": 1,
+      "explanation": "Kurapika explains that Chain Jail is reserved for Phantom Troupe members. Judgment Chain is different: it can be used on anyone, although Kurapika must be in his Scarlet Eyes phase for that ability.",
+      "spoilerLevel": "Full-series",
+      "source": {
+        "episode": "55",
+        "arc": "Yorknew City",
+        "url": "https://hunterxhunter.fandom.com/wiki/Episode_55_(2011)",
+        "title": "Allies × And × Lies — Hunterpedia",
+        "status": "verified-secondary"
+      }
+    }
+  ]
+}
